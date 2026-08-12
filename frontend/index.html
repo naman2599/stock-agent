@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NSE Screener</title>
+<style>
+  :root {
+    --bg: #0b0f0d;
+    --panel: #10231a;
+    --line: #1e3a2a;
+    --text: #d7e4dc;
+    --muted: #6f8a7c;
+    --up: #3ddc84;
+    --down: #e2584d;
+    --accent: #f2b544;
+    --mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--mono);
+    margin: 0;
+    padding: 24px 16px 80px;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  header {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 1px solid var(--line); padding-bottom: 14px; margin-bottom: 20px;
+    flex-wrap: wrap; gap: 10px;
+  }
+  h1 { font-size: 15px; letter-spacing: 3px; text-transform: uppercase; color: var(--accent); margin: 0; }
+  .tag { color: var(--muted); font-size: 11px; letter-spacing: 1px; }
+  .controls {
+    display: flex; gap: 10px; align-items: center; margin-bottom: 18px; flex-wrap: wrap;
+  }
+  .tabs { display: flex; gap: 2px; background: var(--panel); border: 1px solid var(--line); border-radius: 3px; overflow: hidden; }
+  .tabs button {
+    background: transparent; border: none; color: var(--muted); padding: 8px 16px;
+    font-family: var(--mono); font-size: 12px; letter-spacing: 1px; cursor: pointer;
+  }
+  .tabs button.active { background: var(--line); color: var(--accent); }
+  select {
+    background: var(--panel); color: var(--text); border: 1px solid var(--line);
+    padding: 8px 10px; font-family: var(--mono); font-size: 12px; border-radius: 3px;
+  }
+  #runBtn {
+    margin-left: auto; background: var(--accent); color: #0b0f0d; border: none;
+    padding: 9px 18px; font-family: var(--mono); font-weight: bold; font-size: 12px;
+    letter-spacing: 1px; border-radius: 3px; cursor: pointer;
+  }
+  #runBtn:disabled { opacity: 0.5; cursor: wait; }
+  #status { font-size: 11px; color: var(--muted); margin-bottom: 16px; min-height: 14px; }
+  .disclaimer {
+    font-size: 11px; color: var(--muted); border: 1px dashed var(--line);
+    padding: 10px 12px; border-radius: 3px; margin-bottom: 20px; line-height: 1.5;
+  }
+  .card {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 4px;
+    padding: 16px; margin-bottom: 14px;
+  }
+  .card-head { display: flex; justify-content: space-between; align-items: baseline; }
+  .name { font-size: 16px; color: var(--text); font-weight: bold; }
+  .score { font-size: 20px; color: var(--accent); }
+  .row { display: flex; gap: 22px; flex-wrap: wrap; margin-top: 10px; font-size: 12px; }
+  .row div span.label { color: var(--muted); display: block; font-size: 10px; letter-spacing: 1px; margin-bottom: 2px; }
+  .up { color: var(--up); }
+  .down { color: var(--down); }
+  .headlines { margin-top: 12px; font-size: 11px; color: var(--muted); line-height: 1.6; }
+  .headlines a { color: var(--muted); }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; font-size: 12px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>NSE Screener</h1>
+    <span class="tag" id="genTime">—</span>
+  </header>
+
+  <div class="controls">
+    <div class="tabs">
+      <button id="tabDaily" class="active">DAILY</button>
+      <button id="tabWeekly">WEEKLY</button>
+    </div>
+    <select id="dateSelect"></select>
+    <button id="runBtn">RUN NOW</button>
+  </div>
+  <div id="status"></div>
+
+  <div class="disclaimer" id="disclaimer"></div>
+
+  <div id="list"></div>
+</div>
+
+<script>
+/* ====== CONFIGURE THESE TWO LINES FOR YOUR REPO ====== */
+const GITHUB_USER = "YOUR_GITHUB_USERNAME";
+const GITHUB_REPO = "stock-agent";
+const BRANCH = "main";
+/* Trigger endpoint - your deployed serverless function (see trigger.js) */
+const TRIGGER_URL = "/api/trigger";
+/* ======================================================= */
+
+const RAW = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/output`;
+
+let mode = "daily";
+
+async function loadIndex() {
+  const res = await fetch(`${RAW}/index.json?t=${Date.now()}`);
+  return res.json();
+}
+
+async function loadSnapshot(mode, date) {
+  const path = date ? `${mode}/${date}.json` : `${mode}/latest.json`;
+  const res = await fetch(`${RAW}/${path}?t=${Date.now()}`);
+  if (!res.ok) throw new Error("not found");
+  return res.json();
+}
+
+function renderList(data) {
+  document.getElementById('genTime').textContent = new Date(data.generated_at).toLocaleString();
+  document.getElementById('disclaimer').textContent = data.disclaimer;
+  const list = document.getElementById('list');
+  list.innerHTML = "";
+
+  if (!data.shortlist || data.shortlist.length === 0) {
+    list.innerHTML = '<div class="empty">No stocks in this snapshot.</div>';
+    return;
+  }
+
+  data.shortlist.forEach(s => {
+    const chg = s.indicators.pct_change_5d;
+    const chgClass = chg >= 0 ? 'up' : 'down';
+    const headlinesHtml = (s.headlines || []).slice(0,3)
+      .map(h => `<div>• ${h.title}</div>`).join('');
+
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-head">
+        <span class="name">${s.name}</span>
+        <span class="score">${s.score}</span>
+      </div>
+      <div class="row">
+        <div><span class="label">LAST</span>₹${s.indicators.last_close}</div>
+        <div><span class="label">ENTRY ZONE</span>₹${s.levels.suggested_entry_zone}</div>
+        <div><span class="label">TARGET</span>₹${s.levels.target_price}</div>
+        <div><span class="label">STOP LOSS</span>₹${s.levels.stop_loss}</div>
+        <div><span class="label">5D CHG</span><span class="${chgClass}">${chg}%</span></div>
+        <div><span class="label">RSI</span>${s.indicators.rsi}</div>
+        <div><span class="label">SENTIMENT</span>${s.sentiment.label}</div>
+      </div>
+      ${headlinesHtml ? `<div class="headlines">${headlinesHtml}</div>` : ''}
+    `;
+    list.appendChild(card);
+  });
+}
+
+async function populateDates() {
+  const idx = await loadIndex();
+  const dates = idx[mode] || [];
+  const sel = document.getElementById('dateSelect');
+  sel.innerHTML = '<option value="">Latest</option>' +
+    dates.map(d => `<option value="${d}">${d}</option>`).join('');
+}
+
+async function refresh() {
+  try {
+    await populateDates();
+    const date = document.getElementById('dateSelect').value;
+    const data = await loadSnapshot(mode, date || null);
+    renderList(data);
+  } catch (e) {
+    document.getElementById('list').innerHTML = '<div class="empty">No snapshot available yet for this mode.</div>';
+  }
+}
+
+document.getElementById('tabDaily').onclick = () => { mode = 'daily'; setTab(); refresh(); };
+document.getElementById('tabWeekly').onclick = () => { mode = 'weekly'; setTab(); refresh(); };
+document.getElementById('dateSelect').onchange = refresh;
+
+function setTab() {
+  document.getElementById('tabDaily').classList.toggle('active', mode === 'daily');
+  document.getElementById('tabWeekly').classList.toggle('active', mode === 'weekly');
+}
+
+document.getElementById('runBtn').onclick = async () => {
+  const btn = document.getElementById('runBtn');
+  const status = document.getElementById('status');
+  btn.disabled = true;
+  status.textContent = 'Triggering run on GitHub Actions... this takes 1-2 minutes, page will not auto-refresh.';
+  try {
+    const res = await fetch(TRIGGER_URL, { method: 'POST', body: JSON.stringify({ mode }) });
+    if (!res.ok) throw new Error(await res.text());
+    status.textContent = 'Run triggered. Check back in ~2 minutes and refresh this page.';
+  } catch (e) {
+    status.textContent = 'Trigger failed: ' + e.message;
+  } finally {
+    btn.disabled = false;
+  }
+};
+
+refresh();
+</script>
+</body>
+</html>

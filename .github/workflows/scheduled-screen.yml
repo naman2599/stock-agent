@@ -1,0 +1,42 @@
+name: Stock Screener - Scheduled Run
+
+on:
+  schedule:
+    # Daily at 9:00 AM IST (3:30 UTC) - runs before market open
+    - cron: '30 3 * * 1-5'
+    # Weekly summary Sunday 8:00 AM IST (2:30 UTC Sunday)
+    - cron: '30 2 * * 0'
+  workflow_dispatch:      # lets you trigger manually (from GitHub UI or the button/API)
+    inputs:
+      mode:
+        description: 'daily or weekly'
+        default: 'daily'
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily screen
+        if: github.event.schedule == '30 3 * * 1-5' || github.event.inputs.mode == 'daily' || github.event.inputs.mode == ''
+        run: python screener.py daily
+
+      - name: Run weekly screen
+        if: github.event.schedule == '30 2 * * 0' || github.event.inputs.mode == 'weekly'
+        run: python screener.py weekly
+
+      - name: Commit results
+        run: |
+          git config user.name "stock-agent-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add output/
+          git commit -m "Automated screen: $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
+          git push
