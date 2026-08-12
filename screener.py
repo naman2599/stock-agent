@@ -10,6 +10,7 @@ Usage:
 import sys
 import json
 import os
+import math
 from datetime import datetime
 
 import config
@@ -18,12 +19,36 @@ from technical_analysis import compute_indicators, score_setup, suggest_levels
 from sentiment import rule_based_sentiment, llm_reasoning
 
 
+def _clean_nans(obj):
+    """
+    Recursively replace NaN/Infinity floats with None.
+    Python's json module happily writes bare NaN/Infinity, which is NOT
+    valid JSON per spec - browsers' JSON.parse correctly rejects it.
+    This runs right before every write so bad data never reaches the frontend.
+    """
+    if isinstance(obj, float):
+        if math.isnan(obj) or math.isinf(obj):
+            return None
+        return obj
+    if isinstance(obj, dict):
+        return {k: _clean_nans(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [_clean_nans(v) for v in obj]
+    return obj
+
+
 def screen_stock(ticker: str):
     df = get_price_with_retry(ticker, period="6mo")
     if df is None or len(df) < 25:
         return None
 
     indicators = compute_indicators(df)
+
+    # If core price data is unusable (e.g. thin/gappy history), skip this stock
+    # entirely rather than shipping a NaN into the output.
+    if indicators.get("last_close") is None or math.isnan(indicators["last_close"]):
+        return None
+
     score = score_setup(indicators)
     levels = suggest_levels(indicators)
 
@@ -97,9 +122,9 @@ def _save_with_history(mode: str, output: dict):
     latest_path = f"{mode_dir}/latest.json"
 
     with open(dated_path, "w") as f:
-        json.dump(output, f, indent=2)
+        json.dump(_clean_nans(output), f, indent=2)
     with open(latest_path, "w") as f:
-        json.dump(output, f, indent=2)
+        json.dump(_clean_nans(output), f, indent=2)
 
     index_path = f"{config.OUTPUT_DIR}/index.json"
     index = {"daily": [], "weekly": []}

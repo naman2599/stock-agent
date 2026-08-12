@@ -103,7 +103,7 @@
     const TRIGGER_URL = "/api/trigger";
     /* ======================================================= */
 
-    const RAW = `https://raw.githubusercontent.com/naman2599/stock-agent/main/output`;
+    const RAW = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/${BRANCH}/output`;
 
     let mode = "daily";
 
@@ -131,8 +131,8 @@
       }
 
       data.shortlist.forEach(s => {
-        const chg = s.indicators.pct_change_5d;
-        const chgClass = chg >= 0 ? 'up' : 'down';
+        const chg = s.indicators.pct_change_5d ?? '—';
+        const chgClass = (typeof chg === 'number' && chg >= 0) ? 'up' : 'down';
         const headlinesHtml = (s.headlines || []).slice(0,3)
           .map(h => `<div>• ${h.title}</div>`).join('');
 
@@ -144,12 +144,12 @@
             <span class="score">${s.score}</span>
           </div>
           <div class="row">
-            <div><span class="label">LAST</span>₹${s.indicators.last_close}</div>
-            <div><span class="label">ENTRY ZONE</span>₹${s.levels.suggested_entry_zone}</div>
-            <div><span class="label">TARGET</span>₹${s.levels.target_price}</div>
-            <div><span class="label">STOP LOSS</span>₹${s.levels.stop_loss}</div>
-            <div><span class="label">5D CHG</span><span class="${chgClass}">${chg}%</span></div>
-            <div><span class="label">RSI</span>${s.indicators.rsi}</div>
+            <div><span class="label">LAST</span>₹${s.indicators.last_close ?? '—'}</div>
+            <div><span class="label">ENTRY ZONE</span>₹${s.levels.suggested_entry_zone ?? '—'}</div>
+            <div><span class="label">TARGET</span>₹${s.levels.target_price ?? '—'}</div>
+            <div><span class="label">STOP LOSS</span>₹${s.levels.stop_loss ?? '—'}</div>
+            <div><span class="label">5D CHG</span><span class="${chgClass}">${chg}${typeof chg === 'number' ? '%' : ''}</span></div>
+            <div><span class="label">RSI</span>${s.indicators.rsi ?? '—'}</div>
             <div><span class="label">SENTIMENT</span>${s.sentiment.label}</div>
           </div>
           ${headlinesHtml ? `<div class="headlines">${headlinesHtml}</div>` : ''}
