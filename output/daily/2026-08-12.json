@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:39:40.468830",
+  "generated_at": "2026-08-12T19:17:34.406451",
   "mode": "daily",
   "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
   "shortlist": [
@@ -67,11 +67,11 @@
       "score": 78.0,
       "indicators": {
         "last_close": NaN,
-        "rsi": 45.4,
+        "rsi": 45.9,
         "sma20": null,
         "sma50": null,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 3.07,
+        "volume_ratio_vs_20d_avg": 2.95,
         "high_52w": 9050.0,
         "low_52w": 7145.0,
         "pct_change_5d": NaN,
@@ -205,7 +205,7 @@
         "positive_hits": 1,
         "negative_hits": 0,
         "flagged_headlines": [
-          "Tata Steel, JSW Steel or Jindal Stainless? Jefferies, Goldman Sachs bullish on these steel stocks - economictimes.com"
+          "Tata Steel, JSW Steel or Jindal Stainless? Jefferies, Goldman Sachs bullish on these steel stocks - The Economic Times"
         ]
       },
       "headlines": [
@@ -220,7 +220,7 @@
           "published": "Thu, 09 Jul 2026 07:00:00 GMT"
         },
         {
-          "title": "Tata Steel, JSW Steel or Jindal Stainless? Jefferies, Goldman Sachs bullish on these steel stocks - economictimes.com",
+          "title": "Tata Steel, JSW Steel or Jindal Stainless? Jefferies, Goldman Sachs bullish on these steel stocks - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFQ2NGVLSWdzSUtfdU04bXpRLWlURXZ3WE81Z1BmV3ZLMG5xd2tqNFdvRjNIUzItX1V6alE2SERQMHBOVlVOX3ZVYVlSNmJfMmE0akp0R3NkRGFjTTJrdS1SU3VMTEYxUVl6UVV1cjhYdF9fd2JidmZJZXlUWkdvM3lPUlVsYVkyLW81SVVJcm0wUXo5Q1V6YnUxcUJXUkhkcWNfZVZ5SWxxTDRDQTEzU0xTUkdqdmlyLUJLSVpDa255WlFJdG1BSHFjQXpURlFZajNrZ21aX29lTEtsNjRiSUJJYjdyU3BfYllLWGRkYnlEOGxvWDliVHkxdW7SAYICQVVfeXFMTS1pU2NpRjVmT21uS2lhTkRESVhpN0ZoaVVUR1VXLWEwSGNDZ0kwYm15UEVfNk5yeFdMNEE1ZjRRd3YzOTkxUWNnRWtxcnl3N2lJWFVscWZCTGF1U3N0TG9oTlJCS3JxS2xkOWR0ZS10OS02dkpfVDdCZk5MTzZVTHYyU3UtVERmSjM5X2JNWVdwZGRaRkNwSnRxSHE1RmQxbXJEYnBUQlBlRTdBT2R4dVNKdXo4WjdWM0hEX0lZLUN4cmRfb09pQXVDN1lkWFIzdEdxYU9HVDNMX3BWalVNZXo1NHVPVzJmODVjTzlfVS1BZzJRUGJwZTdNa2Y3eDdIZElR?oc=5",
           "published": "Mon, 27 Apr 2026 07:00:00 GMT"
         },
