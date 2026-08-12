@@ -11,19 +11,18 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")  # groq.com has a generous free tier if you want an LLM for free
 
 # --- Stock universe (NSE tickers, .NS suffix for yfinance) ---
-# Starter list = Nifty 50. Expand this list any time — it's just tickers.
+# Starter list = 15 large-cap, liquid Nifty stocks. Kept deliberately small
+# right now because Yahoo Finance rate-limits cloud IPs (GitHub Actions
+# included) - fewer requests per run = far fewer failures. Once you've
+# confirmed runs succeed reliably, expand this list gradually.
 NIFTY50 = [
     "RELIANCE.NS", "TCS.NS", "HDFCBANK.NS", "ICICIBANK.NS", "INFY.NS",
     "HINDUNILVR.NS", "ITC.NS", "SBIN.NS", "BHARTIARTL.NS", "BAJFINANCE.NS",
     "KOTAKBANK.NS", "LT.NS", "AXISBANK.NS", "ASIANPAINT.NS", "MARUTI.NS",
-    "SUNPHARMA.NS", "TITAN.NS", "ULTRACEMCO.NS", "NESTLEIND.NS", "WIPRO.NS",
-    "ONGC.NS", "NTPC.NS", "POWERGRID.NS", "M&M.NS", "TATAMOTORS.NS",
-    "TATASTEEL.NS", "ADANIENT.NS", "ADANIPORTS.NS", "COALINDIA.NS", "JSWSTEEL.NS",
-    "HCLTECH.NS", "TECHM.NS", "DRREDDY.NS", "CIPLA.NS", "DIVISLAB.NS",
-    "BAJAJFINSV.NS", "HDFCLIFE.NS", "SBILIFE.NS", "GRASIM.NS", "BRITANNIA.NS",
-    "EICHERMOT.NS", "HEROMOTOCO.NS", "BPCL.NS", "APOLLOHOSP.NS", "INDUSINDBK.NS",
-    "UPL.NS", "TATACONSUM.NS", "SHREECEM.NS", "HINDALCO.NS", "BAJAJ-AUTO.NS",
 ]
+
+# Full Nifty 50 - swap this in once the smaller list is running reliably:
+# NIFTY50 = [ ... paste the full 50 back in ... ]
 
 # --- Screening thresholds ---
 RSI_OVERSOLD = 35        # below this = potential buy zone

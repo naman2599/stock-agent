@@ -14,7 +14,7 @@ import math
 from datetime import datetime
 
 import config
-from data_fetcher import get_price_with_retry, get_news_headlines
+from data_fetcher import get_price_with_retry, get_news_headlines, polite_delay
 from technical_analysis import compute_indicators, score_setup, suggest_levels
 from sentiment import rule_based_sentiment, llm_reasoning
 
@@ -82,6 +82,7 @@ def run_screen(mode: str = "daily", use_llm_reasoning: bool = False):
         r = screen_stock(ticker)
         if r:
             results.append(r)
+        polite_delay()  # space out requests, don't hammer Yahoo in a burst
 
     results.sort(key=lambda x: x["score"], reverse=True)
     shortlist = results[:top_n]
