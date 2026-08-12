@@ -13,6 +13,8 @@ import os
 import math
 from datetime import datetime
 
+print = lambda *args, **kwargs: __import__('builtins').print(*args, **{**kwargs, 'flush': True})
+
 import config
 from data_fetcher import get_price_with_retry, get_news_headlines, polite_delay
 from technical_analysis import compute_indicators, score_setup, suggest_levels
@@ -39,8 +41,13 @@ def _clean_nans(obj):
 
 def screen_stock(ticker: str):
     df = get_price_with_retry(ticker, period="6mo")
-    if df is None or len(df) < 25:
+    if df is None:
+        print(f"[skip] {ticker}: no data returned at all")
         return None
+    if len(df) < 25:
+        print(f"[skip] {ticker}: only {len(df)} rows returned (need 25+)")
+        return None
+    print(f"[ok] {ticker}: {len(df)} rows fetched")
 
     indicators = compute_indicators(df)
 
