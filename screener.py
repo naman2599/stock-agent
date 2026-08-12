@@ -44,14 +44,16 @@ def screen_stock(ticker: str):
     if df is None:
         print(f"[skip] {ticker}: no data returned at all")
         return None
+
+    # Drop any trailing empty/NaN rows returned for incomplete market days
+    df = df.dropna(subset=["Close"])
+
     if len(df) < 25:
         print(f"[skip] {ticker}: only {len(df)} rows returned (need 25+)")
         return None
     print(f"[ok] {ticker}: {len(df)} rows fetched")
 
     indicators = compute_indicators(df)
-    print(f"DEBUG {ticker} last_close:", indicators.get("last_close"))
-    print(f"DEBUG {ticker} raw close tail:\n{df['Close'].tail()}")
 
     # If core price data is unusable (e.g. thin/gappy history), skip this stock
     # entirely rather than shipping a NaN into the output.

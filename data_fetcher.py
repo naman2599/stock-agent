@@ -32,6 +32,12 @@ def get_price_history(ticker: str, period: str = "6mo"):
         df = t.history(period=period)
         if df.empty:
             return None
+
+        # Strip trailing incomplete/empty rows returned by Yahoo Finance
+        df = df.dropna(subset=["Close"])
+        if df.empty:
+            return None
+
         return df
     except Exception as e:
         print(f"[price fetch error] {ticker}: {e}")
