@@ -1,0 +1,9 @@
+standalone_server.py
+screener.py
+config.py
+data_fetcher.py
+technical_analysis.py
+sentiment.py
+requirements.txt
+__pycache__
+*.pyc
