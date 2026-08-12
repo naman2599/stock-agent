@@ -1,0 +1,299 @@
+{
+  "generated_at": "2026-08-12T18:39:40.468830",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "SBIN.NS",
+      "name": "SBIN",
+      "score": 78.0,
+      "indicators": {
+        "last_close": NaN,
+        "rsi": 57.9,
+        "sma20": null,
+        "sma50": null,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.53,
+        "high_52w": 1206.06,
+        "low_52w": 939.4,
+        "pct_change_5d": NaN,
+        "pct_change_20d": NaN
+      },
+      "levels": {
+        "suggested_entry_zone": "nan - nan",
+        "target_price": NaN,
+        "stop_loss": NaN,
+        "risk_reward": NaN
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "State Bank of India (NSE:SBIN) jumps 4.2% this week, though earnings growth is still tracking behind five-year shareholder returns - simplywall.st"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "State Bank of India (SBIN.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0U3ZZRDV3VlZGakJnVXRfanM4QnFIUnI5VldZc2FkMjBNSjZGdlJwVjRpajhQbml6ckU0MmFuTm5GR1JtdjlDM21NQ294ZnlEcjFtZm53?oc=5",
+          "published": "Sat, 08 Aug 2026 22:05:33 GMT"
+        },
+        {
+          "title": "SBIN Outlook for the Week (August 10, 2026 \u2013 August 14, 2026) - Equitypandit",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RQjVNcXM1Mmp0d0NaT1NMUWh5S1ByaDdEeGlQQkd5TzgwbkpwNTUyOVRZRnVaVHBhSkZYU1VDQmhZLUJ4TkZJNU1SbUFRSTgyUHFQMjBSbzJlUEtvTGptM29QNEdMZw?oc=5",
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "State Bank of India declares dividend of \u20b917.35 per share - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWpNeEliOG5YV2xwRnJfUVJOalYxNVVqSUFJSmd5ZlNZMWtwQlZaQzBjZmJlY2YyR3E4T0ZvbFNPTjBNY2VIMW1wX2FFVHZxamJLa1l0ZDFsWHgwRU0yQWpNRHNmMXRLSHo5ZlZpZXozZnFsaXZKVGFtZE1kLUR3Y2NaQlQyLVp5UW0zdHltaGo5RG1iYWw1Ylp0a3liOHhJdWRIaEZjVi1ZWlMtNG1hcERR?oc=5",
+          "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "State Bank of India (NSE:SBIN) jumps 4.2% this week, though earnings growth is still tracking behind five-year shareholder returns - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejBkUnM0Sl9WdVdLWFV3dElHQTczSVY0OVFMRTZoUVlHWVFWTnEtTzlzRFYydC1IdFhWOXN4SjIwRmdkZDVXX3hOcnppTU9MYkMwU1dZMlM1b25QRngyanRLTXFTRDR3TWV2VDMwb2tGMGMya3ZySVhVVU1kYXRrRnQ2UnBzdS1yY1hMalJLeFJFUVBGRG9lRnJWZTNvaU9HbFBZd2NHUU1kZ3k4SEs4a0ROZVVpNEtzb3dyMVdmZWFEbmNXLUVzN0VGMWRYMFdOYUI5MHJ30gHbAUFVX3lxTE5rcjFDNmFLSk5jTVFXZlBIUFV3SzhBR2N5MDV1bUtNRHY1dmplY2FxRjJndEhBa3JIX19yOWpCY1YzQ01ueGlZcUxIVHlsYlQtdjJURGZqVmtOemxNVndCQnI2MXpUOE5NbkV3bkV5b1hiQW5PSC1XNTBHSjl5d0hHWjUtUWxlUTdnUWNvVVpSTUh5NlFYVFdXaVJXMmdOcW51eVg0TDVkUEtQUUkwOWhLNjljTkJxVnNkaUZoRXAwaElGOGRoZGExME15MjhDM2p0WmhSdFlLaVhJVQ?oc=5",
+          "published": "Mon, 19 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Key facts: SBI shares drop after budget raises borrowing targets; Q3 results on Feb 7 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaWFIVE5IRHg0aXdZcTRoaURzbnlERUJ2NHFHMDlMTUJ6QVhDeVJFbXBhUExLXzQ1VGczdHcxd2JkRDZFZ0Y0djlzYWJ1Z2JOcGNWVHhVN21VWHdNR1hTTGtHemMya1d1d1dDa2tLN3hQSjNoLXcxZFhtbmx1RGp5QWRuNkgtbjNjdWthR0hKMlo0dEZPekJFRVJTbHVRaXZfTXd2STBUNHo0ZVNjYXROdERPTjAxNjNEeEFObS1yTjUtZDZ2dlBFeVpQRENwLTQwelRoUWp5LUhuLW5XZWc?oc=5",
+          "published": "Sun, 01 Feb 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "name": "APOLLOHOSP",
+      "score": 78.0,
+      "indicators": {
+        "last_close": NaN,
+        "rsi": 45.4,
+        "sma20": null,
+        "sma50": null,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 3.07,
+        "high_52w": 9050.0,
+        "low_52w": 7145.0,
+        "pct_change_5d": NaN,
+        "pct_change_20d": NaN
+      },
+      "levels": {
+        "suggested_entry_zone": "nan - nan",
+        "target_price": NaN,
+        "stop_loss": NaN,
+        "risk_reward": NaN
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Top gainers and losers, May 8: Titan up 4.8%, Apollo Hospitals surges 3.4%; State Bank India down 6.7% - Upstox",
+          "Apollo Hospitals Enterprise's (NSE:APOLLOHOSP) investors will be pleased with their strong 154% return over the last five years - simplywall.st"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "There's A Lot To Like About Apollo Hospitals Enterprise's (NSE:APOLLOHOSP) Upcoming \u20b910.00 Dividend - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUN0QVhrOXZfT2JiMm5BVUF2b3U0TDI0Qy1tV3Y5YnBMSWJPLVBKTUcwajFrTnZJRXRhRU1iNjJQUnQ4N2RGRmlGTUFodUFUUWlFSlVhN0VqVElnYlQ0eHlWM0E5Z29DZnVFdzRaM3JfTHJwMEVzM0szamItSHR4dXVIeW1yNDRrSzAxekFjOVFqc0phX1JicXR0X2tnQkNWZGNsRXNpR3dzWUp0UWJLNUdjTzI4MHFxdHN6eUg0S1ZuTFRvZERGVElPRG5CMkRPeEo4S1B0UEt1cmJfT2N2UXJsNzhEaVQ0YjRQbmVJUdIB9AFBVV95cUxQb09oTTRGb3pTMkVkTGhqSk5iajJpM3VpUUc0c0FCWXZmVHI0TV9EOWgxcmdDcm9UVmZpRTZUSUNUbTkxX1lYT3NRM2hwT2lkR2xvRjV3aHFuc0h0LURuTmdERmdWZV9oUm4yYS1pSHFxMjFGRU1UNzk5cHQxMlVkSWZhcThvV1Vvd3NEXzhqZU5BSUNzVnpsbFRDeWZtNGZPbC1DSFhBZzVDUERMZVZXXzZRaHdaMWRpQnZ0VkZ5M29tdHI3ek9CMnBwRW9kcHc1NUdjUlpkbXpNQ1JPbGZDUk1PZXN3QWJIVzk0R0pGT3JNZEd0?oc=5",
+          "published": "Mon, 10 Aug 2026 00:31:41 GMT"
+        },
+        {
+          "title": "Top gainers and losers, May 8: Titan up 4.8%, Apollo Hospitals surges 3.4%; State Bank India down 6.7% - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY1ZPZmFvOER6T2d3UWNRZGt4enoycDZuX0tPZ1h3SHpGdEQyVmxCcVp4OHMtdWpXNjF4dXIycHFUY3BjbncxNzAtMGszTmxOc3FRUDdPYjYyc0ZPNy1QSEo0Y2pNYTdNNnhrRXo1V3pBbTdxcmhoaUQ0NkE2ZGFPMVZnSi1uaWJJZ29NSnFSbEc2VjkwVUFud0dXcHFsQnh0TUxWYlRzb0o1bnNPZ3l0MndZSm5JbldFb2FkY1JieTVxemRZWEJ0LXZiTGdEbzhBaVhlVm9OS3NDdEc3UjVPT0NFQXJDUldVb3c?oc=5",
+          "published": "Fri, 08 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Apollo Hospitals Enterprise's (NSE:APOLLOHOSP) investors will be pleased with their strong 154% return over the last five years - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSmtIR09aR05Wel9sV0R1aEd3X3U2QTRpblc3VWUtN3B6MlAteXJiX1F4Ym9CSUJZMkFIdkppYzdpalJJV3psRU9EbDk4SWZGb3owbXFjMlNYVmN2Um8xUzI3U3lGNzlIVUJkLXZfQUhHNi1NRDZZb1RLQl92TDA1XzVVN2dQRDdGeEtFRjQybkRvR1A4QndTbUFaYlNwUG42MnpHbmVTNnl3Mkp5UVhiZl9RUl9Vd08xRnZWOURZUVBxT2ExTE1vd2lFR3lSeXJjZ2V1Mjg4Ql9QZVh4OGo2Q1BHWE4tbjktRENVSWpWdVZ5Z9IB9wFBVV95cUxQUFVpQWJ6ejlmbVRKYUJJRGRsbTl2aXNyMFJ1eXhWMG15Y1NQWkdUTmN1dE1SaS1LaVdRZXdrb01NVmZwSVJLeTBsczlzeHY3RWNzR3J3a2EzNlh2d01UaEFtRVRrS0NubjdySU11SVpxaGZjR1VNaHJobXU5MGFxWGZSRm8tREg1ekpORUF2VXZpRld4UEdzUnZLLTRWMy1STHpNTEZwNjExM1cxY3lzYUxheV9DME5RTE5rSk5GT3QxUDdZcmhGU2JmMjVYYnBiRkgwdzRxX1VLM1dtczh3ejRMTm9xNU40d3pZdXQteWljRzVzVmdR?oc=5",
+          "published": "Wed, 28 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Trading Radar For September 15: Tata Technologies, Vedanta, Railtel, Info Edge, Apollo Hospital Stocks Are On Investors\u2019 Watchlist - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOVNmWElCeGZaOFJYV2hLVHNxb3ljYWV6cVRyTFA4WnUyQXd4RFpEeE1xREhiVFNhWnVKSVFSU1pZZXFRZGJnNm1sZVpWUmw1WWMtTXNvZm54SUFPM2tkeGRweURuX3RFVmsxc2w3UkEyZ00tZzdzX19OQXBvTW9MU2FkZ2RKcXdaa25HWFlzdUN3azE2bG00NmVULXVnUUg3T3ZEaFQ3ZFpnMkpXcWpYOURlbVVKQlk5eVN6R0d1Y2VrQUo1b25ucV9nV05qWWJ1LVNjQktDM2N0SlNUREdneFZkRW5nSEFKTWFrRWwzMTREQXRpMWd4TGtOamVWeXVpVmFXalVDeTNCM0ptWlRmdnJUN3lTeXc?oc=5",
+          "published": "Thu, 05 Mar 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Apollo Hospitals Gains 3% on Spin-Off Announcement - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEVWcG9vRU9Rb3RrQ0VmZlB6RXlIV2k2Y1F5S3YtcHZlTjJfV25JbGptcGR3U21ua3ZlUFhVV1Y1ZUZ0VDd0ZVlWYTJIOUI2NHlQeFhFTklEVW1zZ3phNzYwb1JwWkY4UUtTNDBaeVlsWk5XRmZFN0tCZVNNdERwMjdVeklndw?oc=5",
+          "published": "Wed, 26 Nov 2025 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "name": "BHARTIARTL",
+      "score": 70.0,
+      "indicators": {
+        "last_close": NaN,
+        "rsi": 48.7,
+        "sma20": null,
+        "sma50": null,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.8,
+        "high_52w": 2004.18,
+        "low_52w": 1734.97,
+        "pct_change_5d": NaN,
+        "pct_change_20d": NaN
+      },
+      "levels": {
+        "suggested_entry_zone": "nan - nan",
+        "target_price": NaN,
+        "stop_loss": NaN,
+        "risk_reward": NaN
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Weekly Recap: Q1 FY27 strong earnings and 79% Africa stake upside - TradingView"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Bharti Airtel Limited (NSE:BHARTIARTL) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnU1cE5DVDlQVkpZVXdtWEpYVkpaN2tGN2loLWlZQ3VZYm9qd2FsMlVicnUzUTVpT2JLZFVzZGdyM2FfOTdUQVc3NEdtZ056bEJOSG5PNkROWFdVM3dlZXFuaGpkeWtvX1IxVGU0dGV3a2JZOGJXWUV4Wk9KVmlkRmMtUHZCN0czRUpsRkJ5YU1jM0R3dkxtSEh2TUNtTVNzdmIyQ3J4akk2cjdOd1lKNXdvelIwcnZoUnNWcWdVTzEwcVFVLXRIZlNvZ1g4Q1dxRGNQY3hFdFrSAd4BQVVfeXFMTXVWV2lwMUZPR1VEZmNIbDF2NVNqWktKY1pNbnZHb3dYN21pbUtGUWhacWpQRG9UM0ZjeGdUa1hkNVFJMUU4TFNNN0w5bks3ZkNoby00UTQzTWYyM0l6X2FVVmVmd2lxVEdXY002bVBUazZicnZ6UXJjR21aX19DNjlVSnV3WXJUWnB5dkdUOTNVbVdqRzNjREo2a1BwSk9OZC1CWGs4MHZKSHBTaDVHNnBtOU03TWtKRWVYemZGWjVHdDFwNG13aERBVFNDWmJPLWhRdUtpS1I2U1dkOWx3?oc=5",
+          "published": "Fri, 07 Aug 2026 00:29:44 GMT"
+        },
+        {
+          "title": "Weekly Recap: Q1 FY27 strong earnings and 79% Africa stake upside - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZHEwZjVuanlOWVhFUnBIQm5qcXBVZmlIc3V3NWVOMF9uVzR4bEhfVFZlclFMTTcwVlhpaHowWmJ6OFdyMlhYZjNEVklUOHUtSzJwb0dORmhlMjk3RGs5Y2hLWjRZVGdpY2FRckUzMzhjem1yaUFZNzNwTzQ3NF8td3hSNUliTFplaHRpZHpPeFVSOXR6emw1ekNVcEZqN2xULVg2NnJGRnpBTkhVMVY4OGRrNmpFcTY2VlZDQmtHU3FFRTg?oc=5",
+          "published": "Mon, 10 Aug 2026 01:14:00 GMT"
+        },
+        {
+          "title": "Dividends, bonus issues, stock splits this week: Bharti Airtel, Hero MotoCorp, Info Edge, Pidilite, Divi's Labs, Abbott India, others in focus - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxORHdRRk5WaE9pcHZ5NVNRMXBmRFItOUkwMjFxbGJ4SXMwVU9KN0VsNE5yWUE4YndQY3Q3dkF2RG12dWpxdkxsZ0VxbzYtdmJMWGlJVmRqWDFKZ05FQ3JGcHJxVFd5WE95SF9laW9zX1l2V09LVVZYclNCWDZhZmxCakhPZkNUaDFsU3ZtcWVMTU9tNEY1ZDhldjBBRmVXLVBfanBtSm9ScXlKYnNNTmxBZFdTTzZLXzJ2UUlsdlVBcG1rWGtEaXcxZHhKcmN4akNMVk9qWkFSUFc3VWNUZk0tdWZPeHI3UjNwYWcycFhTVmR3c2F1c2VEN2dfUFlwTkd5TkZFZnIyR2k4T3BxTV9LWWxSMEEyOGd2M0FZazNn?oc=5",
+          "published": "Sun, 19 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Bharti Airtel Sees Rs. 38.17 Crore Block Trade on NSE at Rs. 1832.50 Per Share - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQnp0S0k2cUUxZFhHcWJHbU94ZWduZjF2el85UlU0d2VBX3lWWlhVOGFIekFDMzQzeGh6S21HeDdtRDFoQkdqaHpMTzBoNG5KMHV4ajYwUHhPSmdBTXdwZHNzRDBwS1hWWmFFa1JkYmJscHFaNUt1ajRKX3l6dWVZbnRIbzdTX0V5TGF2SWZSckNGbU0yWGpGS0tSQWczSUlGai1BajJzTHRJM0Jhc1NRczNmYlZIcDR3TFV2VlpnUnh4T3o2YUVEMkRRanJoMXp5SUE?oc=5",
+          "published": "Tue, 03 Mar 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Airtel Expands 5G Network With 2,900 New Sites Across North - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG50U3owd1Y0YlV3ZGh4UlhhMnRrQ3R6bGVLT1RUZVZnUzNhbXVWWTVhWl9UZ284Y3Q4Mm1rLU96ZFFPdGJ2WkZaanRrWWM1aVZMekN0RnJkWWZBU0syZ2I4U2NjZUdpaDZ4MW1icmpVVEtjQ2Q0U09Vb0F5Zi03Z2ZTMFRqSm0tbjBqQ01XQTBDMERvQklGTVdfOWoyNVluLTZYMFJOOWFSVGs?oc=5",
+          "published": "Wed, 10 Jun 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "name": "TATASTEEL",
+      "score": 70.0,
+      "indicators": {
+        "last_close": NaN,
+        "rsi": 48.3,
+        "sma20": null,
+        "sma50": null,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.76,
+        "high_52w": 216.66,
+        "low_52w": 179.8,
+        "pct_change_5d": NaN,
+        "pct_change_20d": NaN
+      },
+      "levels": {
+        "suggested_entry_zone": "nan - nan",
+        "target_price": NaN,
+        "stop_loss": NaN,
+        "risk_reward": NaN
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Tata Steel, JSW Steel or Jindal Stainless? Jefferies, Goldman Sachs bullish on these steel stocks - economictimes.com"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Tata Steel shares trade lower as muted Q1 update fails to impress investors; key details here - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMXAtVmhZVUdqeUN1WU9teGdKRnFqS3RlRzhwRjMxV0sxZTdXWThCelZKc0pidGhNN3lKUzJROVNQVHBHaVFTTUxZOW1hbnNkbHB1NHo4TzVLZGNzT0dzdXg3LU9WU3U2blBEdmRpRmJFU2VDZUZ4d1lGaWpFam1Icy1ldnduWjJ5cVA1cUNHYTV3a0dXZi00SkJsY2M1QnRIUkgwUXZ3dDE0NDZPeDlWU2pTTXJHaHhPQnFzWDJRc3Q0U1lna3p5UG9tNkc5c0N3dnVRTG50Nmd2bmM0TGNIeDI1NWh5QQ?oc=5",
+          "published": "Wed, 08 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: SBI, TCS, Tata Steel, Iware Supplychain, NLC India, Graphite India, TVS Motor,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPME1qS2hSVVBhQk5YaUZldXVYTXhDUUMtRm9pVmUydjBldlVmenYxRGJpR2EycVMweEJ5ZmlaeTY1OUxISjhXWHRJNmxwN3BfX3JkUDJ3c0loTW5DOTd4Tm1oV3JJSnk4SzhyODctT2M0dG1oQktPd2dPT2huRHd2V01ROWFSNFZrUkI2MVdnQXNGVzdLUjlVUVdFakI3VUVxd0FOVWhmcWNSdl9XWnFTcnEzUnNvWjhmcmdVSHFVRTZFa3JUTXlPMHRUcU1LVE1tZWNTTHpDREFxbzgxbjBUTHg4QkI0ekRISHRadzcxcDdVaXU5T2tmeFRCTnEzakE0SDA5Z3JCWVBQLXJfcjViOG54Z1huZWpVNEw40gGgAkFVX3lxTE1wLVdFRkhzS2Yyd09VaGppTTk5NWstbGFxd0ExRFZ1YzcycWNnRnhfdnU4dFVBSUFIdE1WT0xwdmpZTkdNcXlXZll2RnljeU5Hcl9UUV9rM29FbVdtbHJpTmZaVkRQd0s5Ynd5aWFEM0JsUnJ2Qm5TOHJleXpBUjAyWmRqMk1FV0lzbDAwRFNPR29SMkdmSmd4QjJtc2NqakN6eHBGRDV6SHNfNjhHa2R2UF9IT3daQTVLUGtoc1pMeVRqeHl3dUVMM3hHUHg5Z2pwb0x1OFl0bDlVZU5TMEhISFdfdTBRMjZiZHFieWdHV1R4QXdPVFlYYWp6NUFnRVRhelRHeVZ6TnU5TDR1TXE4X2pHTUNjbU9kR2RhOFFsYw?oc=5",
+          "published": "Thu, 09 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Tata Steel, JSW Steel or Jindal Stainless? Jefferies, Goldman Sachs bullish on these steel stocks - economictimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRFQ2NGVLSWdzSUtfdU04bXpRLWlURXZ3WE81Z1BmV3ZLMG5xd2tqNFdvRjNIUzItX1V6alE2SERQMHBOVlVOX3ZVYVlSNmJfMmE0akp0R3NkRGFjTTJrdS1SU3VMTEYxUVl6UVV1cjhYdF9fd2JidmZJZXlUWkdvM3lPUlVsYVkyLW81SVVJcm0wUXo5Q1V6YnUxcUJXUkhkcWNfZVZ5SWxxTDRDQTEzU0xTUkdqdmlyLUJLSVpDa255WlFJdG1BSHFjQXpURlFZajNrZ21aX29lTEtsNjRiSUJJYjdyU3BfYllLWGRkYnlEOGxvWDliVHkxdW7SAYICQVVfeXFMTS1pU2NpRjVmT21uS2lhTkRESVhpN0ZoaVVUR1VXLWEwSGNDZ0kwYm15UEVfNk5yeFdMNEE1ZjRRd3YzOTkxUWNnRWtxcnl3N2lJWFVscWZCTGF1U3N0TG9oTlJCS3JxS2xkOWR0ZS10OS02dkpfVDdCZk5MTzZVTHYyU3UtVERmSjM5X2JNWVdwZGRaRkNwSnRxSHE1RmQxbXJEYnBUQlBlRTdBT2R4dVNKdXo4WjdWM0hEX0lZLUN4cmRfb09pQXVDN1lkWFIzdEdxYU9HVDNMX3BWalVNZXo1NHVPVzJmODVjTzlfVS1BZzJRUGJwZTdNa2Y3eDdIZElR?oc=5",
+          "published": "Mon, 27 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Top stocks in news: Tata Steel, Coal India, SAIL, Power Grid, REC, Adani Ports, RBL Bank - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdEFpZERmT05TWGhhdVpWTFY5cTBZM2tlbHRvUWJadkJVMHZRcHIyRjQtb2xjd0JieU9oN01maHVFV2x1OXYwdk91VjhmdW8tekVaYlBNQVo0VGl0bEVwakJsa0RQeHF6MTFnVjAtRGRGMVo3MERzX0hCNUY5eUNNdV80YXFiRFZMbkVKbFNtZm5rbklOdEQtbUlteUptakxXa3pJNnY1a3ZIQ1dwY1ZCd3NFY041SDVpTFZMNmJRQW1sRjJmakxIWjcxbmY1QlBfb0gtNFBmVG9fVkdDUlNsSVUxa9IB6AFBVV95cUxOTGhPS0xkVzZuenJ6TUYtcldyS2FkYkdta09Ld3ctUm0yazVTVm5rYzNRcklKTzNYMF9TODdEVF9Ka2pvUWV4b3VIY2tOcWVIZE1oU2QtbnR6aE43ZnRIbFZiOFpJSGd4V3haczk4ZF90ZDdxRTVBSFZ1ZF9SVjhrQkJURmJuSExtek5VWlBUbTczMTRKQW85aG5uenNtREJHWmZCR0p2cTZkOUFnQmc5aUVyQmhlYkJ2QVJ6R3FNRDJDRWhTcHFLaDRxZDlnMXg5blZLZkhic0NCY3lFSFBBMWNoOTQ3d1po?oc=5",
+          "published": "Mon, 18 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Hindalco, Nalco, Tata Steel among top metal bets by HSBC; tech view here - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN1R1dmdBX3hRckxGUldSbzNIX0ZFRXFHWDlfNWZtX0pWdkFUclJ4VTVOaHBhZTRMcE9PdHF6aEI4YnVIU1ZuQVEyNmxSV003MEoydTJacU5jOWd2MmJPNDlYV05mS1Bva1g0aHZhTXJhdXhDLVctNDZfUTZWZXhNT2lUcjVOUnV6MFUzdjREeXRVZzBoVWNZV3hVeDFuOWVBQmxicldSaHFmUlR0N2taNFo1OG1sQzYwdmVycHd3T19MU0Q3TWNQWFdkZS0tanJrRWfSAdcBQVVfeXFMTkdjbEhSUWctcEJsOFE3OGVMeHZPaks1TVpWdWxXRy1ZR3ZGRjBZYzJfMlRWc3RLR2VfVWVuazBSem9vMTYwNUh1aElRNUJHZTNlaFh6aF9Jd29ZdXA3NzV5NTUtV3dZQXpkUVBSbFkwQjBNYTVYSWN3djlMOHV1elBHTTlsNmEwQWRFd3JTOHgxMzBXYlJUQzAxQVlmT0lMNWZBbVhWZ1JJZE9qMVpvZ3VaTWpLQjliQnNTNzJNMDROVGpVamVlMjZPc0ZkT2gxQXlWVDVObHM?oc=5",
+          "published": "Mon, 24 Nov 2025 08:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "name": "NESTLEIND",
+      "score": 68.0,
+      "indicators": {
+        "last_close": NaN,
+        "rsi": 53.0,
+        "sma20": null,
+        "sma50": null,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.77,
+        "high_52w": 1540.0,
+        "low_52w": 1161.22,
+        "pct_change_5d": NaN,
+        "pct_change_20d": NaN
+      },
+      "levels": {
+        "suggested_entry_zone": "nan - nan",
+        "target_price": NaN,
+        "stop_loss": NaN,
+        "risk_reward": NaN
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Weekly Recap: Volume-led growth strategy and denial of insect claim - TradingView",
+          "Nestl\u00e9 India shares in green as firm announces special dividend for FY26; check record date and other details - Upstox"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Weekly Recap: Volume-led growth strategy and denial of insect claim - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWklWT1k1ZzB6S3p3am96WGM3WHhJc1FwVzFocWxSQ3pBLXg5TXpDSjExZFM3UjBFZlpiMWF1eGFRZlJ4ZnhwdllQOUhwdWRjRjRpTFVPdDhmLVZsNVZGcjd5czBGc0VLYjVUU3BRTzF2WlBDN2pzVXd3VHRzTWlUVW1QUGREUGd3MWhEd3BKaHpwdTZEeFY5Q3BrOE9oa29FUHc4TFpTMVFqZVNVNl93YTNLYUtRQU1jbmlZYWF4NFdDWmVCdXNB?oc=5",
+          "published": "Mon, 10 Aug 2026 01:14:00 GMT"
+        },
+        {
+          "title": "Nestl\u00e9 India's (NSE:NESTLEIND) Earnings Seem To Be Promising - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYW0zRFZUTFVzb3NoUXhWS2hadzVTeWVtSkZyTU9nbkh5QjZncGJteVF4UHRJV1lQa3YtZFBLLTAyUEZPSGwyTHYyQkUyMl80bkhLZkJWS19jaUM3akUwSFV3U3lWN3Vvei0zNTRvdnlBZ0dhQlIweHFkMDZTa3VaMHd5ZDd1X2NZY1FubnI4bVFGUnRXWWJsNmJjMjZvTzJtUDVfb2x6NkRsQlk2eWJYT2IyWVVLM3EyMHl2aVNnZkk0bFFvUUhPVWxDM3FiaDZWRm02LUpydDZuWFZWMVRveUh30gHnAUFVX3lxTE8tMGRsbkJVNjhSZG1ESkdYOXNZM3g1VUsyN2l1VzJ6UHBuVkd4R2VjZE5ZTXUwblNpS3BKdG5US181emMySS1sbzl1ckdjTEhuUGxrZmxNWVhUUVl4b0VVN2doREVFSjhOTEI1dzRBeHlwRWZFcEVoT2NDUURQSUtJX1VZeGxQcWZvM3BRaThla21qOVg2dHRYWDRabG13Si14Y1JzbnZWLUpYNENRbDNGTTJBZDVqbkhoTnJJQTJmZFFyYlFNeEM0aFU3N3NNYUFXY0QwX0dMS05lRGZSckkyd2IxekFqNA?oc=5",
+          "published": "Wed, 29 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Nestl\u00e9 India Declares \u20b92 Special Dividend; Shares Gain 0.74% - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0VIanl6Yjd5cWVhZ0tfS05FTW5rRUUtMW94VWM1SHZ2TmtBZHNlUWxhZWpiaVExQlJ5cG84Q2J4VWlrOWJ0WDNWTTA3czktNXBmR0VHSE95OFNva3VpVU5CM0FWZ3EyanYzMEVGem4yZFN0NDR1NEMySk9FcExJN2FJYXNKMXlBQ2lEZmE4XzlRNFM0V3c5eA?oc=5",
+          "published": "Fri, 03 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Nestl\u00e9 India shares in green as firm announces special dividend for FY26; check record date and other details - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcGdWNlBqa09sRVpXMUlER1dHbkVEMVdqS3VLQVhNajBMckQ5eXNQV2hEcGxfZ3pHVndJblc0V19fVW1SSFhMOUJPc0R4WDNuU21Ec09aNDQ3VFJNSUdIYUE1clUtZWh5WUN4N04xWUFkcTNDSllOcDZSRTVxZUFyNGVyX3lZc0xpYmtSTUo0Y0dLcUx1LXNRYy1HZWNQeU5WYzNaNFNjRmxLSkhZdEZIeFhZQU5sOHBjTlBTdGl3NWFMVDNJUzkyaTN6M0JEWkZHdHhxdXNnZTd1ZE9KRU52TTJ1MDBzV0U3YlJERlNwQTZqc2RJZ0dWM1dwazl4bzg?oc=5",
+          "published": "Fri, 03 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Nestle India Ltd. Share Price Today - Nestle India Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JQzc1cFFJX3JBWFJOZ3h1Zkg0MnRybE5mUVAxNUh0S01CT1RuREkyNnc0LWl2c0M5cnZwSHBaSVdneVU5UFloY1FkLUJiaUlkNGZWa1drY3h1WkkzYmpnYnhuQ20xdHhJRkFVdXpjMFlnRkRheUVVLWVRWQ?oc=5",
+          "published": "Sat, 03 Jan 2026 15:50:44 GMT"
+        }
+      ]
+    }
+  ]
+}
