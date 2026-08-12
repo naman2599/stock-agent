@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:34:47.398607",
+  "generated_at": "2026-08-12T20:38:36.366326",
   "mode": "daily",
   "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
   "shortlist": [
@@ -67,33 +67,38 @@
       "score": 93.0,
       "indicators": {
         "last_close": 2735.5,
-        "rsi": 53.3,
-        "sma20": 2716.47,
-        "sma50": 2696.52,
+        "rsi": 52.9,
+        "sma20": 2721.79,
+        "sma50": 2698.71,
         "sma200": null,
         "volume_ratio_vs_20d_avg": 0.93,
         "high_52w": 2810.0,
         "low_52w": 2103.05,
         "pct_change_5d": -1.42,
-        "pct_change_20d": 3.14
+        "pct_change_20d": 3.58
       },
       "levels": {
         "suggested_entry_zone": "2708.14 - 2762.86",
         "target_price": 2810.0,
-        "stop_loss": 2607.81,
-        "risk_reward": 0.58
+        "stop_loss": 2612.92,
+        "risk_reward": 0.61
       },
       "sentiment": {
         "label": "positive",
         "positive_hits": 3,
-        "negative_hits": 1,
+        "negative_hits": 0,
         "flagged_headlines": [
           "IndiGo among top Nifty losers; Asian Paints, IOCL, Apollo Tyres slump as crude surge hits paints, tyre... - Moneycontrol.com",
-          "Asian Paints Faces Weak to Moderate Demand in Q3, North India Shows Post-Diwali Slowdown: Morgan Stanley - scanx.trade",
-          "Crude oil rally redraws sectoral winners: ONGC, Oil India gain; OMCs, Asian Paints slip up to 4% - Upstox"
+          "Indian Oil, Asian Paints, JK Tyre, IndiGo shares jump as US-Iran peace deal sends oil prices tumbling - Upstox",
+          "Asian Paints, Indian Oil, JK Tyre tumble; oil-sensitive stocks hammered as crude soars above $78 amid... - Moneycontrol.com"
         ]
       },
       "headlines": [
+        {
+          "title": "Q1 results 2026: Adani Enterprises to Asian Paints among companies to declare Q1 results today; full list here - livemint.com",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdGlhb0RUeFN6cG1Ra3F5SU5NZ0pZd3poa3NJVmJzb1lRV0wxU0RTMnhQNnpqNHU0UVRQMHpKTHpDTVNReDIxZjIzVklYSnFMM2t3cFJMQnZtc0lBblpmRzdVVDl2Y1JyLVVtcnlTekRjbWNjRWg3eGdSNGFiQ2x3cE5wak5xdnM0UEI5SjNBdFRzb2tZLWw5RTNiSmhEU3VZWmhqaXpGVFBra1pzcUdSQ1JFaDlhOElJV3FCeV9hVXFhenhfYndUNVVFM2dNRnowS1pYZnlESTNpdm55YmdYUTQ4THVUX0tmZTdUYTktS21CLXhEQ3V0LXpkRTdkY1ViYzE3Z3hXbEVuUdIBjwJBVV95cUxQV01vZTdDVFNoRExZMV9aZVJlbU9LaDVvR3hnb1pQLXFMMlY4cUxNUHhlXzF1b19sa2poODlHWVk4UzFEZlREd0FQNV9UY19wZjdwSDZoYUdoOHJXSU5ibk5ZZ2oySlpqMjZjYU1vVnhCVTVSckdPNl9XUWZDejI5UTNvam1Hb0dWR3RKNENZODh5djVzRElzUTFMVTRVQ2YxeE4zM1Jlek5aMmRUSkxrNHBnMXduUERlRzd3QXp2YUgycURteWhDMTViS1hQUUkwUkVrRHNEdXFGYlJvSU9vMVZLNU1RckZoYXVlLUhHVWktaGpvVXVnRGVkYlZrVGJFalU1eC00T1RXZWZSZjdR?oc=5",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT"
+        },
         {
           "title": "Stocks to watch, July 8: IndiGo, ONGC, OMCs, Asian Paints, RCF, Cochin Shipyard, Uno Minda, PC Jeweller - Upstox",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZFJ1WlFsUHp2Zl9tX2ppODhmNjhybThaYTBPRGR1aExyeUZCYlB6bmVkWG15ZXJMTzZFZ2RDOGlQQ2psVzZ1VW5jdEpJLWdvcWlxTl91WUhyWGtXcVJkSzZYaVNzS1BsTm1LdVV0MlBDVWlBbXZoMEY3VHBqbEtZNnkzbzdSNThUMkIyeVl4NEdGNHM1amZkQmxxZFYwUTFWWE5NNzU4SGt6ZUVqSTg3Z3N5NklZR2ltdWhPTG5HZ1AzN2hTLW9uV1BZNkhCN2RhYi1UVk9Pdy05a2w5akdPbkZ4R2VoNVc2dGZr?oc=5",
@@ -105,19 +110,14 @@
           "published": "Wed, 04 Mar 2026 08:00:00 GMT"
         },
         {
-          "title": "Asian Paints Faces Weak to Moderate Demand in Q3, North India Shows Post-Diwali Slowdown: Morgan Stanley - scanx.trade",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckMwSmRsbVNZTktjNHVxUGhsejJYYUswWkdicTJsSmhFVWpNejQtQi1mVmRaYWdHOU9vQnJCRHpnU3FEX2I1Y2tWdkdNdnJEd2tVZEV2MW1GdDlSVkxaYlpVOHVSbVNTbElzS05kM0xVaFNpbGwyaUplS2xmcHZuNkNBNnA4bjlqcUhZOEJkNmNUR1lTUjhhN2ZGMzRySWh1dWpZN3I1WU5SVHEwYmVBWFJESVBTeEdSdk1PZjcwUXdfZVJsMnV2MmQyRXRqTmRFX2lWaVpVU1pqWklhRXg2LWtUSHZkMTh1T2theg?oc=5",
-          "published": "Sun, 04 Jan 2026 08:00:00 GMT"
+          "title": "Asian Paints Sees Rs. 97.61 Crore Block Trade on NSE - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVk05Q3lKbVlWcmNfWW9PTE5kR2tROWxTZ1R2R0o0RDl4bzQxdUZuWXprbU9RX2Q1ejhueDhxcVRGYVBiejU0UEhBdHh6bUlNSndqUFVxWTNXeTQ5SEFTalpvRm1VcWZKanlnajNhckdzcEZBWHdiaUVwSUtDazZfb1l0MFhOUGdsaHYtSWVhaFVtVFNRbEpGZmZHUF8wdUJVb0JZSzFXdmZRUDBVVWpVSg?oc=5",
+          "published": "Sun, 09 Nov 2025 08:00:00 GMT"
         },
         {
-          "title": "Crude oil rally redraws sectoral winners: ONGC, Oil India gain; OMCs, Asian Paints slip up to 4% - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ2F4NVE4RnBOc05oMXBoN0JmTE1ISmxWQ01JVUVoQUlIYWV6UGptX2dJOG5temtXR1c3eHlSTGxnZEtLd3ZtbjlUN0ZfQUlPbEhMdE4tUUQyeS1FMHN5WWR4VWYxYnJ3UzIybDBrMG5IamQ4VndWektGU1Y3UlpHcWNyS3llT3BGV2pRRXE2a2xZOXRYT2swMjVsbHQ1MWRzMmk2Z05vQ05WYTFvX19lYkhqbjhvUkRoZXhfQ0MzRGNOYVBUNThXbUJ3?oc=5",
-          "published": "Tue, 07 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Asian Paints, Indian Oil, JK Tyre tumble; oil-sensitive stocks hammered as crude soars above $78 amid... - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUkRZVlQ3Zy1VSXpCZlZBMUFvbVg4MHRKTGd6QVNxZE9tRUhfX0haQXFhLTI0dEhSMndHYUtYQjdrOFA3Ul9MM1Nrd0FnUHVrSWR5bEdPeUE2OUtLZGhFUzQwemxDVUxrSy05M2x3Q3ZDbS1YR25Sa2dTbTJxYUwydFZyb2tDYkJKMFpfNnBJcXV1YURBYnJ3ck1OQ24wbFdUcEhaRHY5d01jckN0ZjlSaU1LVDRpeWUwS2hjZkszaWFyejdVQnNyZ2t1OWM3LWkxaHFCeWt0Zkx0WEpySFQxUkd6aUUtS3NhUThuSjNVdnBsbXBmUi00ZVlnSlhUUHREVjVaN2RDWFLSAY4CQVVfeXFMTzRNQXVYY1JiZ3E0V3BXRUloYmo2Ql9keHhBaEJBLUQyYWF3dDlMWE9oSGExWjVoZ193Rk50c09FaTlHSWYteVNvbkx5RlB3RVA2cGJaRlY5b2h3WVJJUEdtVE1hY29pdVV5RThTeERyTHBWdF9VdnJwbnNTMk1kMmRublUyRmNRYVVvc21JRE5NdXJ6bXRWa1BfSndncmplZDFqLW1TaTVadjhKZjl2NmFlU3I0TFlVbXg5bGVqd0daYVZweURuSXpMdVE5RUp1bHRjYmRIeThTLUE4VU13akItV2d6aHNSdnE2ZEhlTEMyVW1ZNHNoeHVuY3c5VGx5NmJyRUV6R0Z1RzFvLUt3?oc=5",
-          "published": "Mon, 02 Mar 2026 08:00:00 GMT"
+          "title": "Indian Oil, Asian Paints, JK Tyre, IndiGo shares jump as US-Iran peace deal sends oil prices tumbling - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM0hfQktPOUhPaTV1ekdYWWxILXZkeDB6eHBvMkxqa083dEJ5U0hJcE42QUROVHFDREVjSzBtclo4dFd1czZEb1g1VnFQR3AzY0ItLTJWVXV5RS1HU0dvZml5ZmhyRDBoRXRGcUxsTjBuTUxQVF91aGFYcjFldURHTnNPTW11NUxlX1dqY0I2UnFqUDhseG1HLUZ6MEhwbmtMUmg5VkcwLVVEa3JSMzZ1N1AtV2w4Z204TF9fd01KU0ZnR2ZnVEZLTFMtRWpTbHNWZHJGT2tIdnh4YTE0X2V5dGgwdXZhS1AtQjlV?oc=5",
+          "published": "Sun, 14 Jun 2026 07:00:00 GMT"
         }
       ]
     },
@@ -169,7 +169,7 @@
           "published": "Wed, 17 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "NSE files draft papers for IPO listing after a decade of regulatory delays - ThePrint",
+          "title": "NSE files draft papers for IPO listing after a decade of regulatory delays - theprint.in",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTG9Pb2lpQmhuamhKN2w5TGZPQzF1VkE0ajdrbVh0UUNaQlpFeFVTaEhjUTM0S1BIeDUxQ2UtR0dJWEZmaGJVdnlkcHNtVzVhdzZ6RlJGV3lyUVRyM3ZSb05CYlE0ZUlZUlM0eXEzSlFiQV9YSkxtbGtlRnd5Si0wb0ZhSng1ZXBDV3dXM2hPWVJUcXNvVVJFaGVYNW1GZ3BXUzlpcWpOTmg0NGFvQkpqMtIBtgFBVV95cUxNamFNTHBqaVh0cmZIaEM0c0Y2Y1NETVIxOTJXOUl6QjNER2hLc3VVeThmVzktZXNvUmxYelBxdDh2WHlZclZCeXhHbGU2aGtUbEdjd0JqeVFqb1FhVlMtNGpwU1FFX2VZYWNsZ1U1TkhlZmhMZ2hZZTE0SUJNU0VBbllwNnRnOXpJQW5hVll2S3FwWmkwMzBIVDlaSVU3aGd6cDhoRlNmbEhOR1lNdEFWTlN3RVdkUQ?oc=5",
           "published": "Thu, 18 Jun 2026 07:00:00 GMT"
         },
@@ -186,28 +186,29 @@
       "score": 85.0,
       "indicators": {
         "last_close": 4037.4,
-        "rsi": 57.9,
-        "sma20": 3910.4,
-        "sma50": 3992.82,
+        "rsi": 57.3,
+        "sma20": 3911.96,
+        "sma50": 3996.49,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.77,
+        "volume_ratio_vs_20d_avg": 0.75,
         "high_52w": 4375.36,
         "low_52w": 3310.07,
         "pct_change_5d": 1.19,
-        "pct_change_20d": 4.9
+        "pct_change_20d": 2.77
       },
       "levels": {
         "suggested_entry_zone": "3997.03 - 4077.77",
         "target_price": 4360.39,
-        "stop_loss": 3753.98,
-        "risk_reward": 1.14
+        "stop_loss": 3755.48,
+        "risk_reward": 1.15
       },
       "sentiment": {
         "label": "neutral",
-        "positive_hits": 2,
-        "negative_hits": 1,
+        "positive_hits": 3,
+        "negative_hits": 2,
         "flagged_headlines": [
           "Larsen & Toubro's (NSE:LT) investors will be pleased with their strong 192% return over the last five years - simplywall.st",
+          "LT Foods FY26 Revenue Jumps 26%; Shares Fall 2.92% - HDFC Sky",
           "Nifty top losers: IndiGo, Asian Paints stocks fall as crude jumps on US-Iran tensions; India VIX spikes,... - Moneycontrol.com"
         ]
       },
@@ -228,12 +229,12 @@
           "published": "Mon, 29 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "L&T Hits 52-Week High on \u20b92,500 Cr Orders - HDFC Sky",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZUVvVkQ4NzFTVFR4WjU5dEw1S1FtelZ0eFJJNWpzcS1HMmdVQlNhVXIyY0pkb252ZVQ1QVNnSzBSRlJmOE1jMGp6bF9kUzdQNVNhdlgtWXE4cDV0?oc=5",
-          "published": "Tue, 28 Oct 2025 07:00:00 GMT"
+          "title": "LT Foods FY26 Revenue Jumps 26%; Shares Fall 2.92% - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlp2RUNJeW1IVF9VbmxhTnBoZUtRX2tZSVhIdEpWRUhUdTBTSS1MU2ZqRUpUb1BONlZJZ093U0tfQjBkaDNqY01kTFRUSTF5MHVqV2lzdjZJQzVYOWFRd2hnVnI0M29nQzZFNENkSUVmTlViVjJjQWxOeUN0SmcwaGF6ekxJYk9zbm0zbmhxMklRT3Rzbld2VnphYnYzclhnRThRSXI5cw?oc=5",
+          "published": "Fri, 15 May 2026 07:00:00 GMT"
         },
         {
-          "title": "Nifty March futures trade at premium - Business Standard",
+          "title": "Nifty March futures trade at premium - business-standard.com",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGpRMXZBcl9XX1ZVSFdiWFJwTUlheFpnWndSXzBadkxwLXh2bmR6NGZ3UTVLNG1wX0E0NUh2MlFZLTV0VW5vOVBsSjFrVkJGTkdmMWUzRS16Z3FwdGhyYkJSTF96TzJOMjR4R2RBR3A0TjlmMmdqR0Zqck9Gb2ZJRlVOMERnWXk0bnNkalhqUHZleDJTSFFQcEpPNWY1NVl3bkh4aGxjYXJtaUtaYjRLcnUxSV9CTWFCNEHSAb8BQVVfeXFMTXhicmtxaVFMdzJsMVY0OGJ1bENfTU9Pc3JRUDFfd1hqUHNrTk4yTlBDTGhwTWVRTFgta0JqcS0wckFSSlNkbm9EaHZzb29RRzBJSzJFckpZdmFuMmRXal9uRElWcVBlc3RIcWo4S3Zmd3Y5TWo0b05jVDh6Z1k2NURYZXZHbzBCc0N6dHVtVUJERWRKUEJuSnBnLTFUSTc0ZUlyRVBQV0tFUzdVWlBYeUNBR3RLYzZjZnZyTFZ2c3M?oc=5",
           "published": "Thu, 26 Feb 2026 08:00:00 GMT"
         }
@@ -245,29 +246,58 @@
       "score": 85.0,
       "indicators": {
         "last_close": 13990.0,
-        "rsi": 57.0,
-        "sma20": 13710.41,
-        "sma50": 13567.42,
+        "rsi": 56.4,
+        "sma20": 13734.66,
+        "sma50": 13547.9,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.81,
+        "volume_ratio_vs_20d_avg": 0.8,
         "high_52w": 15173.61,
         "low_52w": 12183.64,
         "pct_change_5d": -0.26,
-        "pct_change_20d": 3.18
+        "pct_change_20d": 2.93
       },
       "levels": {
         "suggested_entry_zone": "13850.1 - 14129.9",
         "target_price": 15109.2,
-        "stop_loss": 13161.99,
-        "risk_reward": 1.35
+        "stop_loss": 13185.27,
+        "risk_reward": 1.39
       },
       "sentiment": {
         "label": "neutral",
-        "positive_hits": 0,
-        "negative_hits": 0,
-        "flagged_headlines": []
+        "positive_hits": 2,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Maruti Suzuki India stock jumps 4%, top Nifty gainer today as Jefferies upgrades to 'Buy'; check target... - Moneycontrol.com",
+          "Maruti Suzuki Begins Kharkhoda Plant Output; Shares Fall 2.37% - HDFC Sky"
+        ]
       },
-      "headlines": []
+      "headlines": [
+        {
+          "title": "Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend? - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPY1FuVDB3MjZxdVNWcFMtWGNyVkxfck9uV3hGell0NmttWlh6V1kwU05UREExR01vUWMtVVRlQW1RaG5fc1psMHVJY2xSVkpKajRlUFRLekxuTDQ0ZHJFVEFwNXcwMURWeFhGVzFKckE4azRSd1gtNU5UZ01NU2Z4RHZKQS1acVVld1ZBUi00b0dIblBFRG9oemloUGtwcnBnSjRGNm9LU1BWRHJZcDByLWY0dEJMYjZvTmdLQmwyWmU0ZnFjbmdHcnBuU2ttOW9UU1NvNmF0Wi1GT0QzQ0RDVdIB5gFBVV95cUxNQzg4OUNESWxuWDBIZmNkNnVMQjE3OVN6aVNLdDJ5c2p2NG9GVkNrS1UtM0oxUHpIYWxHQWw3RXRTcTlTUkttQUh4TXhYQUFKcFFHTUFfV2xlLUVtSzRGUkk2aklEZTdLSzdCLTk0aDBxYVBCOVNHc21QUjVTWXVZY2RyM19XM0doYkF5WXowaTBhT2RMX1I4U041X2Qxb09hRkVMeDd3MG5KN19FbnZONDJvdXBBX1NfTkNuMTI5YVE0OTN1NTdzUlczeHNkM3kteDFCck5YUUU3RjJBdTRnb3JnMzhYQQ?oc=5",
+          "published": "Mon, 03 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Will Maruti reclaim \u20b915,000-mark in next 3 months? Analyst flags key hurdle - business-standard.com",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQU3lzS25lZE1GX3c1X3IyX1BNbmE2VlZUZTBKVm9JMVZxWGwwV3R0cjg5RTlfem9EX2g5blhBYkdhT1djY2taSWMzQ29XTktDNnFKWElJSGd5dExvX0c0bVB0UFpVSzVQYkFXN0lpQXFWWDRQem5xdW85UGFWQk5nUkZ5UlpjQ3dva3JXQjlBN3psT0NrbU5JUjlVdEVPMGM4TGVvdS1Ha2tiSFQyci00ZTdsUHY1SVowRG5ad0JZLUZCR1hPSmZrdUllcDdERmkyM2xfVk9maUtDQURxZGtsTzVta1hVdHhwcXFvTm5KMjljSXlCSkJTbkZ4azR1WWhz0gGGAkFVX3lxTE5tamk0ZUc4ZWNKZ3REbGN5LXRVVEhiUVprNnI5ZmNuZWI2dUVCQWJhdTNPbFRFMWRuNDhYZGlNQ1czYUxUQ1ZHVVZWQXNZbjhoVnFRSVlzVkQxZ2ZXLTNJbmxYcEV5bURQSERlaEd2ZUxnTzdmV296a3FDZkVfOFRGRjMzaEpzMm8yay1QRUNBZ3JWYzR4Y3RhVUdVXzRyQ1lUUzZGNWFVaXV5TFA3SFhoYmJoZGU0am9SUjB5dXVXakMtU0F3bTBmRXJpcjJFTHN1NXk1dFY1NW5LRlJWeFlYSnQ2Z0o3V3lMeS1xcnpvZU1XM0hERENSUjZ1R1lfMG1sUDdxUkE?oc=5",
+          "published": "Thu, 30 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Maruti Suzuki India stock jumps 4%, top Nifty gainer today as Jefferies upgrades to 'Buy'; check target... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSWVqMVMwcW1ITUJNQzUyeUxrUHZsQ2JMSktsQTlDTW05R3RhMHRKbzZVUWQxdnVqaWRIenc2Nm1NSjBnTXRWV1Q1Z1pLd2NLenZnOGxrak9GLUxGbDluU0liQW5KcWRSQ3ZNTXNkMVlIS3JWcV9EM3pQam43X3BBbTFtMUNqb2RfSFBOOTJScllLTTRoV0c0YUhiWDhZNGVJTUVJc3VNXzVDWm1VQWV2RVFQeWxxOFhvQnlFT0syd2NJbm5penl5Tl9vQjZRQTJNNVNyWmx3OG5ueURGZ1UxZk5QSmMwd3hxR2E4Ry0waVBTVmVicnZrMVM3MGlXZ9IBgwJBVV95cUxNMHZFQmJQT3NITEZ2Wm9SUVV0MlVybHJLS3ZMNlVWWnlSSm5SUHZQNmVTelpnWEtzT0pyTXdDMUxLYVpSem9UTjBQMm5MTTBHQXVKVnlkVHkzbjIxYjJKbEdRNXh4bzg2cmg3SWR1SUpvb1ZrYk13YlJnckx3UnQ3TnNCV1BpcGZCUldBREJMRFNvUG5NUXRkV1FzOUlzb1RTMnJJMmpZSmFJamRldFlLMHBpdG0zdXJrUEVjaF9tbExXZm8tdDhURXB1bEIwYXdjWFExelhmUFRDS0hDVkNzSnBNazJiZmhMVXVpTmtlR1hSV2NBUF81dmVxalltQThsYTNJ?oc=5",
+          "published": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Maruti Suzuki Begins Kharkhoda Plant Output; Shares Fall 2.37% - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjRVVW9GRXAtX3hHZEoyQWRYS0tMMDhIM1pndGlQMlpWWG15RkZqTGVZRmJZbTFIQkw4YWJuQWJtNU4xenVLU1o5WkRGR1pmeXNaeG1OT1luTlZYdWxrYVNnbW91cUdXM3NidjJRc09zeXM1d0d0aDZIMWhtSUNNMHZ4eDlyUndBM1NEbW56dDhCaVFRQUptYjBKc3R4YS0wRGc?oc=5",
+          "published": "Mon, 18 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "MARUTI Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRkJDZG9aR2JkVGpGWmhkbmRfSjdlQ1RXOTZWV2RCaFo2amRnVFFVQXhwQWZCcnRsdzBVUkh0RUtFcnB3R0t1OTNjdFVFNmxFTVdSUzFjdk1teTJxQzNpcWNXRXQwMkxRRDdqTFBDMWlJcWh1QmlXMw?oc=5",
+          "published": "Thu, 25 Jun 2026 13:08:41 GMT"
+        }
+      ]
     }
   ]
 }
