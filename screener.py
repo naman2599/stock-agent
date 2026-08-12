@@ -51,6 +51,7 @@ def screen_stock(ticker: str):
 
     indicators = compute_indicators(df)
     print(f"DEBUG {ticker} last_close:", indicators.get("last_close"))
+    print(f"DEBUG {ticker} raw close tail:\n{df['Close'].tail()}")
 
     # If core price data is unusable (e.g. thin/gappy history), skip this stock
     # entirely rather than shipping a NaN into the output.
