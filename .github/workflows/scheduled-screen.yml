@@ -1,5 +1,8 @@
 name: Stock Screener - Scheduled Run
 
+permissions:
+  contents: write   # required so the bot can commit output/ back to the repo
+
 on:
   schedule:
     # Daily at 9:00 AM IST (3:30 UTC) - runs before market open
