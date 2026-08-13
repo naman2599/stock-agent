@@ -95,13 +95,13 @@
 </div>
 
 <script>
-    /* ====== CONFIGURE THESE TWO LINES FOR YOUR REPO ====== */
-    const GITHUB_USER = "YOUR_GITHUB_USERNAME";
+    /* ====== CONFIGURE THESE FOR YOUR REPO ====== */
+    const GITHUB_USER = "naman2599";
     const GITHUB_REPO = "stock-agent";
     const BRANCH = "main";
     /* Trigger endpoint - your deployed serverless function (see trigger.js) */
     const TRIGGER_URL = "/api/trigger";
-    /* ======================================================= */
+    /* ============================================ */
 
     const RAW = `https://raw.githubusercontent.com/naman2599/stock-agent/main/output`;
 
@@ -166,9 +166,9 @@
         dates.map(d => `<option value="${d}">${d}</option>`).join('');
     }
 
-    async function refresh() {
+    async function refresh(skipPopulate) {
       try {
-        await populateDates();
+        if (!skipPopulate) await populateDates();
         const date = document.getElementById('dateSelect').value;
         const data = await loadSnapshot(mode, date || null);
         renderList(data);
@@ -179,9 +179,9 @@
       }
     }
 
-    document.getElementById('tabDaily').onclick = () => { mode = 'daily'; setTab(); refresh(); };
-    document.getElementById('tabWeekly').onclick = () => { mode = 'weekly'; setTab(); refresh(); };
-    document.getElementById('dateSelect').onchange = refresh;
+    document.getElementById('tabDaily').onclick = () => { mode = 'daily'; setTab(); refresh(false); };
+    document.getElementById('tabWeekly').onclick = () => { mode = 'weekly'; setTab(); refresh(false); };
+    document.getElementById('dateSelect').onchange = () => refresh(true);
 
     function setTab() {
       document.getElementById('tabDaily').classList.toggle('active', mode === 'daily');
@@ -204,7 +204,7 @@
       }
     };
 
-    refresh();
+    refresh(false);
 </script>
 </body>
 </html>

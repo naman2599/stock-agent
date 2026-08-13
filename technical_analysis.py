@@ -8,6 +8,11 @@ import ta
 
 
 def compute_indicators(df: pd.DataFrame) -> dict:
+    # Defensive: drop any row where Close is NaN (e.g. an unfinished bar for
+    # the current trading day). screener.py already does this before calling
+    # in, but this guards the function too in case it's called from elsewhere.
+    df = df[df["Close"].notna()]
+
     close = df["Close"]
     volume = df["Volume"]
 

@@ -58,6 +58,7 @@ def screen_stock(ticker: str):
     # If core price data is unusable (e.g. thin/gappy history), skip this stock
     # entirely rather than shipping a NaN into the output.
     if indicators.get("last_close") is None or math.isnan(indicators["last_close"]):
+        print(f"[skip] {ticker}: last_close still NaN/None after cleaning - unusable data")
         return None
 
     score = score_setup(indicators)
