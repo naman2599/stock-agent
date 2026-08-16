@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T03:27:40.299620",
-  "mode": "daily",
+  "generated_at": "2026-08-16T03:28:13.132839",
+  "mode": "weekly",
   "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
   "shortlist": [
     {
@@ -125,21 +125,21 @@
       "score": 85.0,
       "indicators": {
         "last_close": 1310.0,
-        "rsi": 50.7,
-        "sma20": 1304.27,
-        "sma50": 1302.02,
+        "rsi": 50.8,
+        "sma20": 1302.34,
+        "sma50": 1301.98,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.9,
+        "volume_ratio_vs_20d_avg": 0.93,
         "high_52w": 1456.86,
         "low_52w": 1258.8,
         "pct_change_5d": -1.86,
-        "pct_change_20d": 1.03
+        "pct_change_20d": -1.3
       },
       "levels": {
         "suggested_entry_zone": "1296.9 - 1323.1",
         "target_price": 1414.8,
-        "stop_loss": 1252.1,
-        "risk_reward": 1.81
+        "stop_loss": 1250.25,
+        "risk_reward": 1.75
       },
       "sentiment": {
         "label": "neutral",
@@ -242,21 +242,21 @@
       "score": 80.0,
       "indicators": {
         "last_close": 13834.0,
-        "rsi": 51.3,
-        "sma20": 13783.87,
-        "sma50": 13606.05,
+        "rsi": 51.1,
+        "sma20": 13790.01,
+        "sma50": 13648.33,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.55,
+        "volume_ratio_vs_20d_avg": 0.53,
         "high_52w": 15061.73,
         "low_52w": 12183.64,
         "pct_change_5d": -1.45,
-        "pct_change_20d": 3.59
+        "pct_change_20d": 1.23
       },
       "levels": {
         "suggested_entry_zone": "13695.66 - 13972.34",
         "target_price": 14940.72,
-        "stop_loss": 13232.52,
-        "risk_reward": 1.84
+        "stop_loss": 13238.41,
+        "risk_reward": 1.86
       },
       "sentiment": {
         "label": "neutral",
@@ -292,6 +292,184 @@
           "title": "MARUTI Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlRkJDZG9aR2JkVGpGWmhkbmRfSjdlQ1RXOTZWV2RCaFo2amRnVFFVQXhwQWZCcnRsdzBVUkh0RUtFcnB3R0t1OTNjdFVFNmxFTVdSUzFjdk1teTJxQzNpcWNXRXQwMkxRRDdqTFBDMWlJcWh1QmlXMw?oc=5",
           "published": "Thu, 25 Jun 2026 13:08:41 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "LT.NS",
+      "name": "LT",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 4057.0,
+        "rsi": 58.6,
+        "sma20": 3949.08,
+        "sma50": 3998.81,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.56,
+        "high_52w": 4375.36,
+        "low_52w": 3310.07,
+        "pct_change_5d": 0.02,
+        "pct_change_20d": 6.36
+      },
+      "levels": {
+        "suggested_entry_zone": "4016.43 - 4097.57",
+        "target_price": 4375.36,
+        "stop_loss": 3791.12,
+        "risk_reward": 1.2
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Larsen & Toubro's (NSE:LT) investors will be pleased with their strong 192% return over the last five years - simplywall.st",
+          "L&T ESOP Allotment; Shares Fall 1.14% to \u20b94,053 - HDFC Sky"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Larsen & Toubro Share Price - Live NSE: LT Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kVmU3ankyakd3LWZkTXJmN2xacmxRYlhfdjZlWmpWUzRKYjFZS1IzZ1RuOUxaSHVhS05NWHNGUVRKNTZ4VWEzc3V4RjdoMlJsWUNDSW5fY0hLZGR2bDN0TDM2Q1hYV2M?oc=5",
+          "published": "Sat, 15 Aug 2026 01:32:57 GMT"
+        },
+        {
+          "title": "LTIMindtree Share Price Today, LTIMindtree Stock Price Live NSE/BSE Updates - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sem1MWkR5TGtaRmdGX2FlZW1DSVd5T3ctSEpfZ01aOGJSZEpJRHpncmxINlRqdDB3T0J4aG50eHh0eENpQ0dpVHhyMDlwcWVjU2dRZHJuUTRQTUQtajFJamZQSTgweWpHOGlrUnhZRUpsWThYcndGWFNB?oc=5",
+          "published": "Thu, 13 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Larsen & Toubro's (NSE:LT) investors will be pleased with their strong 192% return over the last five years - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPck11a3lQVENKei1EZWVsY1F3dXl1eXZ6SGJKOEdTelVRZzN2SEVfNFFzOEpIT2wxR1g1RXVCVWE2NkUyYzlPcmFjMjhpR3hYSTU2TEZUMl9kVlZUQlI5WFhRTG9KZkN6ODRCV2lHSjVxTy02dGR0bUNERU5YdzdWWHlYMkpaTy1rUlpLRU52RVhNTFZDeFJDcnc3MXZQX2FkWkpkbFJhS1prcXVVUjBnRllDd0hOMVd2NWxFZ2tQOE41djdzXzIzbmxBSDZKb05lVGZWNGdURVbSAd4BQVVfeXFMTmFOWHYtRkdKWXZ2aHZHcHVacHlJbWRZUEc5ZzBRN19zOEluNkxYVGZETlg2TFpJNlhHc3dLRGt5QWlGMkdJNEU4REprZ1JDdFNJeF9RUDg0OFJoRkJwSlZLODVOWlVWREFlNktlQi15VEN6dkVyRmdSa2ZxUVVFZ3pNZU1rb3ViV3JwQnE3c1NWM2dwMUhTbzBka3FncXZmaS0tT3hTOTBKckdNdkxQUGRqNFoycnBUU2FlMFdUM245aWQ2YlA3UWhmX1RUZ2lLeHhyWkUxUXRWOEJMdWpR?oc=5",
+          "published": "Mon, 16 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "LTFOODS Share Price Today - LT Foods on NSE/BSE - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UekM5THNtbUtIb3ZCMDFyckNCRUV6YTR1YmR3ek5MZkFwMi11QmdUYW40Xzg5ZVRLN2xRQU41MzZYOEl3V1RrOWhWLXNHR0xjRXNQUXc1RGVsdFE?oc=5",
+          "published": "Wed, 05 Aug 2026 10:30:36 GMT"
+        },
+        {
+          "title": "L&T ESOP Allotment; Shares Fall 1.14% to \u20b94,053 - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OLWJtYThzQXl4UnJIVWNQLWRkb3dZcXA1R2lQUWcxVmJrMGNiX05qWXZGMDJXdkxsLXAwbEpDRGNQVXAydWdlQUwxQzNBelpzM190MnhoMEZ4ZWtqMHlmVzhabGdqMTQtY0QzVGtwOEs?oc=5",
+          "published": "Tue, 05 May 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 70.0,
+      "indicators": {
+        "last_close": 2361.0,
+        "rsi": 53.3,
+        "sma20": 2365.28,
+        "sma50": 2214.16,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.59,
+        "high_52w": 2666.43,
+        "low_52w": 1971.79,
+        "pct_change_5d": -3.74,
+        "pct_change_20d": 7.27
+      },
+      "levels": {
+        "suggested_entry_zone": "2337.39 - 2384.61",
+        "target_price": 2549.88,
+        "stop_loss": 2266.56,
+        "risk_reward": 2.0
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 2,
+        "negative_hits": 3,
+        "flagged_headlines": [
+          "India IT stocks climb as strong TCS earnings lift sector sentiment - Investing.com",
+          "IT shares crash after three-day rally, TCS nosedives 8 per cent - The New Indian Express",
+          "Rs 1.3 lakh crore wiped off! Why TCS, Infosys and other IT stock prices have plunged? - timesofindia.indiatimes.com"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "India IT stocks climb as strong TCS earnings lift sector sentiment - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnQydFpIaWNvbGpkUTV0bDFKOUd4SWY3aWNCbUNQZ2xidWo2SzBsZXVQSklkRzZqamJ0RTQtNE5VWktZSEludkdid2Y0SWY2Zk03VlZ5OXN0aEpyYmJOUTh0SmpLa0U2OHVZdmVreGpGMHBRSTUyaktjTnZ4cWs4VDVXaTJnZkdJMnlsdWhFcHYzMG9kQTZwMkZrUFFwNGk5ZUR3eGkyWjhLUGY2c2s4WUJqSEk4dE5NaHBacnRGOGI?oc=5",
+          "published": "Fri, 10 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "IT shares crash after three-day rally, TCS nosedives 8 per cent - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZldUTmlCaFhwNGFCTGl4Sy1sa1ZmUWxzQU9uOXNkNEtZMnMwUWRTUGxxT0x4SWZxeWV5QjF0aFNnZDJUOFRuNlo0TzU4SnVsN3pFaHlyRmJGd0JvNFZ4dlpXMjVna3VHMDNqUlc2b2VfM3p3NUFoMjFQajJBXzRHQW5yNTVlczFBRUtxS0tza25ieXF3X3BSckVDaGNWN3RGS1d2MHR4ZUVIZlY1TGZpblotbm5YeUHSAcQBQVVfeXFMTjZTNFVJSm9LWUJreDdycHp1bm5veExTRFpoTVVBZGJiQnliQVdNUlp3SklQVU5RcjNmT1RIbW5PbVI3Q2hVOXpUMEF1X1RyaGFNdmw4dlM0bnU0RTRvbGg3YlJHcUtEbUdvN3ZhWkFGTkZuV3gwcWhaOGVrVTl0QWpTVFZOb1VvUWZPX1FQdjhJUGFiQXJ0d3lyVFl0OGVvRUd0WmgwYm9KekhJbloyVTVWSWRrdG8wWTFYYWN1aVpmNFM2cQ?oc=5",
+          "published": "Wed, 03 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS, Infosys, HCLTech rise up to 4%: Why are IT stocks rising today? - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZkdUdjlGR3gwV0x1SF9zVEZtRzExUUVOcHl5OVV0bkhNb2xrWERBWGo3N0JxYktPa0dzVlRpOXFwcEtjd2lzcS1KWm1YU0t2a1haeUNaLTlpUmY4N09sVk55SzdSTDN5M3BITjI4bnZ1QVZtXzBnWFZHY3BWRU52WE5DdTRyVnowOEZTSjFnZUMzUks1OGdoVHA5UHBrdV9Fb1F4ZnlqcTh0UEp3SXotam9LcHpFQTN5YXI3ZFAyblJoZS1YZ0VtWXpDWmRmazUxQ3RIcXFadW5ybUhyNUw2UlJwdkJCdXFqbXFZ0gHwAUFVX3lxTE8teHFDUlc5N2xzZ0FLMUM2ZTRhX3llT2JnTVdBVngyTl90cjZJbUlHREpwYWZCY1JpbUdDd3FRaW9TbnRfMXNHTUpBekh0NExMM1BIajNDekJkZ1l6dW92UUtkR3lpT1JQbnFyYU03dHQ1SVFNem5oQzdYeXlZOVJvdWVMQ04zNU5JZVVtSm1WLXdRbmZ3QXZ5aC1YekpfSDFPalRZaDM2UmlfZ0NvMWNVdWdNbnJWRndXeHU5Z1g3eVNmb0x2TVcyb0ZHMVFUZzFRUkpXWGdrR21KWmhjdmpIVVpEVlpuelhkdlY1dXlmSA?oc=5",
+          "published": "Fri, 10 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Rs 1.3 lakh crore wiped off! Why TCS, Infosys and other IT stock prices have plunged? - timesofindia.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOS0llQ0VoZWJ4QWQ0M1JaMnpLM1JDSFplYkg3dDlUZ2kxZmlvSEcyZzFOZDNPUmtIS3JaMFl0T3NJWWlwQUZJNnpOb1RBOVJqbjlrS1ZkUUpSakxkc3BrTHdlNTVIdnZ0UGFZRm9iYjZrVXVEOVZ1ekI1Q21mUGxMWFl1RXMyQ2l4MjF5bUNpdXZDd1lkZ1pqSUktM3VPY1psdWhzUTB4c05hVWEtUG5KUDVGZ2g4b0lGQWN0VjZhdng4THQ4aEtRLVFLZmR4UzhhNGg5REVWNGw2czRyQVF0RXBYeXhlMm5DMWQ2U2YwdjVFdXZKR1k5cDhZaDJyVmlvNFhTc1NhONIBjAJBVV95cUxPa0VKNVloX1d4MWFKWTl5Q0tKdmQ1OVl6QzQ1bUFmX1BHQ1BLb3FnUTFUdm8zdEdLTGRmWnNDcUtSeXpXVFhyWVhRLWNGTFVfMTZBWEM2NGdKZURCbmpHZW5jejJUWC13dGxRQXFRYnpJLTZHWHRaR0JqLXNLNkhUVzVpNUVDZVhCX1Z1SlNVdDVtcmN0c3RRTGdwYXM1VDlfR0V2VHFQdUhfN1VoTFE5MFF3dy0zek5ZdzlqdnpPT25Uc0ZIZk16VlZLdTdFSVUzN1ZGYnJWVlhxSnNTdER6SlhvY2hHYnpneDRZNktrRng1TnNibjBNM1Nndkp3SGRpeVFUTUNwYXdOTmkw?oc=5",
+          "published": "Thu, 12 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "TCS Share Price Drops In Early Trade, Infosys Down 3% As Nifty IT Falls Most Among Sectoral Indices - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOG9keEl0WTA1bENYOFh6NzdvV25vU1lVcUZHUE94SFFoOHZXa2hIUXYyc1NId1FFTkNEWGVIZWlaMC16MWEwdTAyN2NVVmU4eTlXMEFOUmF5akpvamNpSUx1YjZ5UDVNWjEteHJ5RTJIclFaRUZlODRlUVhLLXo0eDgtTGtqODRIY25NcThuRmRoRWs1X0h4X1JBUEc0eTcwSW1GUGFXM0RxdGY4ckRrQXY2aUJ0bkt2WEFfc09xaTByRG1VdDZvSUlhejJQQU8tRkRVMkRlWGnSAeABQVVfeXFMT1pvTEpTTnBOMDRKTUZ6RFpMNld2TTJIenNkRE11Y2xady15SG9LcEZQSUdWYWRNbWdMbGNZaEE4YTFyckVxX3F1eGxfa1JuM282d2FvUzFmaFJ2SHh2YVhOUlJDRXQzUHRER0E0a2hBWGpNUVdtZU5lekp4RUl1TEN2WWEtTWZOeWdkREw5Q3BEMGpaa1A2YnlicHZuWlpIQUpvOHVvYm9ZZXZGUXRmT0RWYnhQRGJsUnBZZkstTmdadG1JU3F0Uy14OXQzbG1EZkNIanlvdG5BRkFNdmlGd20?oc=5",
+          "published": "Thu, 18 Jun 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "name": "ICICIBANK",
+      "score": 70.0,
+      "indicators": {
+        "last_close": 1417.0,
+        "rsi": 50.2,
+        "sma20": 1432.74,
+        "sma50": 1387.37,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.5,
+        "high_52w": 1460.0,
+        "low_52w": 1195.82,
+        "pct_change_5d": -0.28,
+        "pct_change_20d": -1.06
+      },
+      "levels": {
+        "suggested_entry_zone": "1402.83 - 1431.17",
+        "target_price": 1460.0,
+        "stop_loss": 1360.32,
+        "risk_reward": 0.76
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 2,
+        "flagged_headlines": [
+          "Mcap of 8 most valued firms surges by \u20b91.90 trn, ICICI Bank shines - Business Standard",
+          "ICICI Bank Falls 2.26% After USD 800M GMTN Redemption - HDFC Sky"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Financial services emerge as India Inc's biggest value creator, led by HDFC Bank, ICICI Bank and NSE - bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVW5SUThocko1cS1zWmMwMlhmRlVNZHBDY2JFakZDcnlXVGllczVZeWd1VWRNS1RGbFpJLUYzZlpXSy1mN2QtWXc4OC1Tdkx5NnFsVktiS3ZLQmFlMnVGZVFUaldtODNNbXdmLUN4NTZhbl9BUHRDTUJMZjJiQ3FoWURvZEVOUEhnOEM1Ny1DSjhoeTNGeVJRaHlMT2cyOHBDZTdGVEd1NUFsWWJGYlhEeksxeVFqZVBKRmw4d1pJYzIwdUdIMlBwX0VEdlduMmpBT29XV19LN2NrUdIB3wFBVV95cUxPV3M3WERRSVRKNkk3Ri04dmJaOHZGRjZib051VWU1SUhYSDF0WlhnajBDQ2RmZnZiVUVYTHVZWE5JUzFSZ2M0emJET2pWTDlrQ2dkNGs0TDVxa1d4cVU3c1FNRDQtNzYtVktvS3ZJWENxLWJZcGQzaXV4TkE2RFcxdDdQazNubmZ2cVhjaExydG4za01rQ1Zza2FuRzZLLVNJMEZUVzRiS2M5WGN3R1VDNEkyUFltaUNtR1dpd01KNVFiWkVmc2w5ekJLM0h2eEl5NXdiNm8wM09BQlYxWGRZ?oc=5",
+          "published": "Wed, 24 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Mcap of 8 most valued firms surges by \u20b91.90 trn, ICICI Bank shines - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY0pyQjNuZm9Ld0VaZ2FTUF83clJFamhZR3VlQ2VkRU1YcVF1aFJVU0tDTl9UVHpKSzY2azZuMkw4bGdjWFlxclpKTHFpT0VlbS0xUVNOMnVsYWlDUEtCSkpxQ0Y1eUdVanptdE5HT2c1SkxQd1UzRlRlMkFSeWhRdHVQSE5kMlFmWnM4dXN4cTBUdkxaUFQwaXBTSGtUNF91YS1KaGxWbUlBdWdwWk5zRno3SDVwMGhDTUN4am0zUTJNRXd3ckJkQkpUd9IB0AFBVV95cUxQMWhLY1YyZzBKeXpwZUw0Y1dwdDRZSm9Ca0Q1T3JfVlFobjhRNERjZFRyTnBDSlFoU1p0NTUtUjZkR3Q3WTh3STAzN1ZWNkZvR0xGdGQycElFTHJxVGF5b183aU9tbEtyMURBYm9uSmhicVhXRDFka1lQYzh3SFBxMnRGTU15aUR1NlZFZXdoZGlka2h0NUkxNW5ZRHpmNUxvdGNIcm1wbGtZcFMtRlU5R2huYmhwUEZCbTFVVHMxV0Z2LUxGcUNoNkV2RllVYVdO?oc=5",
+          "published": "Sun, 14 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Indian shares log weekly gains as earnings optimism fuels banks - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR3NiOW12NnV4OWJuakxGU0RqY19uZS10Wmx6Vnc1UVVkMnR6VElsbmY2cW1jaFBmYlA2YUIyVzJoLWZ2T01EZ29TbmlEM0JYbEdXVk9MaFZBZW9PSThPRnpqZ0UtMzV0d2lTaURjalU3NVItWjF1UEFvRWRBLU5DcUJQVjVnS284YURjampPeUJHY01aZFBDOWxNWXNfSzgzdTFSQTUtaUQ3MnJLTjljVVFR?oc=5",
+          "published": "Fri, 20 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "ICICI Bank Falls 2.26% After USD 800M GMTN Redemption - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YVmN6bnJiTkRueHVfTTVMUjdRWklpd1FLWFNoZS1TVEsxU2NJTkxtTWVxSGo0R3hKLTdpT2pSeWdKR3VFTWtXNXFaejhlZ18tWk41SWlRLTNLWFFjaGhSUl9UdElDMzVlZ2xpMTlfT1VFbk0?oc=5",
+          "published": "Thu, 19 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: Reliance Industries, ICICI Bank, HDFC Bank, NATCO Pharma, Oberoi Realty, RBL Bank,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc0hqNHZYRE5pdUdlMUkySUJubnZpYi1aX18xeDJ4WUpZdlR6amt6SU9CbXBkemtPSWF3OEVZNG9LajhCSmxWY2J0N01pc01YRG9wcW9jUG8xV2VFMDlGWERzS1k5Z2J3N2libG5Hc0JsN3hzY2FFYjNSVDVLTWlOQVl5bkVhTGxQeDhDRUswMmxPVXNjV1Q4MURhemdGWEV1MnZUcFQyaWVXc2JQZHlIeC1uV3poWmF6Z0l0UkQ0TmdEbE5GZzZxMjlBRDRKWGVPT2UwNnZYbWYtc3N6M3BJLTVWc0dxSjA5VVFRVlY2VDgxU2I5bjEzenZqYzJLbkxaa3J1VmQ3anhlNFhFRDNWQ2FxZ3piYk5rTFRnVFhLRzJOOG9hWjAwd3U4Y3ZqQ1JhMjNpZ1BIenDSAb4CQVVfeXFMT1Vsbk9nQ2hPU0o1WUVSZmpKX096a1Rrc3ZvWWFKY3AybjFrRXJ3U0k5Tjlzb3dneEdycGdjNmFCU0pkTjBMVDYxU1duS2VFZGlfNzNER3lGOExMclZSaTVTVmI5T3B4MTlFUzNSNzE0SUh2dDlVLWx6aDdiNnptT0I5eFg2TDZRU09JY2IxcDJYZVg0YzF3Vi02eWpXbVo3aWZ2LWN3RW9iR2ZIMlk2YThLVHpkTWpDMFdaRkFfSFVfQmcwdzhsZTctX1NaaVB5bkl3S3l4YUhibGZrc3dBR3IyR3hNb3FMZ2pxVWwwakFELXNpZUxubXZ1WTU0NzJlemlnZF8wcnBQaTdTSnhncU90Z1hIZk55S3gzcElNbFF3OEE1NlVIcnc5Ny1ocnN0OUVxRTJSdzUzVHp1S0RB?oc=5",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT"
         }
       ]
     }
