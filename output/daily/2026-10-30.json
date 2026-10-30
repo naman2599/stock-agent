@@ -1,0 +1,294 @@
+{
+  "generated_at": "2026-10-30T10:19:45.282894",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "ITC.NS",
+      "name": "ITC",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 265.6,
+        "rsi": 53.5,
+        "sma20": 261.81,
+        "sma50": 263.93,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.7,
+        "high_52w": 306.55,
+        "low_52w": 255.0,
+        "pct_change_5d": 2.99,
+        "pct_change_20d": 1.08
+      },
+      "levels": {
+        "suggested_entry_zone": "262.94 - 268.26",
+        "target_price": 286.85,
+        "stop_loss": 251.34,
+        "risk_reward": 1.49
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "ITC, Britannia, Tata Consumer shares fall after FSSAI\u2019s red-label proposal; what you need to know - Upstox"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "ITC shares slide 3% on block deal buzz; FMCG giant down 29% in 2026 - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGNTdHpRM3M5SkJDdlowRVZGeEpaU3E3dmdiMVJCX0N5dkh1STJOc28tV0kwbVFxUzlTSVg3U0JKR0VpSmlCYWg3OWViQmRvejlYd29GWnVzcm9lSC1WbVJLaDQ0b1VhQkZDQXpJdF9kdWRNU3ZablFzMXdqeUd4a0kzeV9JcGg2dW1GeDQ3WVZVSjRYRkY5enUtdGV1Vl9DNkI5NkpRUTZiNWpqdllWX1BKeEs3NTNya3hRRnVWVzFqaXBKZlhhRFBxdGpOR2EyMmZ2bdIB2gFBVV95cUxPSVVsZzF2dm9aVk1xa2ZnWTdBdF9TOWRmMkRvYWQxZFBIUnh1QlE0dDZKck1IY2w5QlByM1NmM0hid1dPQzB3RWtSUnlXa04tYzFJWUJaTWlhNDhsdXlNMFY0aWFQZnBPZFdwd1hVdkJFWmtkbTVXSnVfWlhjYVZSRVA2OUM5cTR6Z1ZCeVZ4VVFMelZyZFJjdTZJREpNajA2UGhjMWRpZWFabWc3WkNOSzNnUndTZzY3T2xqU3R3eWg1VGE3cXJSeVdDU1pydjZrSmgxNjMxSE1sdw?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "GQG selling rattles ITC, Adani stocks as Nifty hits 52-week low amid global yield shock - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0V6NTNYOHh4R0VzRExoWU40aUVHa2VOdllLZWZJRjh5TXJWemdDazdoSkZVX1ZEZXNDUlNrU3BRZnQxVW4tb3VRUEYzX0psODBNSVhNNl9HUUJvNGhacm1HSk1TemZkdXI2LVlnTUhBUnpuazFlS1RiTUZkSU9UN1Rsa2NJOXc5bThBWnpVN0FSRVBPLWxsdWh3dnFaVzFhc1lnNmExUVJfak1FU3c2bXJmSm5hZVN5dXh4cTN3RXFmLUFvajN0R2JpWUlqbEtvLUhoRGswcDd2dkV0eWdqS2RfeGFQUdIB6wFBVV95cUxQc3k0OGV6VXBjRng2YXA2anhvZ0FXeUxvUzJpVnh5NDQ4WldwMmZocXpPbTE0emR0OXg4d0RLTWs3RW5lQVViZWFNdGQwS0dEeFBHdWJKZHl3NGN3enZ1eERqSzJwbEVyU0lpczNaYUNsSi10U0s4bUtrdTFJNjF3Rmd1c1BOcXZmSGk2RXp5U0IwVnE5TFpSUmVGVFp3blotU1FxLUE5Y0QtdEcyVEN5aGpRVjA5eG5JakRQUmE0bkw3a19RdGVWbXVTOWpSeVRDZ3ZVZW5vQzJ6M196Qk0yYzFVQ3lyeFJLZldN?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ITC reports revenue down 14.40 percent: ITC stock sits 39.56 percent below its high - ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNFdHZnAxLVljQUljSkZNdzdTLWlheWVfY2txZi16MGxUMkpNd0RSOVNYazIxWnBZUUdLenVvVHdxbUNKUktoTVJmWnhIekJTYWFyLVdVVGVCcG0tRFc1clFmZE9wSTh2TEcyNDlNMl82Y1NkelUxbTh0VExNY0ViRXFZZU8tM2pnWmF5dDU3cTh1cjhoSUl4MjVzVUlxYVZYYVhiV25uZTVwX1FidXlHeUpMQ2dkOVdjRHpoV2ZoNmtMYTBnTERjS1BYYno0ckJ2TWNvd1VpQlpnZXdSSWc?oc=5",
+          "published": "Mon, 26 Oct 2026 14:45:34 GMT"
+        },
+        {
+          "title": "ITC, Britannia, Tata Consumer shares fall after FSSAI\u2019s red-label proposal; what you need to know - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUEtNZ0poVThwRVZmRnlqdk5JbW5FNDNzSXp3VldXMEJXWExXSEk5S05fN0ZFMlVFaUl2ZkJLTnhwSVR3S3h0LUVYTHpzN25EOU9rekk2X3JqQTEzc3BfR01hTmhtRUJua1NVeXBrZElpMnJBdzBpOUdnX1lWU3dPSWE5UU9FZW9jTHFlMTN1aEprWVlBd2JGS3ZvZG5PZ1hoSVFlMEZtTlRRdW1DWHZycEZKbGJBYnpGbEtia3piRXBqNEpYbWdiN2lBVkx6Wks1WDR4VG5n?oc=5",
+          "published": "Mon, 31 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: TCS, ITC, KEC International, NCC, Waaree Renewable, IRB Infra, Pace Digitek, Lupin,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNUWRyRXpYdXpMdHZHcEVZVVdIbEVQLVpXR1QwNHlQamhhaDVDb1pkVm1JeEppTm12X25CLXVpRTRvRDY0dFlOSmE3SmhjZ2FlR1RDQ3pPa2Y1ZUF5d2duZDJkTHllRVoySy1ZOU1RNHRhSWtZUjdmQ0xHbTA3LUdqWWozMUNfSE9yVU1ZV2h3anJueEdNSm82TWFENTc1czljemRwMVdWQWhBT0JfS0pha3IyVHFERHRtLXpmYWREbWw1dllCRV9qYnpPelktS2xXOS1MajU2Y3hUR1ZaQXBUcFpVbFZjdW5laTZhZUJqS0RIelh1U0d1c09ZNi1sM0dkVHJkVGZGellGWkRxNV9yM0pOdXBnZkhlSHQ4MUpNbEF5OWM1TEpnOXJrYnJKYmpR0gG2AkFVX3lxTFBYSUs1OUNpWkEtVDNmcEpEY2hIRXUyclJGTzlZMFNfbkI2UURfV1UyaVpRTHVoWWdsczBJTUVXNVpzRTFmc3FRT2JOT1JkbTRxdm5SbWpBTzkxRVdqVHFJbVRxeUE3LXpHd0QzenFOOUdoX1FncElrTmdiQUw4R19qRWFWWHVJc0RJWW0ydmFLMFV2SlpUaThhdm9ydk5Xa01rNzFhQ2VXNlgwaFJrc3BhcE8wcTVtOXJQb1hQTm5OS1dRT1lYTmpWNDVkV2NmbGZjdThfbjZFUGdfaVFRekdabGpqUTB2dmRoWi1MaUY2RUNtYzJ0WHc2UGpHX2NaUE80dUMyLXp1YU01UXJ4ckZVNHlVVy1WV0NVbHpGb3BhTEtuY0J6R3hMalpnMHN3TUd4ZVhJQkE?oc=5",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "name": "ICICIBANK",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 1398.0,
+        "rsi": 57.0,
+        "sma20": 1369.14,
+        "sma50": 1377.99,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.84,
+        "high_52w": 1460.0,
+        "low_52w": 1216.35,
+        "pct_change_5d": 0.27,
+        "pct_change_20d": 5.77
+      },
+      "levels": {
+        "suggested_entry_zone": "1384.02 - 1411.98",
+        "target_price": 1460.0,
+        "stop_loss": 1314.37,
+        "risk_reward": 0.74
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Why Is ICICI Bank Share Price Falling? Key Reasons 2026 - Univest"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
+          "published": "Wed, 28 Oct 2026 22:21:47 GMT"
+        },
+        {
+          "title": "Ambani\u2019s Jio reaches $137 billion valuation, becoming India\u2019s second-most valuable firm - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
+          "published": "Wed, 28 Oct 2026 09:55:05 GMT"
+        },
+        {
+          "title": "HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank report higher Q2 profits despite margin pressure - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZTRxUTRxeFBmTl85d3l2d19DTGFGcy1LWnFGVjJvUVpYSWREbFgzM0p3ejRDTG5RM3BjTUxYRWNDNFZTT2c3bU9VYjhROVdOa3ZkLU13Z0FYbHN5ZklfUS1uQjVFSFlNTVNzMTJHRVVqdWtmQ3BDRUJZY0p6UnNvUzR4Q1dJU2x2XzRONDkwRnNWMzNYeEdFLXQwd1RsNlgwREN4Vkt1bEdDc1dqWnRLOGhIMkNjTlpKTU1OX0dDYnpfUG51dExkYVdxdUFfVTR4UDJOSWR6TUFHcXFaZElzTnpjMkVGZw?oc=5",
+          "published": "Mon, 26 Oct 2026 06:52:36 GMT"
+        },
+        {
+          "title": "Why Is ICICI Bank Share Price Falling? Key Reasons 2026 - Univest",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGeDR4bFF5Tm1lSXd4dkR3TGRRQW1XaWl6bkVUNUMzbE01eHNwUGdkNUc0ME9iclZ4cXBMbHlWZ05nd0tiRWVEc01XOVVmcGRGSjNBQjR0RmZ3cTJnbVJadGVLejl2TEJlOU4tRUpjYw?oc=5",
+          "published": "Sat, 25 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "State Bank of India Share Price - Live NSE/BSE Updates - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tU1lpd1NFMV9SMW1WX1BSNWtWYk9ybXd5dWUyOWc5QWxxYUpIbVpUbUNzTm9TTmR1bmxaWllCem5kQnBNQjVxUDJpV0R4Yy04MzcyY0VkeW5zRE5uSndESmJRdkw3aGttbDFoMENBVUZUbWU5?oc=5",
+          "published": "Sat, 08 Jan 2022 10:05:52 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "name": "BHARTIARTL",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 1973.7,
+        "rsi": 65.4,
+        "sma20": 1862.9,
+        "sma50": 1856.25,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.81,
+        "high_52w": 1992.1,
+        "low_52w": 1734.97,
+        "pct_change_5d": 4.31,
+        "pct_change_20d": 12.33
+      },
+      "levels": {
+        "suggested_entry_zone": "1953.96 - 1993.44",
+        "target_price": 1992.1,
+        "stop_loss": 1788.38,
+        "risk_reward": 0.1
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yVGN2YlBzbU5xc0FJSkctUlVUMzAzSHdiOENtSzV1TlJyZHhSVGZIVVVyUEw0MVpwMm1HVDRxOGM3akMyaGhNaUZUZ09TQ0N4b2Vjd3lLaW1DaEg4QXRJbU5BQjZJcjN3MGlBSQ?oc=5",
+          "published": "Fri, 30 Oct 2026 08:16:45 GMT"
+        },
+        {
+          "title": "Bharti Airtel Limited (BHARTIARTL.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qLTh0RWhrcTJKWmcyVHJMQUMxNVp3MHNNTzJab1VpUl9wQ0dsVUp0azBGZ0tSYjBwZ0Y3bWFtRmV2QUZtVFlaSnREdVh1aVE4MHdiM0o5M3FfMG5RTGc?oc=5",
+          "published": "Wed, 28 Oct 2026 23:58:36 GMT"
+        },
+        {
+          "title": "Bharti Airtel Earnings Webinar Q2 FY27 | NSE:BHARTIARTL - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTGV6c3daRDRJdUhUTjZveDZWRmZaQ01iUEZkcmYzZTlkdmtvNTB6ZDdCTlQ1OUxNenl1bkZvWEwtUFhZc1V4d0JISTFaa1YyWjlXM3VPUjlaZjcyODNZemJBVHlUTlJhUldrX3lFdFFFU2g3UHcyTmdPSGJyLVpISUp0MHhxdFVmbk91ck9GS2JET0RsS2dITmJ4N0k4d09fMTdZQkMzeTM5QVZFTTIwUllZRmF0eVNybFgzb01SNnk?oc=5",
+          "published": "Wed, 28 Oct 2026 13:39:00 GMT"
+        },
+        {
+          "title": "Key facts: NSE:BHARTIARTL 10.71M subs; tariff hike; Starlink data - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXZZdk1LV2otc1F6Z2lFTnVUd0hqOENXZHVudEdvdzJ5bUQyT0JPNEVJWG81MUdTQmFXMjROTThoYVgxcnZPQ0RTYUJrZk5CcHI2Wm9VdDhJNVJaMFZqQXlSY1JWV0lyUkpuclhQN25xeGxJYWJwQ01PUW5nT3JJOXhZTmt1TzlzVkJ3WW9kelAwVFVhOGs4cWhhMkxWN25FNWZucW8zYWpGeDZfZTExNS1MY1d2bkMtSGkxZEdTcHpVQQ?oc=5",
+          "published": "Wed, 07 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Bharti Airtel (NSE:BHARTIARTL) Files Regulation 74(5) Certificate Confirming No Share Dematerialisation in Q2 2026 - Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR0hkanQ1SEM2bnNlTWZvSXdxbGF4NVVkbGE0MmNmM3VTQkQ5b0ZlakJCNzBpOUQ1amtLYUhPZmx1dE1zaXRWZGx4Q3V1a25TSGtsT18tUmFjNnFFZ1NnVzR2elRYbFFDZmJ1eVppR0hHZEQ3ZFhUeEliR2VxUkpWYUVuaHFJVC1WZkpsZVZyQmVjZnNxSEpFYzFKeDh6Mnd1VllReUxMX3RNVGtiTXlkT1RmZ3lzN2NSdlRaZmZHYU9WRTNQXzg2cFMzdTFodm0tdW5zX1BRWFIxUUZSdUVFekxIVVJET3l5OGx2Sg?oc=5",
+          "published": "Mon, 26 Oct 2026 13:31:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "name": "KOTAKBANK",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 461.6,
+        "rsi": 69.1,
+        "sma20": 439.47,
+        "sma50": 423.6,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.75,
+        "high_52w": 461.6,
+        "low_52w": 369.46,
+        "pct_change_5d": 7.22,
+        "pct_change_20d": 10.7
+      },
+      "levels": {
+        "suggested_entry_zone": "456.98 - 466.22",
+        "target_price": 498.53,
+        "stop_loss": 421.89,
+        "risk_reward": 0.93
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Kotak Mahindra Bank Limited (KOTAKBANK.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ydDcwaWg5Y2NVd2psSkFKQktrTVNnZTF3TmloQWQ5Q1c0TFRMR1NtM2syWEhya2RoSDFmV282OWJiTkgxbENmRjlwd0xkT2dxbFhuY3NEZ09DRW9G?oc=5",
+          "published": "Tue, 27 Oct 2026 17:34:14 GMT"
+        },
+        {
+          "title": "Kotak Bank Stock Touches Lifetime Peak on Better Outlook - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaGYwODFFeHRVbTR6aGplZFBTVmNaYnVtYmR3LTAtUi1lbnNBVGNZYzZGX2ZtNGVkc0pONnZvQnI5bExxTXRIY1BaUzZTWVZScmUxWno4NktDRzNabEZYRmk5dDJWWmVxV3o1aU5KZVhYdzVVX19RTDR3a1FWWlk2Y1R5MGlEN2NOLVFzZjc0WWp1ZUVIWUM1YUZDcF9PR1VxOHVpNlEwR1dxU3lLb29KSXlsZlhBZEI1dHRuR1R3akN6V3ZJajFF?oc=5",
+          "published": "Fri, 30 Oct 2026 06:57:00 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: Infosys, Kotak Bank, Lupin, KEC International, Bank of India, Coforge, Bharat... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOcUdENFh1VUFFYXlqZVBvYUlIQXE1aEZuOHNoZjFnN0Z4TzExOXJLbkk1Qy0zSUpja3lBM2J4Tk8xSHNlVm80cE1MandLWU81dkVvdkhZVy1jWWN5elpXT3pUVS1ZaGVFbGpjbFFnR0RLZWxNSURzOHhzblllWnkzQmVkZ0FOZjlCOGRzWTlIdWJCRVpWQzk0S2FMU19TcnRjQlM1V09vQVNEbDlqMVlmWXpYT3JiMjFQYkVCUlFIOERPX3BuUWtwRVV5bmpremItc1FMaTRuN09LM1E3Ul9sM0FoOHN2N2ZHeTU4cG9NOWZ0NEFucGxyQWxJSXNqODI3SExPYlVXdlZfZENXbVgzLWV4QkRvaEhfc0k5U1FnT0VsYzkwdTIwRzdIMUxvZlBhQXkxUUp0bEVBVl9wRHY5d1AyWi3SAcoCQVVfeXFMUGhWdUNoOU9jT2s3VlM2OFRwNEkxVXo2X2tXbjdWbzM4TXpEZHctbUlFYzlOYmVGcGtJUklKcm8wMVV2Y3d5MGtlYWVPdGZDcFpfZVZ6OU41alFnNGxabjA0UGE3eTRzUmlnY2dBZGFFYkJOS2FCb2wzSnE1cDdNLVd3ck10UVhLblIzUnpndnZxVkFDOV9YcWpQTmNkWEhZMk4wMWo1NlpZaXJCTXBpWHhNMzFrU01OcmxFbDAzMlluWGVONG9sVzRDMDNZQlZEbk9BNXhhbmVZQ1JlSnhWVm15Q2dQNXB3MGQ1MnJocF9kV0h0Q1Y3UnNNX3d3Z1ZMVWpMeUpCbjNlUEZWQ2VtY2M2aTA0a2NDVGJGRzlBRkdyeGlSMVhsZmJQN1lpQVN5eUxtR3FBaXVIR0hOWlZiTzhWanZCQ09pb2NB?oc=5",
+          "published": "Sun, 25 Oct 2026 19:49:22 GMT"
+        },
+        {
+          "title": "NSE may surpass Infosys, Titan, Kotak Mahindra Bank, HCL Tech in m-cap on market debut - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVEZtT2JQcFJzcFk2M2RpSldweE1qcmVveUhpbF84aG1fWUZiOHRzTm9xVFBzbDJ0RkMwV3F4Y2FGVWIweVd3REQ4VjdNNDR4Rk5RRldZcENOTkpqM3pZTk12bXZZSHVtU1hYXzQ2MXZtYzB3QTl3cVFaLXhJQjIycWxBNEhiZnRHR0tlZlBWRkdlaE0yUkY1WVAxZ3NZSUhrdmM0UXhIanhJUm5ieW9RN1dnWWRhdVp6b2ZEeHpmUWh5bEE3TGJteWFqSTREQ21jdGMta0Rra01kczE5SlNyS2NOeWp4cXdQQjVj0gHwAUFVX3lxTE1HY0s0eHM5RFFJc3BGY1F5Yk1fUVN4bjlRWXFHU1hjeGtBNVZSVGFTTWhjV0hUWnAteWpIUzRUUzB3UzVhNGh1NnRNWE9HLW9vODdrdHdrY09fQlJUZVdrQVZKb3g3a24tNjBNTG1laTNnOWxfUlNydDJneXZSNi1yMzRKUnBLelhXaDdPdUtoYjdhTUJXNnc2MmxOT0JicGV4RDRaZUJvQjV3azU0ZV9ubmw1R09ULWY5WFd2UHMxS3dmU0dSWlYwNXBIbzk2Nm9QeXY5Q1NJOVJsbmxlaTYxSmdGV1VzVjhVYmtkOTZ5bA?oc=5",
+          "published": "Thu, 24 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Kotak Mahindra Bank Limited Share Price and Technical Levels - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWI4YW9QbjJqRTM3VmphRG5fa1kzc2RNd1l2OEQzSmJnTGg3OTRlS2p4X3dzOWxwZG4xY0dEWG1nZEpnVUJDOFVvMldDQmR2dHpRWEVjTktjYzg5UThRMV9GaFczRFo4ajZrb2MyLWk2cnNYbVo4QmdScW1pdHFWcG1SRGVFU0R0MElTVG9YU3JBYk9Uakl6djRMaWRGcjVWZERwMkttMnFfb2lpV2lYRjRmZDNsZEhRNE11LWh0NzlVR1JocWwxUXlwUG5EeUNrMVYxSzFJNmxYdw?oc=5",
+          "published": "Fri, 30 Oct 2026 05:06:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 78.0,
+      "indicators": {
+        "last_close": 2502.6,
+        "rsi": 67.6,
+        "sma20": 2326.27,
+        "sma50": 2255.25,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.5,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": -1.08,
+        "pct_change_20d": 22.69
+      },
+      "levels": {
+        "suggested_entry_zone": "2477.57 - 2527.63",
+        "target_price": 2535.0,
+        "stop_loss": 2233.22,
+        "risk_reward": 0.12
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 3,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Stock Market Today: Sensex, Nifty Rise; Shares Of JIO, Power Grid, TCS Jump - ETV Bharat",
+          "Stock Market Highlights: Sensex Jumps 905 Points, Nifty 50 Ends Above 22,900; Adani Stocks, Kotak Bank Lead Rally - NDTV Profit"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Indian IT stocks in green as Alphabet sees worst day ever; Infosys, Wipro among top gainers - The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWDVqNXozeUhmZkdKX3VIVDRMMFNybE91eEl1eWRuLXRzU2sxZWE4MHhjbHJhVjBjV1NTT1o3Wmo0ajl5RGp6MkF4ZDhib3Zodm5FTGhpWW5LbV9NbnJaQnk5bGpTcVVRQjZmUExRdDd5elQzd2phMFZseHpNMzJja3FZOF9UeDN2NlpkNk84cWRPNFFKLVRiOXZjOHRJVmJyVmRwTHI3QVc2Mm5ITXY2b2RUdFROYlAybFRMRVR3ZVlERm4yYk1fUkhJYkZ0QmJQWGtSZ2RlUUJIRFRJbmRQU9IB5wFBVV95cUxQdHotNGxtYmx2c0xPWjdja3NKNHpjNDk4OFZQMnBMckphT1kxOVhpNlIxTEtjbV9HUThYei0xYXRlcllVMXhiY1ZjUU1qeWlQUi1XRC1XLUtUZWpaUUtCZEswbHpyNTJFai1veXljaFJYZnJZbWZ1VW1rRFdZc0RWX05GemtCdi02aXVQZW1FLU53enpOX1RveTJSLUs1Uy13NkxJbFdNNXhSVDhjd1BkaWNUUjVUdGpvOGtLQUt4UV9tU2tmdHVCYUltc09XWXBpZ3VOOHk5bWNzbVNlYUpjd3hqT1hwZlk?oc=5",
+          "published": "Fri, 30 Oct 2026 03:56:36 GMT"
+        },
+        {
+          "title": "Stock Market Today: Sensex, Nifty Rise; Shares Of JIO, Power Grid, TCS Jump - ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMnZfcnQxWlA4ejFWRGdmZENqNGx4Tk85bUZvR2JZeklfQ2YwWDYxd0U5YUJVcDYzcDhZWFNXb2M5RTF1ZjBmSmZQeldScnlvSXJUOS1TUzJtWnVWYkN4LWVQN3VGMjRSUS1iRGVORHpmWnlObncwcHZGSlpJRGJfN1p3UnBEbGdUT09hMmE4cEg0OW1mU3VkYnRCOFpGUDlqNTBnWTFoX1VOLUdMbldRUXE3WE4yb1BoQXktRjgwRHZLcWpLazZ6TzR6RdIB0AFBVV95cUxQbTl2a3ltYzcxdEVBbGJpQlpKOTJVbktET0t4T2E3Z2E2blFVaXEtZWZzR3dxTFU2ek9ISGxHckQtWi01eGgzSlNaZHNHUkpZUlQ5ejBtY0pKVWVXeGhoU2hSNldpeDNOMjR0UnNJdVRHMU9wWlNwNl9RYmtKMkk0bFkyWXh5VE9KaEpXUk1FUTJzRzdpQlFvMC12VXpKTW83NjRlQjZYR3JfZU13VjBLTFYzVDBPWk1iNlNlbEV1MUpJZnpPNEM5My1sMXNOMnJI?oc=5",
+          "published": "Thu, 29 Oct 2026 04:59:02 GMT"
+        },
+        {
+          "title": "Sensex, Nifty trade higher after US Fed holds rates; crude oil remains a concern - India Today",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXViREYtTGFhN2E1dTNudm5xR0VHZU1kakd2WHZiNDZXV3VvWFRhVXVvUlAxU3FEVTlmeHdWbjc3VFRvVmNvczJwTkVPbldUejYza0FYcFBDVTFrWHVtS2xLYXhPNjNkLWRmbE5wMDNTbWY2Mm92UGNhZDhaNUdZSF9GODkyMjhselJ0eDVQbGpscENobHRpWkxBU1F3R2cwWVR4cDNDVkd4dWZ1dS1nRkhEQTA4WlBnZGZERndyM1M2UdIBxwFBVV95cUxQV2VVVC1qZXc5RGl2TGRPd0Y5YTFKQV9GWFVLV3o1WHpDVldxaDdWVEljWGxsTVViS2R6Q1BXNTNJYXVMX1g5NDZ5cUFiOUNjMnlUZ1NHYWlqUUhRUWl3S29FR3haNFl5OGZnakRVbmVNWjdnclA1anlWbDZ2aGFXZ29KQnJncXcyWGZjd3pCYVBmZjJDbDJ5UXFxanBlcm1kNXRBRlo0UmlQaVBxWkF6eEV5T3ZjamRZY0dpc2dHS04xWjI0NFhv?oc=5",
+          "published": "Thu, 29 Oct 2026 03:50:08 GMT"
+        },
+        {
+          "title": "Nifty IT index slips 4%; Infosys, TCS, Coforge tank up to 5%; here's why - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNUhnVFNGMFlHd0l2My1HVzZBUlVjbERNbVNMQ0ZvTnlIU3ByNjJBUVBIanFObTk0LWhBblliS2pmanlCSTJkd19KR2I1WGZrTHQ1SmRxeWppVkpFQ29rVDhxRG9qdF9iTWpCQWFSYUFYVFNWVUFNcW5jZ1UzSWRId0Z1M1ZRbU9iNG1XRWtKUDRqVllZS1VndU04ZGdIZVNlLWpxaHBFUmFLbjV5RHlkMzExbEdJRXhId1dHTWgwTlhqRlRYRVVIc0xySnAwUdIB0wFBVV95cUxNSExPR0o2WTlpN0F3SXlQZEV3dXRQYm1LZVE1aVUtNmdCd3QtcDdIMWxMV2pQbzNRZ0dtVW5VWUZINjgxYjZ1YmtmdTVRX2VUTnF1NzZxcWZmYlJmbVhMbGJaSUtYR1RIMWtMQ0Q5am8tRUMwc185em42RExDMWZhZHNPMVNWZVBkWVBCM3JpM2d5WWtLYnF5eDJJRHBhaHZoSWYxOS10T18wV3FaU1o1cUNnLW9fS0d3MEpFeHlWamJYNXRmNE1adEhvMFdjX2RKOWpn?oc=5",
+          "published": "Wed, 28 Oct 2026 06:55:00 GMT"
+        },
+        {
+          "title": "Stock Market Highlights: Sensex Jumps 905 Points, Nifty 50 Ends Above 22,900; Adani Stocks, Kotak Bank Lead Rally - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd2cxcjN4THQ4TFZtR2FweWRJR1BWYmpUcDJTZlRBVWZEeGZYR3R5RFNsYmFzM1ppNlN0Ykw4ZDdZR3l1Y05qZWdjZGpHOEt0QWZHcWFEQmVEc2RkMzl2cFZGbzV6eWFsZU42Nm1YUWZ1QTM4QVZIWmttM056VDhidk1sNmQ0Z3FDU3V1T3c3THFrTGloTjVUU2FHN3pKRUlfXzk1NkhzWTBmTWxWdGk2OVRwTWlLNmpLb1ZDamdaYVFwNHBtdzJObklHbXVEYzhCZHowY0o0OGs4WC1OTDl4WnVtUS1ld9IB7gFBVV95cUxObXhwRThRVnFsTlU0c3E5ejlpZEV1TTJ1QzBWd1JraWdFVWdaMjgwV2p6UUZGSGx6U0Rrajd6cjRlQUdocWczWDUzcGhpSE9YQ2g0RlN2eGg4M01aUHM2TzdPMm1Id1BqVS1pTnQ5eEl5MEZIaGQ2YVBRYlZ2ZU9hdVVkeGJ3NVVVQUpuRlVKQy1MdDl5SHdQUzFhM1A1eFdOcWVKN0k0cmlJOHN2NlNoamZaNlZIWF9GQ1JMWHRFM2drU3FTVERXX2ZYYlFUOGo3dmpVN3N3YUFNV1pTbzJwQUJkUnRLSFV3SXBFZkFn?oc=5",
+          "published": "Thu, 29 Oct 2026 03:51:18 GMT"
+        }
+      ]
+    }
+  ]
+}
