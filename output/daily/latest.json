@@ -1,171 +1,125 @@
 {
-  "generated_at": "2026-11-01T09:32:41.267378",
+  "generated_at": "2026-11-02T11:32:16.406477",
   "mode": "daily",
   "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
   "shortlist": [
     {
-      "ticker": "ITC.NS",
-      "name": "ITC",
-      "score": 93.0,
-      "indicators": {
-        "last_close": 265.6,
-        "rsi": 53.5,
-        "sma20": 261.81,
-        "sma50": 263.93,
-        "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.7,
-        "high_52w": 306.55,
-        "low_52w": 255.0,
-        "pct_change_5d": 2.99,
-        "pct_change_20d": 1.08
-      },
-      "levels": {
-        "suggested_entry_zone": "262.94 - 268.26",
-        "target_price": 286.85,
-        "stop_loss": 251.34,
-        "risk_reward": 1.49
-      },
-      "sentiment": {
-        "label": "positive",
-        "positive_hits": 3,
-        "negative_hits": 1,
-        "flagged_headlines": [
-          "Sensex, Nifty open marginally higher amid rising crude prices, weak global cues - TradingView",
-          "NTPC Q2 results: Net profit soars 41% YoY to \u20b97,351 crore; dividend of \u20b93/share declared - Upstox",
-          "ITC Hotels Limited Just Beat Revenue Estimates By 8.2% - Simply Wall St"
-        ]
-      },
-      "headlines": [
-        {
-          "title": "Q2 results this week: LIC, ITC, ONGC, Airtel, Nykaa, NSE, Lenskart, SBI and more to declare earnings - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObEdqTmJLd0dOeDJMcmc3OTBadGY3RGlkUFN4R0l3NnRlX0FIdmxONmtKRnpvbGZsaThTeUUtb1dZX2Y3QkNZMmlsVTNPNzR2ZGRPdzlSSXc2Nl9VaDByZE1pZE9OTXFPOFNKUXBqWlAtRWg2YXNGbUVkZEtORU9tdHRuSmhMR2VpNzA2TDRDeDhOdDl1bGJCQ2RENHNWRVV4azNlejhpNTNCZWplRml3ZUJyb1Vfb2ZJT0UzVHNLWWtWLWJKaVphRXp6Y0kwTmp2Ty1US3Fuc3lGRUFxRzJ6X0RVOFpFTVFv?oc=5",
-          "published": "Sun, 01 Nov 2026 08:34:16 GMT"
-        },
-        {
-          "title": "Sensex, Nifty open marginally higher amid rising crude prices, weak global cues - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZEVUOGVMeklfRE9LWkxXTEw2eHBrUG9qTkZjSkt1ZFpvZ0laVlpMS2FhN0ZTWnh5RnJjNFZsb1BTcjJreS0xS1pUT29lQVl0UXNUT1dlemdUZEFLVlhjQUQ2QXVCdnZYazJ4bnhnZERxWU9FMGg1WG9vM2pBZEFNV1ZycE55QTdvLXJscl9faTZfSGNWc2VYUTF3R3NUMXZfVWtDak5UNjFjQVJvZVpqTEFWRmhKQnozcjFQdjVKVWV3Z3lxVTA3QkNUU2F3Zjg?oc=5",
-          "published": "Fri, 30 Oct 2026 04:19:00 GMT"
-        },
-        {
-          "title": "NTPC Q2 results: Net profit soars 41% YoY to \u20b97,351 crore; dividend of \u20b93/share declared - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1FxMVlUWGxjek9VbkctQkxsYlh0WnljLURLSV9ta3pUSUFOOUJTYnpKVTVXQnRLOXE3RzFBV3VEUGY5VlpOUk03ZVNVZUYwSkhHcl90cUk1dzBtUjk3SFFqVVRZSlJFc3VVc2FmeTBDY2V3aUZ2THJkNmJvMzBibXNZOVoybVRBaV9QNjlUekFRZ0REa3JTeS1GREN0cXM2N2laTS0zdUIxR3QzdWhPRGZ5bi1Eb2Ezc3U4UXM3dWJFTnMzZnhqVGVlNDJWTExTcHNNVmFFWGNHMFJ6OUE?oc=5",
-          "published": "Sun, 01 Nov 2026 09:12:27 GMT"
-        },
-        {
-          "title": "ITC Hotels Limited Just Beat Revenue Estimates By 8.2% - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkhUUjVkX1lreW9mT3RYODk0Q0tzTXdiWHVvSnJDMmxIaFdDWDFsbjZhcGhXVUhjX0hmWG5Jajl4elBIbElxdmFrazlTU1dNOXU1RTZuS3g1TmNzSDBFQTV2NE54MFBhT2t1eHM2OWJTemJnVUhKa0dBOER0S3NST1poVnZ4TGF0OVc3ZU5HcEdtcG9YakVVVENlZmVzb2ZyTzUwY19XcndKakJCUFJxNkhZYi1hZzAxWl9DX3Q3a2VmSVBTWjlZVUNodUJJcUZObHh1a0JR0gHbAUFVX3lxTE1MSzc3bjVQUkpTRlE1THpSUHlMNFViV05KUXVZeWt3amR6RDR4MjFOamZWU2Nmd1lVbWZoM29LNnNFWTgwRGU3eUVpaTFTUlNTaG4tN3lWMDV3Uk9SUmJNTmpuWThDejI4cHhrUl94UFVqUFhOaTJrYm1KTjFUZzVULVFpY0NMbGxMdHZfWjBiSGdQSFBOUDgwZk1sa3F4OWNubGNYVkVwSkhpWmxNUWZBU2h4RXlVQjJjR3hYQnUwUDVQMzFyZHpzeXZtdFBVY2g1bGVzLTE1eDFCYw?oc=5",
-          "published": "Thu, 29 Oct 2026 00:55:20 GMT"
-        },
-        {
-          "title": "ITC Hotels Share Price Jumps 6% After Q2 Results: Is It the Right Time to Buy? Profit, Margin, Valuation and Key Levels - Univest",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2h4UWFoTTFVaGVEd0U2ckFnMElkODlJT2xvc2tld0ZBVC1YQUNuTi03aFNScS05QVJMaHVSZHJ5WS1sTC1rQXEwVFc5bWRRUmFBcVg0d2UtYW10bTJiY3JabERrdVZZTEp3RFJMMFRYVTFlbWRrbkhxbXlISUVkSjgybmZLb3ozRGtZcmpWakdpNWhyVlhid25yZkRtbUZ5bTZ1LW5DZ3JWb0pPQ1RySWZBMnN4TVh6ZXh2eGFvaEo4Z1NURS0tS0M5dTJpajhkeUJ1djBxWDRSUUU?oc=5",
-          "published": "Tue, 27 Oct 2026 04:39:00 GMT"
-        }
-      ]
-    },
-    {
-      "ticker": "KOTAKBANK.NS",
-      "name": "KOTAKBANK",
+      "ticker": "RELIANCE.NS",
+      "name": "RELIANCE",
       "score": 88.0,
       "indicators": {
-        "last_close": 461.6,
-        "rsi": 69.1,
-        "sma20": 439.47,
-        "sma50": 423.6,
+        "last_close": 1300.0,
+        "rsi": 65.8,
+        "sma20": 1193.03,
+        "sma50": 1235.66,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.75,
-        "high_52w": 461.6,
-        "low_52w": 369.46,
-        "pct_change_5d": 7.22,
-        "pct_change_20d": 10.7
+        "volume_ratio_vs_20d_avg": 4.72,
+        "high_52w": 1456.86,
+        "low_52w": 1158.0,
+        "pct_change_5d": 8.17,
+        "pct_change_20d": 11.33
       },
       "levels": {
-        "suggested_entry_zone": "456.98 - 466.22",
-        "target_price": 498.53,
-        "stop_loss": 421.89,
-        "risk_reward": 0.93
+        "suggested_entry_zone": "1287.0 - 1313.0",
+        "target_price": 1404.0,
+        "stop_loss": 1145.31,
+        "risk_reward": 0.67
       },
       "sentiment": {
         "label": "positive",
-        "positive_hits": 2,
-        "negative_hits": 0,
+        "positive_hits": 7,
+        "negative_hits": 1,
         "flagged_headlines": [
-          "Stock Market Highlights: Sensex Jumps 905 Points, Nifty 50 Ends Above 22,900; Adani Stocks, Kotak Bank Lead Rally - NDTV Profit"
+          "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices - The New Indian Express",
+          "Record Q2 earnings send Reliance shares up 7% - The Avenue Mail",
+          "Reliance, Tata Steel lead 1000+ point Sensex morning rally as FIIs return - The Week"
         ]
       },
       "headlines": [
         {
-          "title": "Stock Market Highlights: Sensex Jumps 905 Points, Nifty 50 Ends Above 22,900; Adani Stocks, Kotak Bank Lead Rally - NDTV Profit",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd2cxcjN4THQ4TFZtR2FweWRJR1BWYmpUcDJTZlRBVWZEeGZYR3R5RFNsYmFzM1ppNlN0Ykw4ZDdZR3l1Y05qZWdjZGpHOEt0QWZHcWFEQmVEc2RkMzl2cFZGbzV6eWFsZU42Nm1YUWZ1QTM4QVZIWmttM056VDhidk1sNmQ0Z3FDU3V1T3c3THFrTGloTjVUU2FHN3pKRUlfXzk1NkhzWTBmTWxWdGk2OVRwTWlLNmpLb1ZDamdaYVFwNHBtdzJObklHbXVEYzhCZHowY0o0OGs4WC1OTDl4WnVtUS1ld9IB7gFBVV95cUxObXhwRThRVnFsTlU0c3E5ejlpZEV1TTJ1QzBWd1JraWdFVWdaMjgwV2p6UUZGSGx6U0Rrajd6cjRlQUdocWczWDUzcGhpSE9YQ2g0RlN2eGg4M01aUHM2TzdPMm1Id1BqVS1pTnQ5eEl5MEZIaGQ2YVBRYlZ2ZU9hdVVkeGJ3NVVVQUpuRlVKQy1MdDl5SHdQUzFhM1A1eFdOcWVKN0k0cmlJOHN2NlNoamZaNlZIWF9GQ1JMWHRFM2drU3FTVERXX2ZYYlFUOGo3dmpVN3N3YUFNV1pTbzJwQUJkUnRLSFV3SXBFZkFn?oc=5",
-          "published": "Thu, 29 Oct 2026 03:51:18 GMT"
+          "title": "India's Reliance posts best day in over six years as oil business, Jio Platforms lift outlook - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0NDNVVlWVpIN1dCT0JQN3ZVYWtBTHVQdkhKZjZwTVE5MmhGc2p6a2gtaF85LUVCY2ZlNlh2Sm5kSExna1ZsdTUyMmdhLXk1WS13U3BEbHVQejFJTVBOblIySFdHSFFRNEJtV1V1clVoSDk4NXE1blNTVEcxNV9MUi13RDZCajY5YnJVVEJPejBKNC1UTXI5dEpISXFzNk9FNEd5STFPOFczQzIteTJXUmthZC0zb29KQmIwUERoLUc?oc=5",
+          "published": "Mon, 02 Nov 2026 03:50:00 GMT"
         },
         {
-          "title": "Kotak Mahindra Bank Limited Share Price and Technical Levels - Kalkine India",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWI4YW9QbjJqRTM3VmphRG5fa1kzc2RNd1l2OEQzSmJnTGg3OTRlS2p4X3dzOWxwZG4xY0dEWG1nZEpnVUJDOFVvMldDQmR2dHpRWEVjTktjYzg5UThRMV9GaFczRFo4ajZrb2MyLWk2cnNYbVo4QmdScW1pdHFWcG1SRGVFU0R0MElTVG9YU3JBYk9Uakl6djRMaWRGcjVWZERwMkttMnFfb2lpV2lYRjRmZDNsZEhRNE11LWh0NzlVR1JocWwxUXlwUG5EeUNrMVYxSzFJNmxYdw?oc=5",
-          "published": "Fri, 30 Oct 2026 05:06:00 GMT"
+          "title": "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRl9YU2EzVFNaMzliQzg3SldUeVB0SllhZEhEWWEwcFo5RlRiRkJ3LTk2NFpFYW93eDR5eFpjSzhHNVVFNF9iV1Z4ZW9lcDZqb2hsc2FSd2VCczdZamd1X0tKOTVHaTc4Mm1KbklBVEs4aGZ1bFEza1BDb2RKQTlSSmZmYTc5VEEwLVJkS0xPaklYc1BpaHJKSFZUMkVEYVNKM0FOYkdudEN0cUZCYnZSOXNmWXltSUNOVFFKMlE3WVJUcDZDRTBSRmFfcUZUc0dxc3dQSjFXN2F6WGk5M2xpMG1aUkRDMUHSAfQBQVVfeXFMTUxqeWhXclZueDVDNlZyZmxodlNrc01ORWgxa0IzRjZ0TUx5MThRZ3VxRDdJdzlDT28yZHo3ZUlTaVNVMU1PcXhYWm5VeldFMDFwY00xUkdQdVo4bkk5TjYtM203VXZkZHdwZkNxdXBybk1JUkNiTmtvX1BxNVFaVkJGOXkxNjEzRVFaOW10eFBqM3dyMXdQVkNjeGxVbTVJWW8wSms2T0JYYW9QeWFvdzFaeVV2Uk80bWRSOURsVnE0Njd5SmRtT0ZoNnlEd2M3UG9kU0JfSTdpUzd5Q3p3SjBZWm4zUTNYMEpzcDV3QWgxZEtFaQ?oc=5",
+          "published": "Mon, 02 Nov 2026 04:34:05 GMT"
         },
         {
-          "title": "Top Gainers and Losers Today, 29 October 2026 at 3:30 PM IST - HDFC Sky",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3hDdVFGdTM1SzQ0R2dSSmpSNmdhdGExdjVacVlkZUdOX24wYkdwdHFRMktoV21UdFIwME1fZUVvMkN1RzNZSjdqMFVCZE9LRjdYejM1TEdwRDJ4SmRmbHlUblBHc1NYbExLcXROT0Jnd2hncDBHT2hkaVZPSEIza29TWHRyOGM3TWVoNw?oc=5",
-          "published": "Thu, 29 Oct 2026 10:18:59 GMT"
+          "title": "Record Q2 earnings send Reliance shares up 7% - The Avenue Mail",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GeGppQlVqQ3JxaWlIZ18tSW5lU1FyRFJlOUhDQ2dXWjlUTjFFVnNCMDkwVl9zYm1ZLVNDWW8xTHc3dTlRVU1EdUUxTlllUElHclg0bmd5bEsyVlREcURTbzQ3VVU4SHhLVnFkNkhYOWxVXzFyUjBFTmZ6TQ?oc=5",
+          "published": "Mon, 02 Nov 2026 10:35:18 GMT"
         },
         {
-          "title": "Kotak Mahindra Bank Share Price Today: 52-Week High, P/E - Univest",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTZUQ1R2c2dTSXdoMzAyV25UcV9TY2J5Ql9ROGpOamUwWGVKclJSTUl2MU82bkZOXy1UaEIyOUxDYUhlaVNrdXFJdVBKS3lrajdDVDk4SDF2d2x1el9XVnQ5dVpUcUlfcHVjUjFtY25tT2poUnJyY1lhQnVfNW1LWDZ2UjhIc0xJRk1TOVVtbnFWQQ?oc=5",
-          "published": "Thu, 29 Oct 2026 07:01:00 GMT"
+          "title": "Reliance, Tata Steel lead 1000+ point Sensex morning rally as FIIs return - The Week",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlFmUnJGSUR4TVBzWHZ1STQyV3BwU3dRLTRQclZuM2s0ZTM0MVVPcUVwTERyVmRLTHlwQnZsVl84emthdTNhZmhtb1k2LVpYbVlzUW1SU0RqVkRxVEpRWHlkQ2R3WnlraUZCQzU3T0l1em5WUHhhS0xXRkpjcHNKSmpBVFc1R1d5YlpN0gGQAUFVX3lxTE51eGdMMTgwMm40T3J3VnpHVWdiMEZNV1RLNzExUXlTZ1lUeUFjOWRrckY0YTVuR2ZrVUhpdzlpWGRZQVZrbDlIMG80NHluOV9zTFhlZmFYdWJBYV9MX2pLeVRfYU1Id3IteTlFc2pGTTZ0TnVwZVBxMHFfMmdxT0RGbzV2S0tKSVd2S25WbjhPNQ?oc=5",
+          "published": "Mon, 02 Nov 2026 05:05:52 GMT"
         },
         {
-          "title": "Dr. R H Patil Memorial Dialogue 2020 - NSE India",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5SlZYUTl2T3BjaEh1Q3RJSnA1T3BfcUIwVVd2alpaRFlEY2lCdXlOWkZCcFdhSVFkUlZsOHZvVFNqV05DaEZUVlVoTm9uTTk5dzdZV3lzb2FqMHJGOUVISmR6ZE53bVpibWktNzZvbmhfbDhyZnc?oc=5",
-          "published": "Sun, 05 Apr 2026 13:06:17 GMT"
+          "title": "Indian Markets Set for Gap-Up Open as Reliance Beats Estimates - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdVgyRzJuLS1HUDk2TTAxcVpicVllQmtSa0NveVlUTnRha2RTRkRFbThibEUzRVZZTzBNYkJzaXBNdUhNRS0wcVVWMjZXNV96cmJ3MTZHNm9HN1pDS2pLb2JEM2p3a3l0dGhwaU45NVpuNGhTMzFlczQ0M3p5Wmtvd3h1ZlFOcU1BaE5iLVYxbWp3UV9paHRnSHF6RnFJN3ptUkVGY21mSEpjbWhob09XaFNXZDViNWZJb0c2TEVYZFo?oc=5",
+          "published": "Mon, 02 Nov 2026 03:41:04 GMT"
         }
       ]
     },
     {
-      "ticker": "LT.NS",
-      "name": "LT",
+      "ticker": "MARUTI.NS",
+      "name": "MARUTI",
       "score": 83.0,
       "indicators": {
-        "last_close": 3871.7,
-        "rsi": 61.5,
-        "sma20": 3694.27,
-        "sma50": 3844.2,
+        "last_close": 11672.0,
+        "rsi": 51.0,
+        "sma20": 11387.3,
+        "sma50": 12147.28,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.84,
-        "high_52w": 4216.4,
-        "low_52w": 3625.1,
-        "pct_change_5d": 6.16,
-        "pct_change_20d": 2.97
+        "volume_ratio_vs_20d_avg": 0.88,
+        "high_52w": 14393.45,
+        "low_52w": 11170.0,
+        "pct_change_5d": 4.03,
+        "pct_change_20d": 2.51
       },
       "levels": {
-        "suggested_entry_zone": "3832.98 - 3910.42",
-        "target_price": 4181.44,
-        "stop_loss": 3546.5,
-        "risk_reward": 0.95
+        "suggested_entry_zone": "11555.28 - 11788.72",
+        "target_price": 12605.76,
+        "stop_loss": 10931.81,
+        "risk_reward": 1.26
       },
       "sentiment": {
         "label": "positive",
-        "positive_hits": 2,
-        "negative_hits": 0,
+        "positive_hits": 6,
+        "negative_hits": 2,
         "flagged_headlines": [
-          "L&T share price jumps 6% after strong Q2 results 2026 | Should you buy, sell or hold? Check target, upside - Livemint"
+          "SENSEX, NIFTY50 rally over 1% amid crude oil pullback; Reliance, Tata Steel, Maruti lead pack of gainers - Upstox",
+          "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices - The New Indian Express",
+          "Reliance, Tata Steel lead 1000+ point Sensex morning rally as FIIs return - The Week"
         ]
       },
       "headlines": [
         {
-          "title": "Key facts: NSE:LT Q2 profit +33%; margins narrowed to 7\u20138% - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzR5bUJzTENHNzFRQ3pLSkVNa3U1ZzJ2djZvSVYyUWhMUG04MWQ3X2o5Qm9jVWI1ZFFUcnk0N19OY2pRN3FpU1haeGV5V1FTR0tfaUNBeEFIRTVsZkk3NjdQdVJnTmN3U2s3RzJiWXlTTGhGN0tjNG5rQ1l4OWR0d3g3MFlvMHBKQ0p0M2dDeC1qZ3FXLVBlTnVTUWxiLU80V1FleWNsZ3llLVh6Z0IydkZOQ1EwZw?oc=5",
-          "published": "Thu, 29 Oct 2026 02:00:00 GMT"
+          "title": "Stocks to Watch Today: RIL, Maruti Suzuki, EAAA, NTPC, Affle, KIMS, NCC, Jio Platforms, Coal India,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQakpIUjdZb0h0c2ExSGJzMThkeG1GVHVrdm9oQ05RQVNuVU4xT3k2SWZQajI1TnRZWWFkOFpGSm9QZ01ZU1djUmNwZ1puRW13S0lHQnBtb19GdS1la3NKek16bFB4Qkc4SWxBOHdaT0JBV0gtbXNkN0pxdFlsSGc5SXNzeUxwV2tob1NHTm1sTnduQVhWREhXWndGN01idFdaTmpiZURfWEFvVzBZeFRWUDVvMFJYWkNJVEQyMnhBeUdBRWl4UDFwYTdZd0laQ2huZDZ3V3BESWtSSW45VnVtZ2hZRHkwOVk1N2ZRRXc1UG1XeGZpdzB0eFVzX0FPUlBaWmhTb1FRRzNwNlp1d1ppS21adndXOXN1RVpGRkpnNHJ4UDQ2bVlMNG5uRVZOSXBLaUo3X0h0NVc2UdIBvwJBVV95cUxNV1ladVlhRVFvZGl5UTVnVU1kTE4zeUxaODRXNFdmTFZGTUJKMi16eFh4N3JnemRTdGRHemVjQWZGUXJzSUU1WVlDZGp0aTRjM1VYT0hPaDdjYlBmZ2QyN1JNbU5Rd1B5dzlXd0dhWDZmbExVT0EtN3ZpeFRjSVgtUlcwVDFIOEJZMEsyXzc3UHYydmpFNzNqT05TNnlPWjFwSWNYbjYwcnp4YW5ETkJaaHdDdFltYlhraDNxdHI5RTRRdUFpSGpNbXVET0QwcVB1T0VmemVZa2NIbjZtVDY5MU9aTmY4YWJPcHBHZGNZTWVPWTlFWExXNHlzckJNUUkxa3FKdUpVYjg1eEJfeE1LY1dSbW9zYmdkMHZ2aGxFVHp0dmxTdUw4VVd0b1owLUw2aDBlSTk4S3VrSElGZHRr?oc=5",
+          "published": "Sun, 01 Nov 2026 20:27:03 GMT"
         },
         {
-          "title": "L&T share price jumps 6% after strong Q2 results 2026 | Should you buy, sell or hold? Check target, upside - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaERVMDVnaF9jZ21sTjQtSHMwY25EV1F6azlLb01JZDVrSEMtYUVKdEppdmJMczdCbmxFSjFZY2xNdk5YSmRIU1RMdURRRHBhT0luOTdIeGJrN1A1Z0QycEdvS3ZIWnU3b2dvalF2WTZ3aGVTRDM1R2I2TVNnS3JQT21DWXh0cHhCN0hmancxajZKaVpTbzltTnRMM25ndnQtcTVzdGJZc0xYcGxuY1pIN0FkSHZWZkhTSkZmM1ByTURVRHRzb0RWZUh5dVZVbUlheWdxelJlM29ja2ZDaUNRbzBiMNIB6AFBVV95cUxPd0l1VDlHQlNGc3pQOGJYQnUyRm9neVhaWi1wUHVLcS0zY2JoNno1WHVTQzdYX0ZKWElnQkt0clE2UlVfQU5LTkp4ekV0SUF0dmxjcUFYUHlta1FSUmluZy1jVmNfUWphay1LcTNvWFBrbjVaT001eU1XZElTaXc4bXgtQlFIRVhCMzdjeVBMQ2xZOC1BbF9sNkoxMkdGTFRaZmtnS0NfRWRYMWYxSGJQUTZTdVNUSXpVc0ZscTFuTF9sdmZ6Wl85STRTbXZ2dXRhbWF2QXZlVmhoX2tFUFh2a0k2M1p0a1BW?oc=5",
-          "published": "Wed, 28 Oct 2026 05:55:16 GMT"
+          "title": "SENSEX, NIFTY50 rally over 1% amid crude oil pullback; Reliance, Tata Steel, Maruti lead pack of gainers - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMjVyUldpOEtGMEh0RjNNZk80V3YxU2p5RzA1V0VTMVd1YXB1TVFMYU0xdk5aYm9XWktmT3BhTEItY1h0N0xTNWpWOUhGZ0lwbHZDcU5NdzZseURVb0ZjOWVoMlhiWWVVVjllRTVpVE9lbnljNkhURkMxWkVkaGdTX3NQQmJLXzJWaGllMXh1bWJadHJYcXZIMzR6anVyNDNPN2hILWdERHBVdHNvSzh5RUpIb0NjT0RoYUZ4aXAtaDdkbE5pTmtzb2FOUjdJdVV2a1dNUG9JMGdSVi1HSGR4S2hOdzc3cXUyVS1vTS01TlU?oc=5",
+          "published": "Mon, 02 Nov 2026 03:56:34 GMT"
         },
         {
-          "title": "LT Stock Price and Chart \u2014 NSE:LT - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NSGpGRjZhM3A4QWwzcTdCY0ZQVDFGTU1HcjdlZ0xXcjNMVDZrVzdiZGhvdUhtUGtkdWdpbXZfc1c1ODhDOUVBY3o2MzhOYVZabTRLbHhR?oc=5",
-          "published": "Wed, 19 Jul 2017 16:56:59 GMT"
+          "title": "Sensex jumps 765 points during early trade on sharp rally in Reliance shares, decline in oil prices - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRl9YU2EzVFNaMzliQzg3SldUeVB0SllhZEhEWWEwcFo5RlRiRkJ3LTk2NFpFYW93eDR5eFpjSzhHNVVFNF9iV1Z4ZW9lcDZqb2hsc2FSd2VCczdZamd1X0tKOTVHaTc4Mm1KbklBVEs4aGZ1bFEza1BDb2RKQTlSSmZmYTc5VEEwLVJkS0xPaklYc1BpaHJKSFZUMkVEYVNKM0FOYkdudEN0cUZCYnZSOXNmWXltSUNOVFFKMlE3WVJUcDZDRTBSRmFfcUZUc0dxc3dQSjFXN2F6WGk5M2xpMG1aUkRDMUHSAfQBQVVfeXFMTUxqeWhXclZueDVDNlZyZmxodlNrc01ORWgxa0IzRjZ0TUx5MThRZ3VxRDdJdzlDT28yZHo3ZUlTaVNVMU1PcXhYWm5VeldFMDFwY00xUkdQdVo4bkk5TjYtM203VXZkZHdwZkNxdXBybk1JUkNiTmtvX1BxNVFaVkJGOXkxNjEzRVFaOW10eFBqM3dyMXdQVkNjeGxVbTVJWW8wSms2T0JYYW9QeWFvdzFaeVV2Uk80bWRSOURsVnE0Njd5SmRtT0ZoNnlEd2M3UG9kU0JfSTdpUzd5Q3p3SjBZWm4zUTNYMEpzcDV3QWgxZEtFaQ?oc=5",
+          "published": "Mon, 02 Nov 2026 04:34:05 GMT"
+        },
+        {
+          "title": "Reliance, Tata Steel lead 1000+ point Sensex morning rally as FIIs return - The Week",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdlFmUnJGSUR4TVBzWHZ1STQyV3BwU3dRLTRQclZuM2s0ZTM0MVVPcUVwTERyVmRLTHlwQnZsVl84emthdTNhZmhtb1k2LVpYbVlzUW1SU0RqVkRxVEpRWHlkQ2R3WnlraUZCQzU3T0l1em5WUHhhS0xXRkpjcHNKSmpBVFc1R1d5YlpN0gGQAUFVX3lxTE51eGdMMTgwMm40T3J3VnpHVWdiMEZNV1RLNzExUXlTZ1lUeUFjOWRrckY0YTVuR2ZrVUhpdzlpWGRZQVZrbDlIMG80NHluOV9zTFhlZmFYdWJBYV9MX2pLeVRfYU1Id3IteTlFc2pGTTZ0TnVwZVBxMHFfMmdxT0RGbzV2S0tKSVd2S25WbjhPNQ?oc=5",
+          "published": "Mon, 02 Nov 2026 05:05:52 GMT"
+        },
+        {
+          "title": "Why is market rallying today? Sensex soars 1,000 pts, Nifty above 23,300. 7 factors driving Rs 6 lakh cror - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdmoxcy1yaVF0ZEUtSzgzbWxyWHkzWHFtMFZzXzB1dTI0T2J6NVNFTmg1WnVaRXQ5VW53bGlQNVNJdzVfRTVmMlhUQmtYM1FfY2w3YUpLQlFySFFaZVh4ZW5Ha3hzaWVCX0poemVKYXV4azc0SFpud192SGpacm9LeTJBVjZtUlZmeUROR1V1dlhDdUxWU29UZkxVVU1lZXJyRHVWOUJ4azFlMFdCdUk5MTA4bDNnQkxEdzZ1ZE1uWWlMbjBnN09SU0lWLWE3UENSbG9PTTRuTjVaSTZnRmVqVEREOHBCYXFsYzRWX1Q1OHpxV2k5U29SOU5LWE9mSEdFXzZrQ0tDSkc2bXlpVV94WThyanUydERRNExVT2Q4bUhUQdIBpwJBVV95cUxOZU0wTHNSckJ0MVNBM1d6cG9hNExUYmd3V1B3UUlrNElkZ3B3UEFYZjgyNS1uaWdjY2kxSWcwd0ItRGhxd0JrQ2JHVjY4ZUJGV3VEYlRlWDBMeHZ5N2laUUFvMWdUVjlGR01hUmlvUXJWZ3VVTm1hRGhoWmJQSEpkcW5ZN2laZDBXMHBpY0d5M2xQYzUyNjA2YzZPM3NmUm13dVhPOXZjeUdhcmhSU3B0UHd0RXBSa19qcVhEWjgtODFUNFNURXc4dEtfeTlMbUVlOEFIUnYyLUs5M1NoUGpvcjIwU1M4X0JNZ1ZpdlpBenY2NkI4bHdZTmR0OGZvNklONWZxQjZQTThSU0xjemhxVFhYMm9lM05kTHNUbXlTYkJrWHpUbFU0?oc=5",
+          "published": "Mon, 02 Nov 2026 04:13:11 GMT"
         }
       ]
     },
@@ -174,22 +128,22 @@
       "name": "ICICIBANK",
       "score": 80.0,
       "indicators": {
-        "last_close": 1398.0,
-        "rsi": 57.0,
-        "sma20": 1369.14,
-        "sma50": 1377.99,
+        "last_close": 1387.4,
+        "rsi": 53.6,
+        "sma20": 1372.98,
+        "sma50": 1377.69,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.84,
+        "volume_ratio_vs_20d_avg": 0.73,
         "high_52w": 1460.0,
         "low_52w": 1216.35,
-        "pct_change_5d": 0.27,
-        "pct_change_20d": 5.77
+        "pct_change_5d": -1.11,
+        "pct_change_20d": 5.86
       },
       "levels": {
-        "suggested_entry_zone": "1384.02 - 1411.98",
+        "suggested_entry_zone": "1373.53 - 1401.27",
         "target_price": 1460.0,
-        "stop_loss": 1314.37,
-        "risk_reward": 0.74
+        "stop_loss": 1318.06,
+        "risk_reward": 1.05
       },
       "sentiment": {
         "label": "neutral",
@@ -203,17 +157,12 @@
         {
           "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
-          "published": "Sat, 31 Oct 2026 20:01:57 GMT"
+          "published": "Sun, 01 Nov 2026 05:34:41 GMT"
         },
         {
-          "title": "ICICI Bank (NSEI:ICICIBANK) Stock Forecast & Analyst Predictions - Simply Wall St",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHNnTVJKMndzb19YZUFPNlRKNTNUblBKUjEwUnhtQkJwRVZ3TE5Jd3Jwc3Mxd2Y5UURxNjd5R1pSdzR5Tzh1b0QwR0dNTUpUWk01ZHAxRXlLbHUxdjFfQnlTbjQyT2VGa2dmTjNKZkxOUlI3dXR6VVBWNTFhYW11WGJR?oc=5",
-          "published": "Fri, 23 Oct 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Stocks to Watch Today: IRB Infrastructure, Shakti Pumps, Dilip Buildcon, Indian Bank, Khadim India, ICICI... - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNeFhyRmMxbzVhTkxFUVNNOVJuUlZGUjNvLVUtSHBEOWgtZUNXTk5wZ0xPNEVrdHliRUtDZDM3UEhmQWRadnJoRncyZDlFemFhYlFBYjVFUmJTay1YbmVBcGYxVlkwVEJONG83b3NzckdaTEYyUlVjOVNJVnB1al9FMVhrc3hrQkdfVG9xUzhwOVFPTllXSGxoRUxRV3BlejFkek5VMmd2UVVnOUJvR3NZQ01PR2Qyd3VzT0s0azh0eVgxUy1faVlyUWtHMDJJTVBBTG1vMGkyb0pTejFfYUdsYkVabUhHclpSSVZIN0pPaG5TUGlGWDBkdzVtdWpqMmcwTzVSSEpoMVhZcFNXSm5YTnBVSlpqRGVCT0xiRmttMGplODB5Qm440gGsAkFVX3lxTE5IOWJxN1RaT2U0S3lOV0N5c0JXaDIyeFhGdW44RHdBODNXeE5DNmNlX2thdWtjQWJnRDBtYUNucVIwbjZJU25aWGlsWFp4dGF6Y2VtZDlxMFl4NGM1bXhaZXUtc3ZfbVY2c1ZJMzlQNEU2X25SaVZWNkoxLUkwX2NidVduNDJmREUxdlN4WUg0VXhYNG92VjdOenp3WENDZVRtZnJRMlZRekdRRXQyRTl1WjJFVHJCNzdkcmtxUWdmUGFfVkhTQ2RxUlBSLVFOSG1PNFBCVTk0N2NzakxnOVhDYkl2NVYxVFBDc3c0TnVlNzc0eUJZTHZVSDNWR3lNMnZKZktNSjRxTHVuSGtfX0FHSlRPVFU0SUNIeW9UaGdFc3JnUEI5VG54dEo0VQ?oc=5",
-          "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+          "title": "Stocks to Watch Today: ICICI Bank, HDFC Bank, Axis Bank, GPT Infra, RailTel, ACME Solar, Yes Bank, Urban... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQanVmOGVrNW9UdkRrVjQ5ZnVCUjdtOWdWeUN0Z192aHYxWnN2Z2FiU2U5cHdYbWxYbEJ6NUFEYnpMa0FCRG51aHpTS1dFYXh3NnIwTno0V3BHVFVhX1ZzU0JHRjVWbWN4TU8yVHZvSklGZFpBMEVQQzhLVEZnTG5lci1iRXV6Rm1lSlNhOGduQlpELWs0NzFESFF0Sk1mR0lZSEZZSjRhRnlNZWNnZmk1SFFsR3NTNVNoZE00c0FtN3oyUVB6eGh2R0V0WnE0MHpnalZjaGVTVmZuQnBhM1dOcFNsLWdPQ19nSnZERzMwVS1zNkVYSEJzaVlZR2MwNzFWQlV2c0NkT0xGWEZkWjRDdkZpTHo1RkZWT29GOW9ENVVWR0lEVFhGOTc0MHlRZ3QxMG42ZGhOdlhHUUFyNzI4dHJn0gHHAkFVX3lxTE9GWjBPRHRYbG82NFdOS1NLY3MwRUN0WEdXNmwxSTVWT1dvbjVBNWxqQkYzc2JHN18zSXpla2NuZ3FYSFdBS0hNWHlJQ1ZhbGdXTXdBRG9TVW1fazRuWEMwVjJFb1QzYXEzdEFYaG9YMFlvbnItN2JucGJxbEpDUXkxdVpWUXpwRVhoMExrNU5PeTBnNU55dlNrdERWM3VraUo1eDhwS2RHbzdtVWZFOFVCdmUydlJrYm1ab1VlNjlObjhHM2tkQjg3aF9uNWlyQkxNQTA4NmlCN3NOUnJqdVJWdU1MTEF0U2dLZ1hNbF9qQ3BTSHBKTldtd25saVlBS0I3eXJxakdMU0I0b293dm9oRVY2VFFHTjd2OWZnV1NiZ09zWHVXRm1vb0dSbVFtUU5sWTN4MXdVR0Zfb3NETGlpRktnOVhBWQ?oc=5",
+          "published": "Mon, 19 Oct 2026 07:00:00 GMT"
         },
         {
           "title": "Stocks to Watch Today (Sep 10): Wipro, Hindustan Zinc, ICICI Bank, Coal India, REC and more - Zee Business",
@@ -224,6 +173,69 @@
           "title": "Axis Bank to ICICI Bank - Why banking stocks are falling today? - Livemint",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1J1UGZ2UUN0bDNJTjJVSExMWVlQaU9jVUtzbnEweXRGR2VfWXJ1VnZENHI5MEEzU3phUDZpWVhMYTEtaExIZC1HdDJIMU9tWjBzUzJtS1NDeXJWZ0k2TmRqc3FjTkFwaWRBamhfMG1pMFotajR0N1pBVjdYcEdKM1FicDN0d2d2LXQtUnVQRGNNQ0JKQmI3XzdIMFhsX3FnXzczMWYxR2pFYktoem04dDJB0gG3AUFVX3lxTE9PVERXNkVqLTBjN2I2VzFlX3ZKZUQxUllQelpqd1FlWGlNeEpRQmh6a19oQThnN0tWNFowS2VGbGdDY0VyUnMwd0xZeEgwZG12VUV4WmlBZ1ZIZTZUT0UzbkZiV3k5dFh0YllKUGN1ZDdlUTc0OVZPNHlKSUtTV0JPTGM2akRiV05LaW5pbXZnNXJ1U3RFam83cHdTTFdDNl9WSTZZM1RIcm1fZW4wVjViQzdtTC1aWQ?oc=5",
           "published": "Tue, 08 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks to watch: LIC, ICICI Bank, SBI, Dixon, Chalet Hotels, TCS & more - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdndlX002UjUxQ3Ezb0haT0xvaW85d0Q2VDFpWW5NRlI0dGFTWkhYSi1tRDhWbVRQMnU1dklCYUxlOEVZQ01kRkxaNXJTc1JfQmJWTnQzYnlwbDZNRDNSS2FQWUJncHI0LUJnZW9KZkMxODR2dlRhcUF3anhWaF9WLVRtYTZsTFg2ck52V3VpWXpXZkxoTmR3dk9kUnNZTE9ReWNtUG12ZXNCdGd5RDViWlpEMGhQcU8yNUlhRHhIT3BWeVA1NmJzWE530gHPAUFVX3lxTE43UFdBdy1QOFRQRDcxRHJXeVNlM0lDVkhYbnR1NklGaVEydnl5QzBCUWxQYm90NFUzUTFib245TENqd3dSTHl5TXBDb29mTDZ3RFJ0V2ZWQ1YyOFdWS1RXZ3lWWENtSERlMzVJZWtHRHZHanFhSmgzazlOeHZJVF9zYmNUSmZUZnlmSXlRakVHcndJLXBpX0dzOEtyVS03TGVxWjhHcXVXNll2dUlJUzgtMS1aX1pLeGZ3RWpjZU8yRy04V1RQY3drUlNxbms3OA?oc=5",
+          "published": "Mon, 07 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ITC.NS",
+      "name": "ITC",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 266.4,
+        "rsi": 54.5,
+        "sma20": 262.33,
+        "sma50": 263.92,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.56,
+        "high_52w": 303.19,
+        "low_52w": 255.0,
+        "pct_change_5d": 2.26,
+        "pct_change_20d": 4.1
+      },
+      "levels": {
+        "suggested_entry_zone": "263.74 - 269.06",
+        "target_price": 287.71,
+        "stop_loss": 251.84,
+        "risk_reward": 1.46
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "ITC Q2 results: Net profit likely to see double-digit fall due to subdued cigarette business growth - Upstox"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "ITC Q2 results: Net profit likely to see double-digit fall due to subdued cigarette business growth - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ3NJTmNFaUk3aTBQMlo1OGIta2MzeV93UjI3Wm1odGtncXJ3VFFqR3NPa20yTE9scmlGRVR1MDNkSmc0TkRCdVpNX0FUQ1EwMXhBVEFwUy1CSDN6SDdvaEo3VG1KaDhGMGwtekFZVG9YVHhOeHhvT0ZOQ1EzRzQ1U2w5T0VraHhkOXpsaVZhU2VRMU92RUJFRVI5cFA4Y093NjllVkFyVVIyMGVpdW1YejZ6MmZxbWtWZ2k0b3BxbzNwYmctSXd2dlc0R3Z5ME5iQ2RLcTFEOXJxZVRRbDNyejdCU3JtWlpVb0tTVThfOEU?oc=5",
+          "published": "Mon, 02 Nov 2026 04:44:58 GMT"
+        },
+        {
+          "title": "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov | Full list - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbEFkR0dNT2NFajFFNUR4aGdKSDZRaHd3Y1lCeU01bFFyVkJCbmZYTGJDMUpiR3p2aE1INVUzZGszY2p4dzhOcUxpbU4wcFpFaHprdnJkcUZFUEZrNWJqbHRJSlNfeDFVT2ZOMEwzRGJUT2tSazFPZVcxSW9VSzVwNXZpTEUwZWw1amxLWmxad05Sa0RXZ1E4Y1ZPdzJ5TDd3OWZXcG5xX2hwQWVicU1BNy12cjdldDJnT2Q0SDh6WmJvTXBUTmIxMmt4Z3ZMY19pQ0JMc2JkT19kdHNpblNSTDl2bUd3SmljNjc2bVVKZ2xBUWtGSnRPM053RHRQNDlibjJtSHg3dzNnV2V10gGSAkFVX3lxTE1JQVBfLW92Z2tyMXZXSWRVd3JmNS1HelgwQjhVeWoyREswZkwyVnhJY3Fha3lORzQwcE1mYzNad2Fla2lHdlRFSkFONVl4ZTgtVVJnS053SnRCYS1PSEE1UnNTQXNFbS1pTFJ5dXd3am4yTVBHd1FoX0lhMFVYbTdZOFBoNFgwdDFSVlR2dG03QkVRcGZUNHJXcThtaEJ4LXlPT3MzRVJaU2dtSFhrOVZoOS1QVkR2OXlBWXRRWm5LYmxHUWt6dk1iSkI3blV6R2xxdjByQXpYU3l3YXM2d0RHZUlqYWN0VUZzeXB5emZvUHpVWVpGNzNwc0lJUGpmeU52dTljSkRaUTZUal84dmpZN1E?oc=5",
+          "published": "Mon, 02 Nov 2026 02:02:08 GMT"
+        },
+        {
+          "title": "Weekly Recap: FMCG EBIT & volumes and Hotels Q2 EBITDA & occupancy - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRlNJYk1fUUJJeDdZeXg3N0tVZk5EQXM2UWQzN2dFaGNiUVlNcHFFU09ZVUJib1QxZGcwcWpaMl9zUGhlX1k0MUNxQ2ZVaFhxU1NyOWpERWIyRTU2bXRZYUtzaWN2N1poRUNNb2Y1RkQxWTkyanRkYk80Q09FQTY5aDZMTHVzRW9LQkU3dGpES08yQXgyemwzNEJ6c1lPclN3a3REYS1yY09oOG9WU04tUXNKY1dmQktucUFwRzVraS0?oc=5",
+          "published": "Mon, 02 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "Q2 Results This Week: ITC, Bharti Airtel, NSE, BSE, LIC, among 350 companies report numbers - CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNW5FcWNUYmtSVWFuaEx1cVBHOWVEcEJiY3EtVlJUcVpmQXhRbVgwOWJiS2NBNUppc054UDJ0NEk1VmV4WEJtMTFrUzlOdUdrWk5zX21DRWRkUExrODdUajY2ZFpuR19xTXRpdkpYV3JMS0tRUFk2VGlYamFuUHdXcHVRc2liS3NmQVRERC1GT0I0WHVIZ0ZZZHVidDBjRFJhanJJcjJ0blp5MmdfcjFwSmZWQXBBeHBQN2N3T3BnaTBGbEhpNmFRQk1pNHgwNUNlckwxUm9xQnZmb3A2OWdYU21R0gHnAUFVX3lxTE9XXzVhekpEbVZuMTg1aFlWbEZRRXJ2NzF0RE13Z2VWbWNlT2trbVhPeU5iMEpob0pqbmt5b2pZeTU3SnVBV3h4djNUNEV6NFZZNzRMdFBOSlZxQ01WcEpSaWxYZ1pLUmJkVEhIcFI5VmF2bEZPc29nTGdDZ0dlN0o3RUphejA2aG5TLUtPZHp2Slh0VXlicnR5cllxRmxpVEszakdEQVR5SHo0blNoWlppVUMtNUZyd0x2QjFuWjBfRzJSSnhNMVNTSDBmMkdDazd1M3Uwb2d5VGY5WV9nbGRUQWcyOTZyNA?oc=5",
+          "published": "Sun, 01 Nov 2026 12:56:51 GMT"
+        },
+        {
+          "title": "ITC Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KVktOR0RZekpOZ3JaUXhiMkNuRm5WdmF6cmk3d1ZUU3RyeXo2c0tPTnhNandDR0hwNHRZMVc5LXpjeGItMGhNWGxHdzNIWU5qZ0VOcmpGMmNLV1RpYTFpeUwzVQ?oc=5",
+          "published": "Fri, 30 Oct 2026 18:13:35 GMT"
         }
       ]
     },
@@ -232,22 +244,22 @@
       "name": "BHARTIARTL",
       "score": 80.0,
       "indicators": {
-        "last_close": 1973.7,
-        "rsi": 65.4,
-        "sma20": 1862.9,
-        "sma50": 1856.25,
+        "last_close": 1989.9,
+        "rsi": 67.1,
+        "sma20": 1875.34,
+        "sma50": 1857.61,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.81,
+        "volume_ratio_vs_20d_avg": 0.76,
         "high_52w": 1992.1,
         "low_52w": 1734.97,
-        "pct_change_5d": 4.31,
-        "pct_change_20d": 12.33
+        "pct_change_5d": 3.78,
+        "pct_change_20d": 14.29
       },
       "levels": {
-        "suggested_entry_zone": "1953.96 - 1993.44",
+        "suggested_entry_zone": "1970.0 - 2009.8",
         "target_price": 1992.1,
-        "stop_loss": 1788.38,
-        "risk_reward": 0.1
+        "stop_loss": 1800.33,
+        "risk_reward": 0.01
       },
       "sentiment": {
         "label": "neutral",
