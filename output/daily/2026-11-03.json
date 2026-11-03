@@ -1,0 +1,296 @@
+{
+  "generated_at": "2026-11-03T11:11:35.211961",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "ASIANPAINT.NS",
+      "name": "ASIANPAINT",
+      "score": 95.0,
+      "indicators": {
+        "last_close": 2437.8,
+        "rsi": 59.6,
+        "sma20": 2335.51,
+        "sma50": 2433.61,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 2.38,
+        "high_52w": 2810.0,
+        "low_52w": 2277.0,
+        "pct_change_5d": 7.06,
+        "pct_change_20d": 3.03
+      },
+      "levels": {
+        "suggested_entry_zone": "2413.42 - 2462.18",
+        "target_price": 2632.82,
+        "stop_loss": 2242.09,
+        "risk_reward": 1.0
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 2,
+        "negative_hits": 2,
+        "flagged_headlines": [
+          "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection - Upstox",
+          "Oil-sensitive stocks tumble up to 5% as crude prices surge; HPCL, BPCL, IndiGo, Asian Paints fall - Moneycontrol.com"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcHlRMkwyTEFycXh5Z0JhdmtTaEphUWVtd0tHTnZMZ1BRUzEyVVhTRVpPWXJwLXNvZ1ZSUUdjcWJFeHVJVzZDRHR4Q3p3bTU1YzhPYjN0bE5sUmRYUGVtM0l0bUVRZ3hqOWY5bGZRektCVFJyRTdPUG9CMTI1OEFmZ2E4eXl2eVRWUGFwbEVNVVRvSVItdUpEbXdLMmhmNjRsVloxLWZHbHZrVzZjUzkzRkdXT2xlT1hqaERSUDRYeEFNLUJKM201bnhEREdBbDU2eU5iekV4eC1zMi1hOU1MVlRQUVlHVVZySjBLdVpmX1RiTXlzSDJmOXZncnlRcHcxSXNJWU1R?oc=5",
+          "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Oil-sensitive stocks tumble up to 5% as crude prices surge; HPCL, BPCL, IndiGo, Asian Paints fall - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZmo2bFkwakdjSjU2eV81Y1FuSGtVVXNRWGhPM0RTdzVmcVZxME1VM1BJTjVCNkx4d1Jmd3VVaDRXOEM2NUFqQjhOWWZFTTdwWlA2eEdqOGFKN3d6Zm1uUXNsdk8zdk8yNE9IVDhpeWJSX1U3VXk3WUpXNE14UEo3dk5BYUZ2bHJvMXd1aExNQzYxNnRtQ3ZtaS1idVlzQjJzQkRVNXlFNG9rOGp1cWs5YVgyVF9NbnRQdmxJbk1YOGN5VWcwcm5GdHZZQXJkeTVRNm1MeGlCNjh0UFMxMnJFWjlNanRZRHBsQzdQM0x30gHzAUFVX3lxTE9mVHh5ZmdaOUdEdXAyNk9IdDdoalRVM3llcVZXUzA1VFYyaXlveHdFVkx3ZmVWTGlIWFlvQ0t3NVlUaTkxbU5DVTJIejUtVDZib3JsaVp4N0xueG9MbnJpaDd5RHFCS1pKb1lZa0VnM04yS1QtdWl2Q0lscTV5eklJdTJielhEVkNMQmZ5OEFiNlItcnNPQTYtNG80MzVCRkVTcU95QUMzRHdINS1aNVV0cWNXQ0F5SldjeGZjc1R5b1BLOGZWNnJ2cGZWNENnUWk5dG5zRlVBWWVmVUw1SWxuZ2twbEVpbHF2SGMxZGp2cE9hZw?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "How Has Asian Paints Performed Against the Nifty 50? - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXE2dkxqWGVybGZGZHZ6NHBWY1pyMEdhbE5vZ1l1dHhpYjFpOVV4Tl91VURqRmUycTNrVDA0a1Exd1BQc0JCNm14SFJ5THY3TDRBdXJrVlBIQkpmOHhpU3hLWnBCYUxSS25SUlZsS0tpWFkwdXFvbVlpMEIyaE14TVFaWnFKXzh3S3UxVVZnVEMyTEZDSzB5WDdn?oc=5",
+          "published": "Mon, 01 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Asian Paints Share Price gains 2.03%; fundamentals in focus - Univest",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbWtBQ3UxUzFJWU1NTk11dWpWWmRqYjU4QkFRczN3MWxBR2JYMGZLT1M0Tzd5a2l6Ymx6ZlQ1cmlMODlJY0dhRUx3dEh2YlhvcG1GVUNQVUt1NXRNQzFrRE9nLTRIbGNEMHU5Sk1SMWdnYW5GaGJoWkkxckdPQQ?oc=5",
+          "published": "Tue, 06 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Q1 results 2026: Adani Enterprises to Asian Paints among companies to declare Q1 results today; full list here - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdGlhb0RUeFN6cG1Ra3F5SU5NZ0pZd3poa3NJVmJzb1lRV0wxU0RTMnhQNnpqNHU0UVRQMHpKTHpDTVNReDIxZjIzVklYSnFMM2t3cFJMQnZtc0lBblpmRzdVVDl2Y1JyLVVtcnlTekRjbWNjRWg3eGdSNGFiQ2x3cE5wak5xdnM0UEI5SjNBdFRzb2tZLWw5RTNiSmhEU3VZWmhqaXpGVFBra1pzcUdSQ1JFaDlhOElJV3FCeV9hVXFhenhfYndUNVVFM2dNRnowS1pYZnlESTNpdm55YmdYUTQ4THVUX0tmZTdUYTktS21CLXhEQ3V0LXpkRTdkY1ViYzE3Z3hXbEVuUQ?oc=5",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "SBIN.NS",
+      "name": "SBIN",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 970.25,
+        "rsi": 50.1,
+        "sma20": 960.32,
+        "sma50": 986.82,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 2.78,
+        "high_52w": 1097.2,
+        "low_52w": 939.4,
+        "pct_change_5d": 2.66,
+        "pct_change_20d": 1.28
+      },
+      "levels": {
+        "suggested_entry_zone": "960.55 - 979.95",
+        "target_price": 1047.87,
+        "stop_loss": 921.91,
+        "risk_reward": 1.61
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "State Bank Of India Share Price Fall: Key Valuation View - Univest"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "SBIN Share Price Today - State Bank of India on NSE/BSE - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aWHZ5LXcwV0pmVF9BUW1zdktZM3FabWptN3l2d0RpdXhfSm85ZGhJTWY1T0dOSnFCVjFFc05OcDNTOWo2YUpOR2tNZmdJYzRkQmVXaWNtWm53bUdvSTlVWA?oc=5",
+          "published": "Sat, 31 Oct 2026 11:13:14 GMT"
+        },
+        {
+          "title": "NSE IPO countdown begins: SBI, IFCI, GIC Re, Bank of Baroda shares in focus after SEBI nod - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU2gwem1sb0thTVcwNVdkN0g3TEhCQ05LZHZLNjhBd1RoMEpPUjJ6a2VVU0YwbHREVHZOZmpUVUlBT2RnSDBOTDZJd0xoMEsyUTNCM2hyMnB3a0Jfd2VzaTF3UXozVEF6YTQ5LUlXR1kzOHBYX2NUM0lVcFBKamM4enUwc3VCUXZzSEI2aUdOalF0ektDZDZhVWhwSkdCdmxWLWJtMzJkSG05M3lNdlhYbFFWSEM3VlVWUkY2eWFkUTRoa3kyb3d0M1p1RGt4aU00UkVZb1RNc203UzZjWWc?oc=5",
+          "published": "Sun, 06 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "SBIN Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZktWd1pyaGVHa3hJUENIZzh3UGtTS2YzdUZib0E1TjQ1SGNNb1I0aF81RlA4elRrcGkwVEFJRXBFN1RLRDZZWmd6M1JQRFphUlN5aktQeVpyNGVxSVpSbURfU1NxZVQxYkVBVUJ2YjRJbi1wZUE?oc=5",
+          "published": "Thu, 25 Jun 2026 13:07:22 GMT"
+        },
+        {
+          "title": "State Bank Of India Share Price Fall: Key Valuation View - Univest",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1ZPTFpBRGIzOE5PSXlmOGVUczZCRnZvWVF0Ul8tS0tCaVJZVUNHQlBrYXRJcmRYYVd3Y0tCZDZCcHZYN3h2SXhrMmFqY0I1NWt4VS1uT2tmOVhkNTlNeE9vcVk5ZXh4b2Etb2xuUXVhRFpPa2pjanZ5TjFSY1VQUmJ3?oc=5",
+          "published": "Mon, 12 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "SBI Share Price Today, August 24, 2026: Closes at \u20b91,039.50 on NSE - The Eastern Herald",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DNFcwVVNSR3Z5ZUhwblVFQ1RYeDZsMVlhTGJIaEl0Z05rT19wVTRRZ19oMU9td1BOdDRQLTB3VTNjNHVfUG5jVGptZlNnS1dFN1pRc05KdVpob0hfR3pxSnVzLWNHTFR4TFEzNF9DQUVjRGlZUkE5eDF0YTZ5Vms?oc=5",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "RELIANCE",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 1307.9,
+        "rsi": 66.7,
+        "sma20": 1199.1,
+        "sma50": 1235.56,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 2.11,
+        "high_52w": 1456.86,
+        "low_52w": 1158.0,
+        "pct_change_5d": 9.34,
+        "pct_change_20d": 10.24
+      },
+      "levels": {
+        "suggested_entry_zone": "1294.82 - 1320.98",
+        "target_price": 1412.53,
+        "stop_loss": 1151.14,
+        "risk_reward": 0.67
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Reliance Jio Platforms IPO allotment status check online by PAN number on NSE India, BSE websites: Direct link, steps - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT200TjRIT3prcUhUMGJhS0MxN3VYTHBjMW56NzZ2OWVxbEVnSHpVemxvZENtM2paZE9JbDBrSlVfM0N0bkR4anpwaHNMN0N0QkRoVDZ5MUNFYTM1SHNtal8yUnRmQ0dGSFhoQlBsMDJUS2o3d1JRaEhyMDYyZ1E0N3hhTzFjbmF3SVRrZkF1NDFDck0tSlpyVWU5WmUyRFlMME41UXVSUlJNOFg3cU0zcGt5dUlMSFR3bGxfVElXczVWZFByQ0MwYktRY3pmMlpfWlF6c0dMVFBRWFkwdWRxVjg1REFlblNVWEItSEtTb0pKQ0F4aDhEd2NobkMzeU52?oc=5",
+          "published": "Sat, 24 Oct 2026 12:17:50 GMT"
+        },
+        {
+          "title": "Reliance Jio Platforms IPO allotment status check online by PAN number on NSE India, BSE websites: Direct link, steps - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSzRya3hIVER4dWdoQjVVLXNnNWh5eUJ0UnQyQWpRUG5ESEVVM0NqTmdpMk1RSnhkN3dRX3lhcXYzS0F5NTR4SGg1MWxjaGo1VzZmdGQ2ejFWQ1ZwVHZwV2lrUEc4dFViZmN2dVBTVFdkb3NBMWRXeWVUbDlXLW1rNGZ3LVp5dXpBM1RJdEo3SjZwU2FlbGwySDFLVXZDZnZHTndrVUoweVVOSUlYXy1EVXozZFFXM2pJaHRNYnhBNDF0WmZfS0FnUFhfWTZOUmc0czdSOE5zelR0N0k5a2tuMXphbjlPVnZ3dXJPMkhGOVZfZDI2eFZBdVl6bHNicW96RDVYTnhyNlVOUngxQTRRdWxR0gGXAkFVX3lxTE5YbnNENVJSNnhMWnVORFIyUjdxT3NBZ09IZHByMmZ5ZW5EaDhuN3Z6bmRlVTVfTWU0WTkzWHN5UERuLU1ydG5lazFNakI4ajdwc2NMZnRoWFVoRGZvQ3NJcU1JVllOalZJVGZXUXQzSmJHeUFXbnZuTnA2MlltbWkwam1zYW9BM1dINk9ET0oxVzJBVFg2YU15bHdHQ01RTXQxV1ZVd2lDTTVvOWNrVFdpSlM5OXRGWlBvbnJyUEtJSU52OS1nZFBuYVlLbkJnaExPc3hVTGZWMm9YS2M1SmRKcGZ5R0pPUHQzdXl1RGxaRFAycFhTOUk5bHYycnMtYXdhRHZmMjEtQXQwNUdrdEtQNFlsUnRIYw?oc=5",
+          "published": "Sat, 24 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "What NSE and Jio Platforms IPOs reveal about India's changing economy - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PcHF4eGNDQUJraW9NdHEyaW5ueHhZcUF3QUdKNjVnS1pYbTM0QVFWcV9qaG45d0E1TFJvMEVmNWxOUG03M280NTVtSGp5MHJDa1FBemZZZ2pyUQ?oc=5",
+          "published": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "India's largest bourse NSE files for IPO after years of regulatory delays - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjNWN01mNXc1ODR1QzViR2gtZl9fdmRMSFFhTDlJQ25ZUDJyTGIyTUVKU09fQ0loQUtKS042a3FIdFExMWp0RnZ4STB0bXhQVF84Ykk1T0VWMFhoNzVGV0FWd3ViOVh2ZWJ2WkszQnpmSFFoWGlHS3pjZjRWaW9va090Rmo4WTgyaEpiU1R3UVRHYk1jU3JVWkQ0M0o0MlZfdjU0M3VudlAxZkZLR0dzMHlHMA?oc=5",
+          "published": "Wed, 17 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "As NSE, Reliance Jio eye listings, what are India's biggest share offerings? - BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2NsV3F1RXBpOUtPeTZEd0xHM2xNNkc0aHZVb2hOTkswcDM4RkJZY1Rlb1U0UW81QkVrUTFuMUlBSGpvLWpCVlhfMlZKeDk3NnBZMkx5aVM1LXlyUGxuaGhua1VyMWd5UC1hU3RjcmRKel9iRjlicGhwN3pZT2ptRjlUQUZtVldWTmEwS3Bya3dKX2VXRjRVd0I4aTNSanBqWTNKZmwwdmtsOU1GVjRLMFN4NE1NbkxxdnhSbTU5RkQ5cmJYbFhXdERrTnlJMk1nZHozMGE1eVliRDVXWUUyRXZvNlVZUdIB7AFBVV95cUxQVmtkbmVTTG1mS0RXc1hrUURtMk9sQlZ2STdwZ0NNV3dvM3Z1NE5ucDVxY1pTblotRDVlSFJxRmFuZ1BCLXpHNDhjUGxGRXdKZ2VCWlp5VGxla0RfSWJTc3loWGNlOENjZFRSX0djRDBxcmxzN2ozNUl4UzBJbnE3OWUxR0NmMkhZR05sekRMVHpyVjBnWGpzZ2xodUVVR0FqN3JMMS1ZR3FXVWVoWnFPVG9pOFdQcEZwd0N3M1Vvd0lNSUp1clpUaHBUbnUwYk9WeDRYQkhsMm92RTFQSE92Y09SbDA3My1QLU1uZg?oc=5",
+          "published": "Fri, 11 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "name": "KOTAKBANK",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 464.65,
+        "rsi": 68.9,
+        "sma20": 443.91,
+        "sma50": 426.31,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.75,
+        "high_52w": 464.65,
+        "low_52w": 369.46,
+        "pct_change_5d": 5.01,
+        "pct_change_20d": 11.69
+      },
+      "levels": {
+        "suggested_entry_zone": "460.0 - 469.3",
+        "target_price": 501.82,
+        "stop_loss": 426.15,
+        "risk_reward": 0.97
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Trade Spotlight: How should you trade HCL Technologies, Titan Company, Kotak Mahindra Bank, Persistent... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQjBXMnJCTVlIajcwc1JhOU44OXROQkY2LV82M29PNXFlV0ZnVVZtcUlKOEM3RG5hV1V2ZVVNRmFYRzdZNExfaldRZWY2MDZRandYcVNCY29ZME9yVzRWN0Ezci15MHBvNUV5OFFFZk1nZ0Z3LUVOa2JfNTdBa2tLNWdjclNfNkkyeHFKMEJBc1RURm1wZEZzQzE2d3Y4NHZGUFBvTDFKZW4xWG5jLVpLZmQyYkZiOWhwZDZMZGtXSHBMQlAwckJ1aUVYSW1LRkNrNU0zVDU1WVNFT0ZiM3FmR1l0d3BRbWFOYkxfWXVadzJaQVJmU0VtMEdrM0xqb2liLWV4VGJSZVhPM1dxMUZxaXdheTluekHSAZwCQVVfeXFMTjdFWFhCWFV6Qll4MVVfVTRjZlVaTDdHbllMVFBCb2NwTGotczctcjdXcDNUMW1iT2VSam02REVqYVJNVHQ1OUcwaEFJdy1yUDYtMVpad0FwWTd5V0QwQW4weTRELTJaRzhVMTJiTGZrNi1ISUU4c2NwTWNHQzQtbm5Vbmw2d3pQRzdneE1OcFl5UnBDSzNoc2xQUUNRbjAtaEhTQl9SdlZwSWdtREdnLXZTLWFSSmZzLUxWV2Ffdkg1ZUg2QkNlajZ0Qi1sM3Bfeko3Y3lkVWg2VmV4UGotS1pxMkdpeE0zdHBuWGk5dDBZdlh5Y2tKNEdOU3BKdmpoRjZmaXNuWU44a1NvdGY3bzZROHp2UVNuMGhfc3Q?oc=5",
+          "published": "Mon, 02 Nov 2026 02:43:55 GMT"
+        },
+        {
+          "title": "Weekly Recap: High FCNR(B) deposits and Q2 GNPA improvement, brokers' targets - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTmMzOGtLS1dOV3RrWjF2b0VHQ1pMckpsem95UDNiRklpa3dCSllXVmNIZmZuczZObmJVYkFoS0Jkb0l0NU04dm90NkREMnNsSUx4M1hyQjZKWjMwcmtrS3NneElQVHBNbVVyQ0ZfaV9OeDlURlRHZmVXYXBzRWZzY0llRkRvOGtOMTYxZldYNUxmX1VJR3dEcEZPeEk2Y24wWFBTWTU0ZFIwX2UycGJpUEM3QmhKN1NXbnJES3NhdHVxM3ZTSVYtdV9CZDA5VjRB?oc=5",
+          "published": "Mon, 02 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "Diwali picks: HAL, Kotak Bank, TechM, Sona BLW, Auro Pharma among top picks for upto 50% upside - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVExseGtDQkhjRUN0UklxZXd4aXBlX1FyLTNadU15MnpLUlBiU3dXNlpkVmJHYkJVTUk4Z0d6UW5qeGRVQkZDLWZKS1hNa1BGSms5eW9QWFlXYi1zX082Y09xaFJHYmdZUlRGUFl5dmJTaWNZSU92XzlnRkNXN2RCd2JJc0ZrYmFCNE9tdTRqVTg5Q21YUV82dllJY0pJc18tM2RWSTF2NTd2WHdscGgyUGFHY1BTcTBMZWF2TGhRTmlZbl9GSTZYNzFwaklYSG02U21iRVNLWXZybDlYczI1YVRET1V4b0tLTGwzZ0NR0gHzAUFVX3lxTFBHOG1zUnVXaXhKcnBXM3NFYlhXRGZ5UXpiMTQ1VEpOYmVSRlc4Vnl2d1J1dnVSWFdWZGM0dHl2ZzlLQ2JleXNnSXIxZ291WXRBOTF1VmhZZEQ1dXhzRkhqUS1NdlZ0NVpHdExMdUtRdjZGd20xOG53Sno2OTlEZWpZZDZ3aXl1OGRRaVdVWUdHOXhaSmlNamdzN1N6Z2p4d3hSYV9VUDVwUkpEWDByR1BPT0M5MjdMcmgwTlhaclp4V09kWEdFc1YyYnVxVFFHS0VReVpzZnh1OHBoNW4xV04wQ1lTWGpSZ3VDQng2QmhhWkxucw?oc=5",
+          "published": "Mon, 02 Nov 2026 06:26:49 GMT"
+        },
+        {
+          "title": "NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeFRFTUdsWVp3RUZmdUpON3k4dmRwWmhySzN5ZEFqdlpFcDhjQXhxZ0t0U3VuU2NnX0FoYUhoMUFNbVJhb24wbXRUSVhiak1vdFVsTklSSFUwNWNULVZ2ckgwYVU5T1pGcHZWajVkb2lGYTZFYXU5ZGpYWURZVk9JTWVnRE44czlQZHFfVGVNYkZSMUdpZzNQR2h6YWVwRWF2ZGhDNllVN3BtbFVjQ3diZlNBeUFpV2wtb0ZhTlJvX2RhWWZMRWFsbDM0Nm1RV29wdEhrMWFXNzlxNzlENWVIYTgtM2Zqb0pVSWp3bllTX2JoekxSNExiRHJidl_SAYICQVVfeXFMT1llN3ktM1o0RlBfbGdudjFBU0dSZ0VRNklqN19oNURLbThfTTByRF9nTzFCcmRfcGRVeTRXNVQ1N3FTSDI5Tk10TUZ1UG1hXzVrdm1RVFVncUtnb2dfMzJ0eExlVVF3UDRNQWhOSjBVNTBodHpvR1hfMDJrZEVscUp5V1IxYzFuNWVtc05HRS1jb2czSVJCMWRycTNUUnJMQlRiQnFlM0dfRHB6bmpmVGctTmdWeDdlS0s1eVBiSXZKMjZLRTNJRXByWmhiTUNyVEZPcWZrbXJQVlJuYm9yNndHLVZGM2dMZlY5S003UTEyQnFJeWpmWkcxcW41NGNvQkp3?oc=5",
+          "published": "Mon, 02 Nov 2026 09:31:36 GMT"
+        },
+        {
+          "title": "Kotak Mahindra Bank Share Price Today: 52-Week High, P/E - Univest",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMTZUQ1R2c2dTSXdoMzAyV25UcV9TY2J5Ql9ROGpOamUwWGVKclJSTUl2MU82bkZOXy1UaEIyOUxDYUhlaVNrdXFJdVBKS3lrajdDVDk4SDF2d2x1el9XVnQ5dVpUcUlfcHVjUjFtY25tT2poUnJyY1lhQnVfNW1LWDZ2UjhIc0xJRk1TOVVtbnFWQQ?oc=5",
+          "published": "Thu, 29 Oct 2026 07:01:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 78.0,
+      "indicators": {
+        "last_close": 2499.1,
+        "rsi": 67.0,
+        "sma20": 2367.94,
+        "sma50": 2264.01,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.6,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": 0.09,
+        "pct_change_20d": 18.82
+      },
+      "levels": {
+        "suggested_entry_zone": "2474.11 - 2524.09",
+        "target_price": 2535.0,
+        "stop_loss": 2273.22,
+        "risk_reward": 0.16
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 3,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "India's Sensex slumps to 32-month low on oil surge, foreign exodus - Reuters",
+          "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks - Yahoo Finance Australia",
+          "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks By Investing.com - Investing.com India"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFZoTlFfelVnNGIwWUpiaEs1ZlVVc1hwMEpPcllZc2FUMkhlYl9IekVQRlg2S3VfZDNWYW9LZmV1dTBvUllsVFhoLVhBUnpEcFNFemptTF9MSDNnUW9rb2lhdlA3LVQ5TWtJRzcwd3lWQXdPVFpHdVRhZEg4OFc2UA?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS Reaffirms US Hiring Plans Amid PERM Update; Shares Rise 5.06% - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HNkw5eUQzQW5iZFlPbENqbm1nX0g4TWVCbjJfTWVwWmV0aUJZNnVweWNPbXdqSG9PdWRqdGNxeERxd3ZpNWFoeUJEY0hvNE05VldWV3dQNW1BRVcwWWVlNFZCX2g4b21GUUtKclk1NllISEQ4OWZBcWViNlYzQQ?oc=5",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: TCS, ITC, KEC International, NCC, Waaree Renewable, IRB Infra, Pace Digitek, Lupin,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNUWRyRXpYdXpMdHZHcEVZVVdIbEVQLVpXR1QwNHlQamhhaDVDb1pkVm1JeEppTm12X25CLXVpRTRvRDY0dFlOSmE3SmhjZ2FlR1RDQ3pPa2Y1ZUF5d2duZDJkTHllRVoySy1ZOU1RNHRhSWtZUjdmQ0xHbTA3LUdqWWozMUNfSE9yVU1ZV2h3anJueEdNSm82TWFENTc1czljemRwMVdWQWhBT0JfS0pha3IyVHFERHRtLXpmYWREbWw1dllCRV9qYnpPelktS2xXOS1MajU2Y3hUR1ZaQXBUcFpVbFZjdW5laTZhZUJqS0RIelh1U0d1c09ZNi1sM0dkVHJkVGZGellGWkRxNV9yM0pOdXBnZkhlSHQ4MUpNbEF5OWM1TEpnOXJrYnJKYmpR0gG2AkFVX3lxTFBYSUs1OUNpWkEtVDNmcEpEY2hIRXUyclJGTzlZMFNfbkI2UURfV1UyaVpRTHVoWWdsczBJTUVXNVpzRTFmc3FRT2JOT1JkbTRxdm5SbWpBTzkxRVdqVHFJbVRxeUE3LXpHd0QzenFOOUdoX1FncElrTmdiQUw4R19qRWFWWHVJc0RJWW0ydmFLMFV2SlpUaThhdm9ydk5Xa01rNzFhQ2VXNlgwaFJrc3BhcE8wcTVtOXJQb1hQTm5OS1dRT1lYTmpWNDVkV2NmbGZjdThfbjZFUGdfaVFRekdabGpqUTB2dmRoWi1MaUY2RUNtYzJ0WHc2UGpHX2NaUE80dUMyLXp1YU01UXJ4ckZVNHlVVy1WV0NVbHpGb3BhTEtuY0J6R3hMalpnMHN3TUd4ZVhJQkE?oc=5",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks By Investing.com - Investing.com India",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY2Y2bzA5UFpPTEpIN251cGZ6dFZfQ0ExcXVtSEZ6VG12Uk9sZjBibG9yX3ZCcEVNaEwzV0FJMlNObV9ySzNxRTQ5OS1haW9sU25zTzFhS05fX21kTFVhYjQ1cnhZd3paUVRrVmhtLU5WU2ZaU29teERsYWJWbzFsVHNhdjgyZ01DOVlfNHRxcEJ2Ymt4QUE5Q3J0OEw2VlhOWFNySkdPYy1UcXczTEdtaEl1R0lWYkZLUmQxajhKY2FBaGlnWUxFcmJGMnU?oc=5",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}
