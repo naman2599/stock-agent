@@ -1,0 +1,294 @@
+{
+  "generated_at": "2026-11-04T11:21:48.416120",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 88.0,
+      "indicators": {
+        "last_close": 2436.0,
+        "rsi": 57.9,
+        "sma20": 2385.3,
+        "sma50": 2266.93,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.53,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": -0.98,
+        "pct_change_20d": 16.62
+      },
+      "levels": {
+        "suggested_entry_zone": "2411.64 - 2460.36",
+        "target_price": 2535.0,
+        "stop_loss": 2289.89,
+        "risk_reward": 0.68
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 4,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "NSE Q2 results: Profit rises 23%, EBITDA doubles in first post-IPO earnings; how has stock fared since listing? - Livemint",
+          "International Growth and Strategic Wins Underpin TCS\u2019 Q2 - Tata Consultancy Services",
+          "NSE Q2 Results: Profit jumps 23% to Rs 2,578 crore, revenue rises 9% - The Economic Times"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "India stocks higher at close of trade; Nifty 50 up 0.63% - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzcxX0o3WTZST1dnVXBCeXNfNkRvVzNHMjd6Szk5UU0tSHk5R1BhX2VOOWl4U0FyeENRMHJsTVJzczZtb0FHSU5lVXluRVhWVElwZmpJZkxrYWc3S2trMndpa0l3OXVzVE15Q0pkYzB5ekNjU2k5VzlrSFpLcWlaX2VCSFNSM2dTZndqUjNMUHlrWDlPR0dSNGtaYkF5N0hZS3NDUDBEcXIzNnRCTVk4?oc=5",
+          "published": "Wed, 04 Nov 2026 10:37:09 GMT"
+        },
+        {
+          "title": "India shares higher at close of trade; Nifty 50 up 0.63% By Investing.com - Investing.com India",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmxzRmFKSUNpU0hhWklQbDhlQXFzWFlOSHVsdnJEc2g0MHd0WHIyTEx1R1JldnhPSTVyS2p5NF9qdXFZbGpsc1BWUTZUdUQ3Nnp0MjRKY3NQb19NQVdSbWx0TWdqclRINjh2eGtzZ1FGOGhtdldnaEd5RU1oUVVYRGV1aUFrN1RnWGVyT1dMdnpNYTdwdnNudHJ4Y2xzZXdFcHVQcmsyNVhLSXdLaGc?oc=5",
+          "published": "Wed, 04 Nov 2026 10:31:38 GMT"
+        },
+        {
+          "title": "NSE Q2 results: Profit rises 23%, EBITDA doubles in first post-IPO earnings; how has stock fared since listing? - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeVQ5SGl1MWlQOTRXNThGLVlPcm16WjJ5ZHRMSjRWVEFwdUdNVzJkOWJNek40UXdJdk5aR0RaTmd2aXJ2NDYxdjJTeFRrdGxvcUQzd2gxcVFfdWIxMmozNkFYVmRnWWF3OTVRMEVMQ2dOQ1FmNllZQy1ZemNwODV2bUQ3eXlQRkNmM2w5SWpTVWxDMHY4STlRdU1YT3NObG1scXVDOHhPeExfcUVyNk9CZWhmUGtBbTd5dndkVkM4eDI1X2hPVk9zdnBjQm1qOWNsU3V1TTJlMGJubGE2WFZTMXhtQ29lUWNlM1U2dWNmdl9Gdmp0d0tVUWV6UXE3dmtfQzRSeEVPTdIBjAJBVV95cUxNMDEzYlp5bUk2YVhFdVl6REF3NjZYaTlzeWl5eFU5VERaWGE4eHowWTdHU0UwSGNhSk13bEI4VlpUN1dlN0NyRnZJMk9XU1hmRGtPSVk3dDVWMXZOY1VDN2o5OEZxaGxQVmd5OHVra21MeUFhaVBJenVwS204UWl2WFAtOGNLcGxNcFFYYW5IczlSdko5VGtYMGVGaVQwSmN1dmhBOG9McjM0SUE0UTRaS18yQmVLc2llcndNbGN4UHJ5TjdOQm10a1M1cjNNV3dLSXo0TGJPUHF3bHoxbHpTamd3VzdURVZGY2x2SzNhUkI2RXJJajFuNUNRajdQai1NTVR1bmxMWkZEbzlS?oc=5",
+          "published": "Tue, 03 Nov 2026 13:41:47 GMT"
+        },
+        {
+          "title": "TCS Enterprise AI Study: Key Findings on Productivity and Governance - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWW45bFBjRG1lMXdjWnN5WlNJTDBySUxTanNaQUlNaTZqTVcxNDZpZGVmUnBLSmEwek5kRDl5M0Jwa0t2OHhnckEzVmRPeDJpR1dIbGNTZFVsN0o4aEhKQkJwQ0o5R0VtN1dOa2NBNkJZdng0SzR3SVpEdExEU0ZVQTQ4d21ZVnhaYXVJTUtKdU9YaS1IZFVORzVfcXRFWXZuT1h3SjFVU1lWLUd5WVE5VXIxZldqLU1CY2dFNnh3?oc=5",
+          "published": "Wed, 04 Nov 2026 05:30:00 GMT"
+        },
+        {
+          "title": "International Growth and Strategic Wins Underpin TCS\u2019 Q2 - Tata Consultancy Services",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbjZTVWliZV96UHZ3THhGODVmYVV4OG04WVlLd3NFV05VYm05YjE3ZV9tcHpCb3dLXzBfdVZIMmhkemkwR2NyMmJVUUNyUTFmQmVyZWxkcEZIYWhveDdiZ3k3N3dRUVlqSGcyS3FLSDNabDdWYjJ0MjdZR2JtM0o4cVJJX0o1Z1QyS01WSUc4cw?oc=5",
+          "published": "Thu, 08 Oct 2026 11:52:18 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "INFY.NS",
+      "name": "INFY",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 1128.2,
+        "rsi": 56.8,
+        "sma20": 1091.63,
+        "sma50": 1063.29,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.56,
+        "high_52w": 1216.03,
+        "low_52w": 963.23,
+        "pct_change_5d": 2.75,
+        "pct_change_20d": 13.83
+      },
+      "levels": {
+        "suggested_entry_zone": "1116.92 - 1139.48",
+        "target_price": 1216.03,
+        "stop_loss": 1047.96,
+        "risk_reward": 1.09
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+          "published": "Tue, 03 Nov 2026 03:13:52 GMT"
+        },
+        {
+          "title": "India stocks higher at close of trade; Nifty 50 up 1.58% - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlhtYy1VOVhmRkVhN09iWmJ0RGVXZERqdlVJTndHcmpqQ2RINk1GbFdUYmF2MUlQU29pWjlmQkg5OUZlS2JyQTJCUno0cDNyU3YyVzBDQVNOZjJtME15YzZIT2g0M29yM2J3XzZxU09LTF8wOU85QmVjeDdGRVJleVNTYzEwNkp6YVVSY1VielE5U25xWXJRNUxJS2xCUUkxYjRUMk4yODc1dWwxVHZz?oc=5",
+          "published": "Tue, 03 Nov 2026 10:46:07 GMT"
+        },
+        {
+          "title": "India stocks higher at close of trade; Nifty 50 up 1.68% - Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVSd3RkQ3lpcjBSUXhockJHVmxYQXh0T2pfNWtRZ0V4OG0xNWZIMnc0dDZqWDduZnBnTkpIdW5GTHNDOGx1enhrRUhMVlZDUlZ5bDVTRnZpSmRQampQUTZjSHNkTjlYOExoWDZpckRlY2E3ZHZCRHBVU3dpLTBMNnJ5amZQWGZvX2RTTGRxTFhuV1pfa0o1cUxGUlZGXzBoSzJkRTNNT3JwRDZGR1lV?oc=5",
+          "published": "Mon, 02 Nov 2026 10:35:48 GMT"
+        },
+        {
+          "title": "Dividend Stocks November 2026: Bonus, Split, Buyback Dates - Univest",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUdnc3UtV1VJUEZaTjYwOTVBUThhT0d2dTdzbWZTZXpJVlZqeEZzLXVycE41VGpUY3J5M1JPMTRFRk82ZVpDaVJHem9CSkVYSE04VWZzVkttMzFwUlduLTczd2xTdG16LWF2UTRjei1BZWFhVDc2WllmTVBCN0VVSm13OVF2TWJ6bXhoTHJySDBHNTRvZUdoby14dHM0YlVxWTViUGpOVDFFUFZ3MDJYSHNCWlk?oc=5",
+          "published": "Mon, 02 Nov 2026 05:45:00 GMT"
+        },
+        {
+          "title": "Dividend, stock split, bonus issues this week: Infosys, NTPC, Asian Paints, Coal India, Colgate, others in focus - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZm1wM1pBaGVBTXREd0ZqX2Fud1dKTXZWX19lWjRHTXpubllvSU1Gbl9mSVptYVZOaFc5UXZwZVlUa2FsOWR4dFBfVmVQc3VCODJDVEVMZm4tUzlzbFJvbERQM0hDc3huNTR5R3hlUEZRYXU3ZjFObHRnOWhRNHhLM192OGNsZUgxajZoeF9xVGw1cXd3RkE3MXVGRTNlbDc1WXdjV21VWjZ2d29HY1UwWndsc3MwUlVETWJFdFdYY2NYanB0blBGSzlyM2pFQzd2a01zbDVZSmRfREFWMkdDeDIta2trdzN6Y2JMbVRNaw?oc=5",
+          "published": "Sun, 01 Nov 2026 07:17:17 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ITC.NS",
+      "name": "ITC",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 280.0,
+        "rsi": 67.3,
+        "sma20": 263.25,
+        "sma50": 264.18,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.81,
+        "high_52w": 303.19,
+        "low_52w": 255.0,
+        "pct_change_5d": 7.9,
+        "pct_change_20d": 4.99
+      },
+      "levels": {
+        "suggested_entry_zone": "277.2 - 282.8",
+        "target_price": 302.4,
+        "stop_loss": 252.72,
+        "risk_reward": 0.82
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Top stocks to watch today: SBI, NSE, ITC, Sun Pharma, IDBI Bank shares in focus on Tuesday, 3 Nov | Full list - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbm5sUENKT2N5bGFXb3o5NXhqdUpweTBTOWlRc2RzWU80Tnp0UDlYYXh4NG9McDlTb1dkcmliRGptVG9DbWxjQUNlM3BuOS1tTU1mVHJXdExCaXUxbDJHTjBhZ3FMVlRmVTFBUmxoWnRZRW1aNGs5VmxMaEc1YVBaS0V4VTQxWTV2WVpDd1VOQ1ZNbEdBZU85Q2tQeWlaUEx5QnBvQTA0a1V5eDBjQ01nM1hUR3kzQXpRQndSTlFqNU5TX3o2UFc3VGlER3lzMkpNOUpsZTlveG1uWGdaeVllaFE4bHE2T0RaeS1Lck91OV9LTEFfYVdzRWdyYjlMRmpl0gGGAkFVX3lxTE9zM0FLU0hKWUpseUNyOFR4TE1ETWYwTmpFZ01nQnMzOExaWjZOaFpuMFZIQTRiWUpfbkhoOGZxbmR5T1dINjh2cGZITGdNSWxBV2o0MEtYaGE0UWdOdFFmekFQb3NINFdDSGZ0RDdYeGROX1JTd0tBNjdld2lKRm8wdnpCR3VWaUpaalpoTDVZWWgwLVNqS25xNzJSVUpjNUZ6MUFMRktIY2FpeDRiQlFNTTh0b0R3bWNxeU9kMzZoa3V6RHc0ZHB5bjA4d1M3T3JjVXo4aWpUM1hJRWQtdUFnbnIzMTN6cW5Zc1FmVFhjM0hLNXo2eU54LVJyLTZFeXNYOUVrekE?oc=5",
+          "published": "Tue, 03 Nov 2026 01:47:56 GMT"
+        },
+        {
+          "title": "Stocks to watch, Nov 3: Lupin, ITC, Marico, NBCC, SBI, NSE, VMS TMT, Samvardhana Motherson, PTC India - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS21ydHRNLUcwRkVLcG1SNFo4aWVuWWt3UFJscDJGZUZvMzduNXNjcHJLNlY4MEVKSEpFWDJZSWxteUZKZURCUi1Rb0NLaW1aSVVGOFdsSDRvOHFJX0JHZF9XVVpGTTd2aTdwbWtjdW5WUm9hdWotQWdKQkVOazlwRmM5ckxBQmJmM2JZSnZVTnlfZWVhTVl5YzFBYjBTVWFablZ6TEJSLVU4bEpQQkY2R0JNRFcwd0tqYTRVb0lqZkI4YUlXY0QwYW9JbG5vQVBPNEp4Q09tVEI5ekdxMVlZbHE0TG4?oc=5",
+          "published": "Tue, 03 Nov 2026 02:43:32 GMT"
+        },
+        {
+          "title": "Stocks in news: ITC, Marico, SBI, Yatra Online, NSE, Container Corp and Sun Pharma - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORE5fV2QwdkNFZE1fNFVQbldLYkpqQUFIZlVzWU5Ic1dNQUlJa3Vhdkl3SEw4Z2NxSjdTVml2bGRtVkpwXzREaVJwekJWQVNZZkthWFlGdU1EdlBYcTI5SWEtRWJDelR1S0NYcnVucGtUVmtWR09wd2JtYXU3X2h2LTNTM21GT0QzZ0dkNFVSdlBmV3FOazJDVUhfTW9TNGxmVHlvcFFuVTV2WnRMQzhRX2g2Y2IteWRjc0xCeFd4SXdDdDZoTGJsRFBSdkhfMXlaWXBHbmJGbk5LNmhURHctZFkwbjjSAeoBQVVfeXFMT0cwRmRXRzVBTTlFSWZDN1dyZzZad0x3SFRha2VDSDA2Y3loNm1MVXUtZ2lGcW43OUJGbEV2WTMtdklya1E4SHNOUTlRVjI2TnFKWTZEREpJNWROS0F2bFdpMTRCcEpCcFAwTC1XUExFZFNrcDFEc2k0N1k3T09OOENQbktkWXUxN19GSzlDTHRPclFVbVlIT19nampvQW1CTkFBWkNoWG9EelBKWGZHUU9tOXNkcEdtdjBMSTZ2bVMyODdMSGJmV2dkckg0UlB4Wkd4MjYtc2xmSXRlSXBZODRtQ0pwM0UtdkZ3?oc=5",
+          "published": "Tue, 03 Nov 2026 00:30:00 GMT"
+        },
+        {
+          "title": "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy's, Bosch, Ola Electric - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQnZaUjd0aDJrSmNWSTNIczM0NjhrSnpNbTIwYW00VUpfdEY4SGZZWHZmTG12TXBGdzhNSGFjZk8wdFQxdW9wMzlUX0gzY0RSM2hqYWJEMzlwRG5lTlJzckN1ODRSRFhSeEprdzJ4UXcweHZyWkZaTnBjaVpDYWo0ekgxZ0lhZDhSSWQ2TTR1LWpFOVRicUJmY0owNWhySlJFOF80OTZYTkJSaTlVdE5qbFhyU1V1M1VPSDJEdV9ramljNWVwLUp3NXRCNNIB0AFBVV95cUxNcmlKSUFSY0hKN21IZGE4alVRTm5jek5zZFpLTW83N2o4UUFURjFtczJKRHU3azByZk1XMkVQYktVanpxSTNVYUwxbHdlV2FyQjFPajZPbkR3cFBtVVN5Z0xERHJQWmN6MlNRY050MFo5cm9lOEVyRFJ3NDluZldPWTEwc3JoWndRSkNYNUZibEZQMlBNd3ZuRFdmSzk0VDEwX0cyZl9xQ2wtdFNjbXp1UTBBS2NyUDdlUkpJNG9NbUV2SXZMZU1pSXA0N3RLT3c5?oc=5",
+          "published": "Tue, 03 Nov 2026 02:30:27 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: Lupin, NBCC, ITC, NALCO, KEC International, GSFC, Trident, Marico, Akums Drugs,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPeHFzV2NoZjBOQW9GZmhGRGxEUUM0MmQyakY1Y2xpeDRZbnAyTTNOanVSOGNaLVQ3TTZDdUNXeE1fNzItR21iaXdvWkdYSVpqeVhGT0FLX1EtR0FqbE1ZTkI1dXNmb20zSFI5TEtLM0RXVVJnSFhkcWlnTzZDUVQ4VE5FRTlDblRXTHhQMG92RkFQLWJVdXlTMmdCWWVobzdDV3Q4TUtERm5lV2ZmaF9TdVJRNFVpQkd1dW4tQi1iMVNPOTF2djlWaU9jM21iUldHXzN4QTE3MUZuRkZSZTUyblNpa1RiTm9OT2E4ZGZ3d1FrOVFVeXRUcDJubDlHZWFxQ0g1RGlvRHd5RTJDRFc1UHZpMTh2MVg4eGhIaUlTODRJZVFpMmhHYXAtYl8ybkFDSjFjdkw1cy16ZHJtdUdlM2lR0gHHAkFVX3lxTFA2RDNQMVlBNWNDNkxZRGJCbnlfWHp5akt3ZDJ2bS1EUDlhbEVCVlotVUQtUmdzX3NEZnlSdVZoVmF6aTZyMTdNVFVpaXFxUE5OeE5kUW5Md2ZmTzJhbEs0VjdnVDQtT3RaYXZPdTVZX0xYYXBxdEtwbnN0NkJteXpteU82M1VXZmRFdzB3aDBLeFZOYWNZdVAzLWFnaWtnZ0w4T2MzTnAxQ1lfR2NNenpEeFhDQmVGNWowenE2TWtBeHlXTFUwWUJMS2RqS1duZm9Hbm96bkJPQl9aMGJBdHRrY2liVHJpT2QxbkwwVWJYS0F3c3poeVg4cDVyTU9uZl96ZVFxXzBYT1dhUW9vNDFSZkhIZ2thLW9TTWFhdTgxdFpzWnNHQ1dvZzBfZXlqblVsOWQ4elU2dWtYcEZ2VzNUdTE2R2VSMA?oc=5",
+          "published": "Tue, 03 Nov 2026 01:06:14 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "name": "ASIANPAINT",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 2418.3,
+        "rsi": 57.5,
+        "sma20": 2329.99,
+        "sma50": 2423.56,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.52,
+        "high_52w": 2803.37,
+        "low_52w": 2271.63,
+        "pct_change_5d": 6.1,
+        "pct_change_20d": -0.01
+      },
+      "levels": {
+        "suggested_entry_zone": "2394.12 - 2442.48",
+        "target_price": 2611.76,
+        "stop_loss": 2236.79,
+        "risk_reward": 1.07
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 2,
+        "negative_hits": 2,
+        "flagged_headlines": [
+          "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection - Upstox",
+          "Oil-sensitive stocks tumble up to 5% as crude prices surge; HPCL, BPCL, IndiGo, Asian Paints fall - Moneycontrol.com"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Indian Oil, IndiGo, Asian Paints: Oil-sensitive stocks fall as crude prices jump due to Trump's peace deal rejection - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcHlRMkwyTEFycXh5Z0JhdmtTaEphUWVtd0tHTnZMZ1BRUzEyVVhTRVpPWXJwLXNvZ1ZSUUdjcWJFeHVJVzZDRHR4Q3p3bTU1YzhPYjN0bE5sUmRYUGVtM0l0bUVRZ3hqOWY5bGZRektCVFJyRTdPUG9CMTI1OEFmZ2E4eXl2eVRWUGFwbEVNVVRvSVItdUpEbXdLMmhmNjRsVloxLWZHbHZrVzZjUzkzRkdXT2xlT1hqaERSUDRYeEFNLUJKM201bnhEREdBbDU2eU5iekV4eC1zMi1hOU1MVlRQUVlHVVZySjBLdVpmX1RiTXlzSDJmOXZncnlRcHcxSXNJWU1R?oc=5",
+          "published": "Sun, 27 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Oil-sensitive stocks tumble up to 5% as crude prices surge; HPCL, BPCL, IndiGo, Asian Paints fall - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZmo2bFkwakdjSjU2eV81Y1FuSGtVVXNRWGhPM0RTdzVmcVZxME1VM1BJTjVCNkx4d1Jmd3VVaDRXOEM2NUFqQjhOWWZFTTdwWlA2eEdqOGFKN3d6Zm1uUXNsdk8zdk8yNE9IVDhpeWJSX1U3VXk3WUpXNE14UEo3dk5BYUZ2bHJvMXd1aExNQzYxNnRtQ3ZtaS1idVlzQjJzQkRVNXlFNG9rOGp1cWs5YVgyVF9NbnRQdmxJbk1YOGN5VWcwcm5GdHZZQXJkeTVRNm1MeGlCNjh0UFMxMnJFWjlNanRZRHBsQzdQM0x30gHzAUFVX3lxTE9mVHh5ZmdaOUdEdXAyNk9IdDdoalRVM3llcVZXUzA1VFYyaXlveHdFVkx3ZmVWTGlIWFlvQ0t3NVlUaTkxbU5DVTJIejUtVDZib3JsaVp4N0xueG9MbnJpaDd5RHFCS1pKb1lZa0VnM04yS1QtdWl2Q0lscTV5eklJdTJielhEVkNMQmZ5OEFiNlItcnNPQTYtNG80MzVCRkVTcU95QUMzRHdINS1aNVV0cWNXQ0F5SldjeGZjc1R5b1BLOGZWNnJ2cGZWNENnUWk5dG5zRlVBWWVmVUw1SWxuZ2twbEVpbHF2SGMxZGp2cE9hZw?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "How Has Asian Paints Performed Against the Nifty 50? - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXE2dkxqWGVybGZGZHZ6NHBWY1pyMEdhbE5vZ1l1dHhpYjFpOVV4Tl91VURqRmUycTNrVDA0a1Exd1BQc0JCNm14SFJ5THY3TDRBdXJrVlBIQkpmOHhpU3hLWnBCYUxSS25SUlZsS0tpWFkwdXFvbVlpMEIyaE14TVFaWnFKXzh3S3UxVVZnVEMyTEZDSzB5WDdn?oc=5",
+          "published": "Mon, 01 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Asian Paints Share Price gains 2.03%; fundamentals in focus - Univest",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kbWtBQ3UxUzFJWU1NTk11dWpWWmRqYjU4QkFRczN3MWxBR2JYMGZLT1M0Tzd5a2l6Ymx6ZlQ1cmlMODlJY0dhRUx3dEh2YlhvcG1GVUNQVUt1NXRNQzFrRE9nLTRIbGNEMHU5Sk1SMWdnYW5GaGJoWkkxckdPQQ?oc=5",
+          "published": "Tue, 06 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Q1 results 2026: Adani Enterprises to Asian Paints among companies to declare Q1 results today; full list here - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdGlhb0RUeFN6cG1Ra3F5SU5NZ0pZd3poa3NJVmJzb1lRV0wxU0RTMnhQNnpqNHU0UVRQMHpKTHpDTVNReDIxZjIzVklYSnFMM2t3cFJMQnZtc0lBblpmRzdVVDl2Y1JyLVVtcnlTekRjbWNjRWg3eGdSNGFiQ2x3cE5wak5xdnM0UEI5SjNBdFRzb2tZLWw5RTNiSmhEU3VZWmhqaXpGVFBra1pzcUdSQ1JFaDlhOElJV3FCeV9hVXFhenhfYndUNVVFM2dNRnowS1pYZnlESTNpdm55YmdYUTQ4THVUX0tmZTdUYTktS21CLXhEQ3V0LXpkRTdkY1ViYzE3Z3hXbEVuUQ?oc=5",
+          "published": "Wed, 29 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "name": "ICICIBANK",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 1424.1,
+        "rsi": 61.9,
+        "sma20": 1381.67,
+        "sma50": 1378.03,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.85,
+        "high_52w": 1460.0,
+        "low_52w": 1216.35,
+        "pct_change_5d": 3.38,
+        "pct_change_20d": 6.05
+      },
+      "levels": {
+        "suggested_entry_zone": "1409.86 - 1438.34",
+        "target_price": 1460.0,
+        "stop_loss": 1326.4,
+        "risk_reward": 0.37
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
+          "published": "Tue, 03 Nov 2026 03:24:55 GMT"
+        },
+        {
+          "title": "ICICI Bank Share Price - Live NSE: ICICIBANK Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41ZWlLb1o0emplRlRyWWY3MnhuaG1TMzVobHB2ZVk4NGc5aTFkb3FrX2Q4ZjZaanV6V2oySlFPTlZZa05qUnNicW9pNktGdnlxU1BvalA3VjJVUlBqaUtSSmdaMA?oc=5",
+          "published": "Tue, 03 Nov 2026 06:28:40 GMT"
+        },
+        {
+          "title": "ICICIBANK Share Price Today - ICICI Bank on NSE/BSE - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtenFscnpQOFlPM21KMjdXWFAwdlhfdjNib3Vkamx3X3VqdXhNN1NIckRUZEt2RVdwSGlVQld4RVZDcFNEMGhlM2ZxNjZqUERvVG1sTQ?oc=5",
+          "published": "Mon, 02 Nov 2026 05:51:10 GMT"
+        },
+        {
+          "title": "National Stock Exchange of India (NSE) Share Price Today - TechGraph",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dV9oekRtMkRUYWpLS25Qb21wYVVDSGRETklQNWd1WVZSX0k5Vm96Vk04Mmt2MjQ0SGpyWE4xcUlQLXRWNlNCcDR0QXljMmxtajVVWFk1NXk5SDN3cFdV?oc=5",
+          "published": "Wed, 07 Oct 2026 04:10:35 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: IRB Infrastructure, Shakti Pumps, Dilip Buildcon, Indian Bank, Khadim India, ICICI... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNeFhyRmMxbzVhTkxFUVNNOVJuUlZGUjNvLVUtSHBEOWgtZUNXTk5wZ0xPNEVrdHliRUtDZDM3UEhmQWRadnJoRncyZDlFemFhYlFBYjVFUmJTay1YbmVBcGYxVlkwVEJONG83b3NzckdaTEYyUlVjOVNJVnB1al9FMVhrc3hrQkdfVG9xUzhwOVFPTllXSGxoRUxRV3BlejFkek5VMmd2UVVnOUJvR3NZQ01PR2Qyd3VzT0s0azh0eVgxUy1faVlyUWtHMDJJTVBBTG1vMGkyb0pTejFfYUdsYkVabUhHclpSSVZIN0pPaG5TUGlGWDBkdzVtdWpqMmcwTzVSSEpoMVhZcFNXSm5YTnBVSlpqRGVCT0xiRmttMGplODB5Qm440gGsAkFVX3lxTE5IOWJxN1RaT2U0S3lOV0N5c0JXaDIyeFhGdW44RHdBODNXeE5DNmNlX2thdWtjQWJnRDBtYUNucVIwbjZJU25aWGlsWFp4dGF6Y2VtZDlxMFl4NGM1bXhaZXUtc3ZfbVY2c1ZJMzlQNEU2X25SaVZWNkoxLUkwX2NidVduNDJmREUxdlN4WUg0VXhYNG92VjdOenp3WENDZVRtZnJRMlZRekdRRXQyRTl1WjJFVHJCNzdkcmtxUWdmUGFfVkhTQ2RxUlBSLVFOSG1PNFBCVTk0N2NzakxnOVhDYkl2NVYxVFBDc3c0TnVlNzc0eUJZTHZVSDNWR3lNMnZKZktNSjRxTHVuSGtfX0FHSlRPVFU0SUNIeW9UaGdFc3JnUEI5VG54dEo0VQ?oc=5",
+          "published": "Thu, 10 Sep 2026 07:00:00 GMT"
+        }
+      ]
+    }
+  ]
+}
