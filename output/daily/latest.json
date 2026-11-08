@@ -1,183 +1,124 @@
 {
-  "generated_at": "2026-11-06T11:17:33.193507",
+  "generated_at": "2026-11-08T09:22:00.584513",
   "mode": "daily",
   "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
   "shortlist": [
     {
       "ticker": "ITC.NS",
       "name": "ITC",
-      "score": 88.0,
+      "score": 83.0,
       "indicators": {
         "last_close": 283.15,
         "rsi": 68.8,
-        "sma20": 265.31,
-        "sma50": 264.6,
+        "sma20": 266.17,
+        "sma50": 264.85,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.85,
+        "volume_ratio_vs_20d_avg": 0.11,
         "high_52w": 302.46,
         "low_52w": 255.0,
-        "pct_change_5d": 6.61,
-        "pct_change_20d": 11.04
+        "pct_change_5d": 6.29,
+        "pct_change_20d": 6.45
       },
       "levels": {
         "suggested_entry_zone": "280.32 - 285.98",
         "target_price": 302.46,
-        "stop_loss": 254.7,
-        "risk_reward": 0.68
-      },
-      "sentiment": {
-        "label": "positive",
-        "positive_hits": 2,
-        "negative_hits": 0,
-        "flagged_headlines": [
-          "ITC shares jump 6% in two days after Q2 results. More upside ahead? - The Economic Times",
-          "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices - The New Indian Express"
-        ]
-      },
-      "headlines": [
-        {
-          "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
-          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-          "published": "Tue, 03 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Top stocks to watch today: SBI, NSE, ITC, Sun Pharma, IDBI Bank shares in focus on Tuesday, 3 Nov | Full list - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb2Z6OVlScDlseG5vUmtjQUpBdlh2OXVyVk5lYmtkUm0wLXlYYXhwb3RpVFFoWVBxVkNIWTQ0TExPcENvcmJ2YnJUbmxCZGwxdXA3TzBrTmVNOVlzWUMxcF95aFFnU25CbmVjUTdRN0owOUpGZW0zWGFFY2NSaTJxZ09YUFFKYnBVX3ZkZGxsUThQdGdzMXZhd2c4RHBQeGZ3S0wtTjZLUkdpNy0tX1B2TWpPMDdRLWo4VFJza2NlcUs3YVQ3S24wX2w2TURUVEo5UkpFeGV4bUg4MWttQXNtWW9mblVoTGVfWjRLV25CQQ?oc=5",
-          "published": "Tue, 03 Nov 2026 05:15:00 GMT"
-        },
-        {
-          "title": "Stocks to watch, Nov 3: Lupin, ITC, Marico, NBCC, SBI, NSE, VMS TMT, Samvardhana Motherson, PTC India - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPS21ydHRNLUcwRkVLcG1SNFo4aWVuWWt3UFJscDJGZUZvMzduNXNjcHJLNlY4MEVKSEpFWDJZSWxteUZKZURCUi1Rb0NLaW1aSVVGOFdsSDRvOHFJX0JHZF9XVVpGTTd2aTdwbWtjdW5WUm9hdWotQWdKQkVOazlwRmM5ckxBQmJmM2JZSnZVTnlfZWVhTVl5YzFBYjBTVWFablZ6TEJSLVU4bEpQQkY2R0JNRFcwd0tqYTRVb0lqZkI4YUlXY0QwYW9JbG5vQVBPNEp4Q09tVEI5ekdxMVlZbHE0TG4?oc=5",
-          "published": "Tue, 03 Nov 2026 02:43:32 GMT"
-        },
-        {
-          "title": "ITC shares jump 6% in two days after Q2 results. More upside ahead? - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlRsUkh4clV6MlhsN0pfQ0tmQ0xhT3JFUmJSRHFUWFNETWtlbHJHMDBlcUFWSkQxb21peFBsbTJOXzBiUnFPa1RnbkVwa2drbFh3X0pWX2tqUlU5dmZSbHE4Q3VSZXdxdVp6bkRlelpiY1VNbVBrVHZFanJaWVVERHRaRHlZa2lMQnJKZWFQWmtsNlpxRUlCZ25aektxRWJJWENFNEIzdXloMm0td0RLbUZCcGdhNHh4NlBlV0tLTG53UW5pYUFycDFFYl9yamVvSHh4c9IB2gFBVV95cUxQMDNYRVdiTjNaMVZ4LTFPYnhmWFlHLXhrWUgxWlNvdkxCckFleDd6RVhGVUlGWXVITnFlTmYxTDZuMlR3RGxmSmlhRlFHTzllR2ZVQlBMSHkyYnhpbUpERzhzVmRpaGZaaHdFbEJFdnk2dEItSTNMZVpHU2RsX09vdm45Yk4yemJLNHF6a2xuY0g4R3lCMXpWWE5XQzVvXzEtclhwUDVXZjUzY2lqRHk4eTVvTE5TV0piR21KQ2wxbmFLai1Zdk9KTXptRHBUMkF5MUt1X0I3R2RDQQ?oc=5",
-          "published": "Wed, 04 Nov 2026 06:05:56 GMT"
-        },
-        {
-          "title": "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices - The New Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmJmNUlYaTluYWpzalBYcDBBMmpaZ0NTT09OMFFKVDVWek5lX3M2TUNUV0tabU5Rd2pCRE9VQ1VfX1JlTTdILVNjSE1OZWRWbmxpSDRNWE9WMW5oNVVGY0ZhWHRVdVM4T0g0TmJ5ZnZ3WmlWWnRmZDhRb3lhVnpIZXBuVkljVXBrUlFjLUZyWEE5VjBOMlJ5dU5YOS1pY1ZWMjFXQ014TVdxbFJ3c2IwWmkxMG5nWTJyZTZ4dVVHNmJDN3BXMmVrZW5vU1N5aDNiX2fSAd8BQVVfeXFMTVF5N05MOWZ6U2pkRWZHa3F1WWJ4Snc3QTg1OTQwdTZYd2M3OTdraVJZX3hhd2ZjejRMY1JnZmhjLVpSX2h2WmJLbkl0ajg1NEpmQk8yNHlZRmN6UldoZVJ0NWNyeDB4blpORjU3Vl9iVTlTOHllR29GYWxHSjdxRk1kdkVtZmtjVTB4dlU2aGFKb0V2UGM5dWJoNlc4THlTYUVwQzQxNmQxVkFaTkVwdE9lYmdhRENib2RjYmFyT1hYem5Rc2x6d0lRZlEtbXk5akx3X3psZ3h1ZVR4ZzVGdw?oc=5",
-          "published": "Wed, 04 Nov 2026 04:28:46 GMT"
-        }
-      ]
-    },
-    {
-      "ticker": "INFY.NS",
-      "name": "INFY",
-      "score": 80.0,
-      "indicators": {
-        "last_close": 1181.4,
-        "rsi": 64.2,
-        "sma20": 1111.84,
-        "sma50": 1065.81,
-        "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.91,
-        "high_52w": 1216.03,
-        "low_52w": 963.23,
-        "pct_change_5d": 1.98,
-        "pct_change_20d": 21.21
-      },
-      "levels": {
-        "suggested_entry_zone": "1169.59 - 1193.21",
-        "target_price": 1216.03,
-        "stop_loss": 1067.37,
-        "risk_reward": 0.3
-      },
-      "sentiment": {
-        "label": "neutral",
-        "positive_hits": 1,
-        "negative_hits": 1,
-        "flagged_headlines": [
-          "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
-          "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week"
-        ]
-      },
-      "headlines": [
-        {
-          "title": "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
-          "published": "Fri, 06 Nov 2026 04:05:44 GMT"
-        },
-        {
-          "title": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDJneEFUV0ZIcXVjR1dwTzVKSDhPb2J2M2ZYcWhXdlJQQWhQTWpnTmo2UVh0emc2R0liMER6WTB2bUlTb1R4azVDLUh6Y2V5cE9jelZwRWIzVlE2VmRSeGJ6QkdmNXdVdmFteGFoNXpOYzJjVXFLTHFWbGlRN2doX2lZblJKbDZTY1lnNHRkTExZSm83TGcxaU1RT0h3S0g0S2d0dmpmMm41TlpLbDVzZ0VZM3d4U3A3UkthVGFCTHlLd2lTYmQ1OGFVNTJhUmZIZ2Z5cUs2UnhMYW90eUd30gHkAUFVX3lxTE1DS0tvZG1WTWhSY002V0RES1BYaE80emk2Q1ROZm5PRWRQOThoLUFxdDl5WTJNaldDN2htZjVhcEk3UU1HVHJoY2Z4eEVBMmJHb0I1Rmd6UEZ0cnlIWGRqTW1mSmNyeTNhWmMyRkw1QVdmMThOTVNEMUdDR1pjUE5ySzd2emtlZmZXcV9sdzJ5Q0pNY1Q0MTd5SFBUTUN3VnFRMTF6NUVsc2RBaVFFeERKSlY4UVlLVXdrZ0tEZHdCZS10dnBtQ2tmLVVGZUc0ZU00LUc0NEJCS1NiTTZMS1lpaFlpYg?oc=5",
-          "published": "Wed, 04 Nov 2026 11:32:53 GMT"
-        },
-        {
-          "title": "Indian stocks post longest winning streak in nearly 5 months on FPI inflow hopes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
-          "published": "Wed, 04 Nov 2026 02:39:00 GMT"
-        },
-        {
-          "title": "India shares higher at close of trade; Nifty 50 up 1.58% By Investing.com - Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc19oVjVKTU0xS2JkWklGeHhEaW1TakhkeVJHZHRpQklGZ1VIbXNLVTlwTkdpM0RDV3hxRzREYVI2XzVmNnhLejlvQzg2N3J0NTJiVTRnWHVpVGVNNXZKTEphOFBweFo5YkpUWlpWSlI0ZW5iQ0poNV9EMmwzQ3dXZXhKMWFFXzFyZUxqY3o0dW11dnRJaGtmeUo3VzlDc3E1M2FUZG53M2hpaHBPWkE?oc=5",
-          "published": "Tue, 03 Nov 2026 10:37:54 GMT"
-        },
-        {
-          "title": "SENSEX gains 600 pts, NIFTY50 recovers to trade higher after muted open; TCS, Infosys, other IT stocks power gains - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWUlvRDd0SUZTV25ibFcxcVBHWGZsSU9qSHBqd3c5eTNvMlRIYmNmMUFCckoteXU2TzdDeGRLWnd4MGczTXRJZG1UX2xzZ1BOOXpUcFU1WEZ3QlN4WGlmVnJ1RUZPMHo2cXNLQmhnY0VrU3JteFdFc0Y3ejZVY0ZySjBiRktqYUFVOU55VlFTclA4Nzh1azVKQ3ZvMkhBOTE4T3RIZ1ZPOW5YUy10RkJrRVVXc09kNlkzcmRzV291T0ZYTzVFa3JfT3RWZFdBS3lvX25wVlQyR0hwYmtfSzNuWUdHYWpnVEhjQjlZLVZZUG1Uc2VIeG1VdmJkNHdweEk?oc=5",
-          "published": "Fri, 06 Nov 2026 04:01:51 GMT"
-        }
-      ]
-    },
-    {
-      "ticker": "RELIANCE.NS",
-      "name": "RELIANCE",
-      "score": 78.0,
-      "indicators": {
-        "last_close": 1320.0,
-        "rsi": 68.2,
-        "sma20": 1216.14,
-        "sma50": 1235.59,
-        "sma200": null,
-        "volume_ratio_vs_20d_avg": 1.09,
-        "high_52w": 1431.28,
-        "low_52w": 1158.0,
-        "pct_change_5d": 13.31,
-        "pct_change_20d": 12.05
-      },
-      "levels": {
-        "suggested_entry_zone": "1306.8 - 1333.2",
-        "target_price": 1425.6,
-        "stop_loss": 1167.49,
-        "risk_reward": 0.69
+        "stop_loss": 255.52,
+        "risk_reward": 0.7
       },
       "sentiment": {
         "label": "positive",
         "positive_hits": 3,
         "negative_hits": 0,
         "flagged_headlines": [
-          "NSE India Today: Nifty 50 Rally, Market News & Outlook - SMEStreet",
-          "NSE Q2 results: Profit rises 23%, EBITDA doubles in first post-IPO earnings; how has stock fared since listing? - Livemint",
-          "Crude oil crashes 8%: IndiGo, Asian Paints, HPCL, BPCL rally up to 6.7%; ONGC, Oil India slide - Upstox"
+          "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns - Livemint",
+          "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices - The New Indian Express"
         ]
       },
       "headlines": [
         {
-          "title": "India bucks Asia tech rout as oil slide reverses market fortunes - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
-          "published": "Fri, 06 Nov 2026 02:27:00 GMT"
+          "title": "Trade Spotlight: How should you trade Motilal Oswal, Adani Green Energy, ITC, SBI, Va Tech Wabag, Groww,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdExNQ1dBYlNhMXpaQzZob2J1bFdOVlF5RjFuUGVOaTJCZEsydmxFZlNlelFYWU9sY29vX2VfYjVqaDhra05Pa0lKdFE0clRuTE85TzdPaDdYa3ZKdHhvRW1TMzdvWjF5WWZKWXM2azlwX1RhemlabFpFM2dBZ1BRc2xJQ040UlVaVlpsZVRETDNRLTVYbjNHVTVXLVFuVF8zTHVXak4wdE1nMG5TQUNPMW9GZWczY01SRlFVdnBtd2NYTlVabkJwblk3TkRmbkxwdXZPNnQzVjFEN3hBek1fRTFlRDZrOGV4c3hxa1JHc0lvZmpVakNveGNFc0RTdHk4Q1JILTdLTUlVMGhELVQtci02Q1o5N0NSdktyYdIBogJBVV95cUxQek53NHNfMjZXemRqTkRQZ2Y4MFRHMWwxcE10NzNYNG80OG1QZXVDUHBNTS1IS05kN3I4WmJtX2xuUWIzZzhweGFSUjVWMjhYV1BENFpzYnlFYWhZLVNpVmJFWEh0bGVDcExqVWk5ZmxxWXdhQXZGanhGQ1JxbGhjRms4clpLeUVvTGhqWWF6NWxkaDA2UWV1bWZTejBxX2EtMEZnX0F0dER6b0M0RzZ0eGV5R19ScWItb28yZjFoZlVzNWw0NEEyZ0lLVm9BOUo3bjFtNlRuYlhmdkxsN0pSRDB5eWhkbVBYeHl1VE84OUNtSTdCTWMtOUh6S0JrblBSU1BtSkNBbEhxVkF4anF2bDVNMVB2d2J3U3YyOUc3Nkp6dw?oc=5",
+          "published": "Sun, 08 Nov 2026 07:10:49 GMT"
         },
         {
-          "title": "HGS (India) Shares List At \u20b9160 On NSE SME, Rise To \u20b9168 - HDFC Sky",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWtVXzJ5cU9weVlyM2tUalFXeXpQRkhIWmJneW1nRTRVQWFOWVpxNV9kM2laRF9JUU9WMGF1VFZpZkI2ck9nUi1UWjlCSnJnc0t6YmtoTjVnaGQzdXhCNU81U0xqcWFfT3ZEOGN0Sk9uOUJEWG1RdkNDT3pqT2ViSW1yMEJmeEFNTTVIWHQ5QmVqdGtmU1NCTTJhc210dw?oc=5",
-          "published": "Fri, 06 Nov 2026 05:36:41 GMT"
+          "title": "ITC Share Price Rise 2%. Enters Top Nifty Performers Today - India Infoline",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZvXzN1dmo3SVJmMjJnMTZRclpzREZ6SXNPbjdNODBEZWpUYnRiNTZGeUxwN2pDT1MxMzRBQkFGemFQbWZJcnI0UE1mZTJNUVRQcF9SQnV4UWJnZEwwSnRLSzZYSjEzdzFNcko2bklscXVSX0tyVXRqazM3OHhlQ2FNbkh2cW8xbVJWMW5sdnBjanh1LXFMNWViRUxPMTROanVlVTN3?oc=5",
+          "published": "Wed, 04 Nov 2026 05:43:53 GMT"
         },
         {
-          "title": "NSE India Today: Nifty 50 Rally, Market News & Outlook - SMEStreet",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWm56TE1PVDdEdVdObE5pM0xRc2FMdmFGUUNOcGUycVlRS25XSE1aTkZ3dFJmSVRYdDIwZTQydVNJcjJudXVyaDFnY0JUZzlSVDdHQXE3ajBMNjFhaFhxc2x6RDhZVW9jNnJtOVQwWUN3QmhWRWFwRzV5QlRpaUVod09yZENYaENGOHhJT2hSMi1Jc1JUY0g5aTBmRVhpMjDSAZ8BQVVfeXFMTlpuekxNT1Q3RHVXTmxOaTNMUXNhTHZhRlFDTnBlMnFZUUtuV0hNWk5Gd3RSZklUWHQyMGU0MnVTSXIybnV1cmgxZ2NCVGc5UlQ3R0FxN2owTDYxYWhYcXNsekQ4WVVvYzZybTlUMFlDd0JoVkVhcEc1eUJUaWlFaHdPcmRDWGhDRjh4SU9oUjItSXNSVGNIOWkwZkVYaTIw?oc=5",
-          "published": "Tue, 03 Nov 2026 11:27:13 GMT"
+          "title": "ITC shares continue to rise after Q2 results 2026; jumps 3% today | More rally to come? Check target, upside, returns - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPS1JmQ0dpQ2htY1lneS1WVHhNWTNMYlhVMlowWGNSTC1nUFE5MXFsanlxM0o5a3hFbTlOTjhiaVF3dVd4ZVlBV0RVazRNRndIVlFJVnllcG1JUGtJWVFYb1lZTlRSZndTcE1sQnphQ3ZyZ09jcjRQQjRuRGFhNGFzbGtNR1Q5OC1XM0pEVTlzRmU4eUhFM21CQVBzSGt2aVpqc0MtWUFRejBtOFR3NjF0UjVtbUVfdzN1OGdkTWlPVTNiTjVmRE5Xc3BYMFp1b2dpQnM0R0JDWVh6WFBwNUdnMjBnNVltQUo0T2xCRURPa3pVdEY5Wk54MUVfRWQ0T0NySTRuVElFSHl3dHUt0gGSAkFVX3lxTE1HYTczYmJYcFUzRkl1UmpTa0pWYzdZZm82dmZJVC1zOGNpeVFtdnM3dWNpMnpHY3h0R010cm9ELVRLU0xzV09ZUjlSaEYwbWNHRTFjZHlEd1Y0UmJDN3BWSEFPMkc1WU1TQjRXeG52OGJtVWlTV0pObGtrQnBqSlZxamIxdG5iZnIxR0NDdm9nTGVvbnVGZTQwS281Y0xqS0tUb3lfS0gyX19CcmdJZXBkdUh3eXNKVEg4X3RoaGpYT19yUzdjcXRLNmhxOW8yb3N1R0hOTllReFIyazFzWmRDdkJXYVNXYm15aTVCYVI4SXcxdXhycWNQb3NEa1E3emZzbEdwSXo3Y2hDVThGckpES0E?oc=5",
+          "published": "Wed, 04 Nov 2026 04:37:24 GMT"
         },
         {
-          "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5",
-          "published": "Thu, 05 Nov 2026 08:16:48 GMT"
+          "title": "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmJmNUlYaTluYWpzalBYcDBBMmpaZ0NTT09OMFFKVDVWek5lX3M2TUNUV0tabU5Rd2pCRE9VQ1VfX1JlTTdILVNjSE1OZWRWbmxpSDRNWE9WMW5oNVVGY0ZhWHRVdVM4T0g0TmJ5ZnZ3WmlWWnRmZDhRb3lhVnpIZXBuVkljVXBrUlFjLUZyWEE5VjBOMlJ5dU5YOS1pY1ZWMjFXQ014TVdxbFJ3c2IwWmkxMG5nWTJyZTZ4dVVHNmJDN3BXMmVrZW5vU1N5aDNiX2fSAd8BQVVfeXFMTVF5N05MOWZ6U2pkRWZHa3F1WWJ4Snc3QTg1OTQwdTZYd2M3OTdraVJZX3hhd2ZjejRMY1JnZmhjLVpSX2h2WmJLbkl0ajg1NEpmQk8yNHlZRmN6UldoZVJ0NWNyeDB4blpORjU3Vl9iVTlTOHllR29GYWxHSjdxRk1kdkVtZmtjVTB4dlU2aGFKb0V2UGM5dWJoNlc4THlTYUVwQzQxNmQxVkFaTkVwdE9lYmdhRENib2RjYmFyT1hYem5Rc2x6d0lRZlEtbXk5akx3X3psZ3h1ZVR4ZzVGdw?oc=5",
+          "published": "Wed, 04 Nov 2026 04:28:46 GMT"
         },
         {
-          "title": "NSE Q2 results: Profit rises 23%, EBITDA doubles in first post-IPO earnings; how has stock fared since listing? - Livemint",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeVQ5SGl1MWlQOTRXNThGLVlPcm16WjJ5ZHRMSjRWVEFwdUdNVzJkOWJNek40UXdJdk5aR0RaTmd2aXJ2NDYxdjJTeFRrdGxvcUQzd2gxcVFfdWIxMmozNkFYVmRnWWF3OTVRMEVMQ2dOQ1FmNllZQy1ZemNwODV2bUQ3eXlQRkNmM2w5SWpTVWxDMHY4STlRdU1YT3NObG1scXVDOHhPeExfcUVyNk9CZWhmUGtBbTd5dndkVkM4eDI1X2hPVk9zdnBjQm1qOWNsU3V1TTJlMGJubGE2WFZTMXhtQ29lUWNlM1U2dWNmdl9Gdmp0d0tVUWV6UXE3dmtfQzRSeEVPTdIBjAJBVV95cUxNMDEzYlp5bUk2YVhFdVl6REF3NjZYaTlzeWl5eFU5VERaWGE4eHowWTdHU0UwSGNhSk13bEI4VlpUN1dlN0NyRnZJMk9XU1hmRGtPSVk3dDVWMXZOY1VDN2o5OEZxaGxQVmd5OHVra21MeUFhaVBJenVwS204UWl2WFAtOGNLcGxNcFFYYW5IczlSdko5VGtYMGVGaVQwSmN1dmhBOG9McjM0SUE0UTRaS18yQmVLc2llcndNbGN4UHJ5TjdOQm10a1M1cjNNV3dLSXo0TGJPUHF3bHoxbHpTamd3VzdURVZGY2x2SzNhUkI2RXJJajFuNUNRajdQai1NTVR1bmxMWkZEbzlS?oc=5",
-          "published": "Tue, 03 Nov 2026 13:41:47 GMT"
+          "title": "NIFTY50, SENSEX recover after opening lower amid mixed global cues; SBI, ITC, Max Healthcare among top gainers - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZXJicE1fa2ZzQzNrMHVGdUNDNW9rd0ZtZUcxdGpRbUhhdDgtU3JCWkFOdHo2YUdxT2VCc1R4UGRTeDRTQmM1S2dMdldTS0duc3A1N29HRTFaeWN3cHlBV3hHdmJnV1Z3aVN2Wi1mY1hYdGQ1LTJ3SWk0XzRZNG56T3hZa2ZrbW5LVXZTS2ZleWM3UWxUalNzWXdyaU0wcnNGQ3BfR09uRmdxTVhEZG92Q2dxcl9lRmU3T0k2TTU0S181ZWNHbEhXLU5uRE9zRlpydndKcFRvdlpRTGFZYUU3anNtRXpXUGU3TUtCSXNQQmFncmRneENUTFJ3?oc=5",
+          "published": "Wed, 04 Nov 2026 04:00:49 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 78.0,
+      "indicators": {
+        "last_close": 2498.5,
+        "rsi": 63.2,
+        "sma20": 2445.99,
+        "sma50": 2280.51,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.04,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": -0.13,
+        "pct_change_20d": 16.5
+      },
+      "levels": {
+        "suggested_entry_zone": "2473.52 - 2523.48",
+        "target_price": 2535.0,
+        "stop_loss": 2348.15,
+        "risk_reward": 0.24
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 4,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
+          "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
+          "Fireworks on D-Street: Sensex surges 1,700 pts, Nifty reclaims 25,000; key factors behind market rally for... - Moneycontrol.com"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDJneEFUV0ZIcXVjR1dwTzVKSDhPb2J2M2ZYcWhXdlJQQWhQTWpnTmo2UVh0emc2R0liMER6WTB2bUlTb1R4azVDLUh6Y2V5cE9jelZwRWIzVlE2VmRSeGJ6QkdmNXdVdmFteGFoNXpOYzJjVXFLTHFWbGlRN2doX2lZblJKbDZTY1lnNHRkTExZSm83TGcxaU1RT0h3S0g0S2d0dmpmMm41TlpLbDVzZ0VZM3d4U3A3UkthVGFCTHlLd2lTYmQ1OGFVNTJhUmZIZ2Z5cUs2UnhMYW90eUd30gHkAUFVX3lxTE1DS0tvZG1WTWhSY002V0RES1BYaE80emk2Q1ROZm5PRWRQOThoLUFxdDl5WTJNaldDN2htZjVhcEk3UU1HVHJoY2Z4eEVBMmJHb0I1Rmd6UEZ0cnlIWGRqTW1mSmNyeTNhWmMyRkw1QVdmMThOTVNEMUdDR1pjUE5ySzd2emtlZmZXcV9sdzJ5Q0pNY1Q0MTd5SFBUTUN3VnFRMTF6NUVsc2RBaVFFeERKSlY4UVlLVXdrZ0tEZHdCZS10dnBtQ2tmLVVGZUc0ZU00LUc0NEJCS1NiTTZMS1lpaFlpYg?oc=5",
+          "published": "Wed, 04 Nov 2026 11:32:53 GMT"
+        },
+        {
+          "title": "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
+          "published": "Fri, 06 Nov 2026 04:05:44 GMT"
+        },
+        {
+          "title": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQzk4dWFmZDlMazh5X2oySzdtQTZwbURTWTJVZnAxdmRFYmVEOFlzV2gyRjFPOWF1RmtmMGJSeUZPcXcwOXRFWXFLbjFpbHRMTkZQSWwwWjVXbWpCTVhnY3pIcUQxNXktWkRnVW81VG9BLUdDanlHaUkzYUpQM3BYbFNFTUl6NGZoU25PUmtSdXVic0VlZnQ4R2sycDJuOXVBRG1MLWI0ZlJuUzA0ZjhzM0ozNm8xaFpyNEFQMWFmTjlRdF96Ulh4c2U0blRmVGUxWXhzS0tHRFRDc0FvNTN0SGhtTjUzZnYwSzhFcUZPVGd4SHcxVEZDbzJIeDZONUZ6Z1hteExvM3ZOeE1t0gGSAkFVX3lxTE03VlowTmEtc0JEU3RhREZIclFCTmRvZ090YU00YVVKd011bFZJRktzNlI4NEdlQmFZMlJWdDNMY09IQzNjam1vR3E2MW9ZbWctd2U5V1dITnYyN0FiRGp4MEgzN0kzTldMN1ZkODRaY1R2Q3BPRmkyRlRIZ3pSSnM1Zm9kRzNWNUVEb3VhZnNhcmRjejVIdUVjR1JXbENHMFk4V3FaMjJieUF1b2ZKZklRRmYtSk5Cd25zUXJMNWJtOGJ1ajJndWNuVUNxeUh1cjBWM3N1OTBhVXZvbGFsWWlrR1pzNTNKRlNFdmlSR0FwcWUwQ19HRGJFM1BrM3E0bmF2Q245UHhIaVZzRmkydVRhekE?oc=5",
+          "published": "Thu, 05 Nov 2026 05:32:48 GMT"
+        },
+        {
+          "title": "Fireworks on D-Street: Sensex surges 1,700 pts, Nifty reclaims 25,000; key factors behind market rally for... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORld1eFpzWUVBZUhEb0xRUGxpQ09QbDQzaTNSWXhRa2k4SHotVmh3ZjZURVAxX2ZsQnpzMG5paGtsSzVxa0xOSkJZUHAtNEpFNjRsOW5TN0dpWWNzR2xLUmhHMFd3NllHYXlwcEFGbVF4OVdpaHdDUUNQbHNtOVRUanJWWG84QUkyOGZXMHR1cFdCY095d3M5VXFPUnlWcWJMNFFIbmJtZS12SC1oYWNEWnotQ1VMTGZ3Vy1aOU1UNXowcURfVVlwNkp3aUpFRkxSUGw3VVBURDdTeHpaOVh4ZzdJZ1BmSWlsOEZpT1NIU1rSAfYBQVVfeXFMUGRqcEdrTlNZWHo0R0RSejRjQzVENmYtOTV3NlpGdWtOdlNpSUhzY2s4amppNTNseFhVNDNvTWlfM1lSeUVFWWxTenJhdDVkLWFLZXVZVVJNdFBoVEREUVMxVFVvby1uMVZFejFrQlgxRGZGTVl4cFdWUFFFeFRKUUFqX3pFbzJrbVg0Rjl0M1BzRXY0NHNiOEdnNldSX0t4RkY4RF93R0MwOTU4U0dLUzAySXNIV1BzMVlPTjlMZjllZE05aDh4enZiLXRCYnMxVWlXZnNwQnQ4bUpDejd2aHpSMjE1VlFQQWI3amhMX1NwSzFJZHN3?oc=5",
+          "published": "Fri, 06 Nov 2026 04:17:53 GMT"
+        },
+        {
+          "title": "SENSEX gains 600 pts, NIFTY50 recovers to trade higher after muted open; TCS, Infosys, other IT stocks power gains - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWUlvRDd0SUZTV25ibFcxcVBHWGZsSU9qSHBqd3c5eTNvMlRIYmNmMUFCckoteXU2TzdDeGRLWnd4MGczTXRJZG1UX2xzZ1BOOXpUcFU1WEZ3QlN4WGlmVnJ1RUZPMHo2cXNLQmhnY0VrU3JteFdFc0Y3ejZVY0ZySjBiRktqYUFVOU55VlFTclA4Nzh1azVKQ3ZvMkhBOTE4T3RIZ1ZPOW5YUy10RkJrRVVXc09kNlkzcmRzV291T0ZYTzVFa3JfT3RWZFdBS3lvX25wVlQyR0hwYmtfSzNuWUdHYWpnVEhjQjlZLVZZUG1Uc2VIeG1VdmJkNHdweEk?oc=5",
+          "published": "Fri, 06 Nov 2026 04:01:51 GMT"
         }
       ]
     },
@@ -188,100 +129,94 @@
       "indicators": {
         "last_close": 1322.9,
         "rsi": 68.6,
-        "sma20": 1243.14,
-        "sma50": 1243.21,
+        "sma20": 1246.33,
+        "sma50": 1244.57,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 1.3,
+        "volume_ratio_vs_20d_avg": 0.06,
         "high_52w": 1383.43,
         "low_52w": 1186.5,
-        "pct_change_5d": 8.7,
-        "pct_change_20d": 6.26
+        "pct_change_5d": 9.42,
+        "pct_change_20d": 5.07
       },
       "levels": {
         "suggested_entry_zone": "1309.67 - 1336.13",
         "target_price": 1383.43,
-        "stop_loss": 1193.41,
-        "risk_reward": 0.47
+        "stop_loss": 1196.48,
+        "risk_reward": 0.48
       },
       "sentiment": {
         "label": "positive",
         "positive_hits": 2,
         "negative_hits": 0,
         "flagged_headlines": [
-          "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - The Tribune",
+          "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - bfsi.economictimes.indiatimes.com",
           "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline"
         ]
       },
       "headlines": [
         {
-          "title": "REG - Axis Bank Ltd Axis Bank Ltd (AXBA) - Updates - TradingView",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLUI3WDlVMDhFTG1FSS1zcno0U3I1eVRIWWxqaDlnNnVfUWlHZHBGR25iOFVVR3pvb1lJaGIxRF9KVHRIbEpNbWppMEd2bTBtXy1IVjZ2V2tQMVhRMEo5UE9hTEtEdnRmazZ5cW5naWJaVkVQN1ZsUUl4UUlEUFEzQ3QxUG14eU5IVnprb1dzLWlFdHJ2LWdhcXI4czFZMjhnanlXclBXUEE3dmJTZmJiSlpfLWFCR2JnUUpjSw?oc=5",
-          "published": "Fri, 06 Nov 2026 09:16:20 GMT"
+          "title": "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVBwUUJjN1JHUm5EQzJBWHZSVnVHMGs0TlYxT25EYjdrNGFfTWhBSlZMbnl3ODlIM2daVEg4MHBEV2V2RG1TV2RLckRlN2o2TFBhLW8xcDF3SEdlZWVrZFpJXzRRdUlFbHBESHNlRlNlS2dnZEZrNk1EdExkQjlqZzgyVFBYbnBSbFJZaE5UTFBHTUkxQk1KdHprZmpnQ2NiQ0JzM3E0a3lyb2NNSEl1aEtPQXZPTXZOUmgxOVlQSVlfckJTdlNqZWlrVEXSAdIBQVVfeXFMTXIxZnVQQWFoNkcxTUJ1Ym5JS2J2OE05QUFhcXF3ak9sbWF2aHFrdF9ObzI0RmVoUWZoUlVidGdYaURqWE9NU1hPMHA4TzJBcUxCN012ak5saDI1ZThLNWVuNUxsb095aGdZbV8xUVFyQ29lYmVRMjhqRVhjWFRHTmZBRkFxNUM0LTBkbjZPLWtGVkxFZE12ZHN6U2hRVUtZdWJGdGxja1Z0aG9BZGp4Wk5aTVhxR0VJVE9IRnpIV2QtbXpqNWdjRkdzNk1wc0E4WUFn?oc=5",
+          "published": "Fri, 06 Nov 2026 10:48:24 GMT"
         },
         {
-          "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
-          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-          "published": "Tue, 03 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - The Tribune",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWGVUUjRIay1kSUVva3lzZ1RYQ2xENmp1dV8xMG1aeDROcXcwY004cnNDT2lpdTJkNm1FQmFFcjJMaWw5OGNnLTl2WDV3Q2FvSzYxQVdEV1d4LWVqTTZ3NXVaOVVnblBLc0VCTlVNdGppX2hjRnExMHI5VFUwdzRMN0xvZXZLcmtsY3hYWFFoQnBFQnF6YWJYdW5qVE9CbmJKbEk3VmFWeHVieTB5VDloMHBrdXJnYXFwc3VERk9QMVJDd0EzZVNKVFNET1kxdFpOaWwtc1ZB0gHWAUFVX3lxTE1YZVRSNEhrLWRJRW9reXNnVFhDbEQ2anV1XzEwbVp4NE5xdzBjTThyc0NPaWl1MmQ2bUVCYUVyMkxpbDk4Y2ctOXZYNXdDYW9LNjFBV0RXV3gtZWpNNnc1dVo5VWduUEtzRUJOVU10amlfaGNGcTEwcjlUVTB3NEw3TG9ldktya2xjeFhYUWhCcEVCcXphYlh1bmpUT0JuYkpsSTdWYVZ4dWJ5MHlUOWgwcGt1cmdhcXBzdURGT1AxUkN3QTNlU0pUU0RPWTF0Wk5pbC1zVkE?oc=5",
-          "published": "Fri, 06 Nov 2026 10:22:56 GMT"
-        },
-        {
-          "title": "Stocks To Watch Today: Premier Energies, Axis Bank, M&M, Titan, Adani Power, ONGC & More - NDTV Profit",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDBIZFRuUDNPaGNRcG9CUHZoRDFLeXVJNW1NZGZSNGJDbHhoR21SSUVMUHluZXZ3b2MzWTRQWEV5N21ZSVVFOVhQYUhtQXhkRVpHMmUxSm9TWG5Najl3TzNCUF9Fbkd4VTBNQzMzZjFsVFBsRzlpT2hMN2hPbzJJaFBGRHF6MnJYcjIxbFVGVTFmMk9pU0ZIQzlSazZrYTZIbkxRY0xlZldXR2xxbXBfdlpkaGZBUHlUMUFmNVpRcnBkZ9IBygFBVV95cUxQNEVXZ3FUSnpQVTRFNlpWcEJzdXpwbXlOM0RVSF9RT1JINmVOR2h6Y1dMZDJ0aFAtNWhnUVF3dU5qNzE1NEJZM0QwOG9MX2NPd1hRQTQ2Q05rOGtwWWZDUzZobHBCT2NJaTdNTEYxYTBMcW9oc2wxUkVjektfTWpWMFRSR25mVll1SEZCWmNHS3ZLV1BTRjdBYVhnbVdxaDhzd1RHcU5jU2k5S0p0WWRkRGdEaUtoZFF1QlBZQ2lDOGFlWVRyOXFVRGpR?oc=5",
-          "published": "Wed, 04 Nov 2026 18:31:01 GMT"
+          "title": "Dhanteras Boosts Dalal Street As Sensex Climbs 1,718 Points, Nifty Gains 494 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYVZpV2UwdFNWSVl0QXNaRTFwR01ISWtHSm51OEZHVHZLYWUzMkZUMzFhdnpoVFlLN3NDWFNnZmlwRHk1c3NWcmctOGZFWmd2dHJxUm14Z2VtMFVJSEwtZkZtc2xQajhfS2gwamkyY2dHUzMxb0hhLU9LZ3oyZVhpWVFORnZFbTBmVm9qY0RWVWhxelR1b2lIV2RUSTFnY0lMVXd5Z2x0Y1BnekNLZGhoeTRQQ0pIMmJWd0dkZGJlMUJXNHVKNVRqOTZUekI?oc=5",
+          "published": "Fri, 06 Nov 2026 15:31:59 GMT"
         },
         {
           "title": "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2JCV1VpNEF2bWdTRXdLbDg3akg4YkppbUd3bUxveVFobE9LU1dGRFVHQ1l5LTV4XzdNN1BhVVRSQW9pS1N5VndNdkZxQzE0NVJMZjhWWUl0bVR2UUxZSGYwNDVGMnlRdy02VE5HbGsxR09iVnd6cHhJeXpXbi1mcl9iTEEySWhrc055U3Ztb3NqdThJaVZOME1HYlB5amJ2QnA2S01idjhiaHY2RUZ2VGVyRzFaWHJ5a1JPZ2Zhd2VQbzE0bW9ndmM5d3NaYmhy?oc=5",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "AXIS BANK SHARE PRICE - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsRDh0N1ZYLURueDdleURpMm1HQVdvUE96d2pPWG5jQ2JNMU1pWWswT290ckxpTEZwM09kRS16aG1CS29nZ3pqRkpKSmtoc0lRTmw5Nk82MnJON0g0OVdkeEdoSkdyajlraDh0UA?oc=5",
+          "published": "Sat, 08 Jan 2022 16:14:35 GMT"
+        },
+        {
+          "title": "Axis Bank Share Price - Live NSE: AXISBANK Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sRHdudklyeHpNVkNfMmpDYkhZLVo3VXBVUjByU0JkekxYNUVNMFphV0R5Vi1vQUd1YVBRU3llVDRCLTcwSnRTMnktT2VvaTVHVWZkSXB6Ylh2cnRpU0J6Y2pJOUVPRDQ?oc=5",
+          "published": "Fri, 22 Oct 2021 14:08:54 GMT"
         }
       ]
     },
     {
-      "ticker": "TCS.NS",
-      "name": "TCS",
+      "ticker": "INFY.NS",
+      "name": "INFY",
       "score": 75.0,
       "indicators": {
-        "last_close": 2498.5,
-        "rsi": 63.2,
-        "sma20": 2428.29,
-        "sma50": 2275.7,
+        "last_close": 1181.4,
+        "rsi": 64.2,
+        "sma20": 1120.89,
+        "sma50": 1067.53,
         "sma200": null,
-        "volume_ratio_vs_20d_avg": 0.79,
-        "high_52w": 2535.0,
-        "low_52w": 1961.36,
-        "pct_change_5d": -0.16,
-        "pct_change_20d": 20.99
+        "volume_ratio_vs_20d_avg": 0.04,
+        "high_52w": 1216.03,
+        "low_52w": 963.23,
+        "pct_change_5d": 4.09,
+        "pct_change_20d": 18.08
       },
       "levels": {
-        "suggested_entry_zone": "2473.52 - 2523.48",
-        "target_price": 2535.0,
-        "stop_loss": 2331.16,
-        "risk_reward": 0.22
+        "suggested_entry_zone": "1169.59 - 1193.21",
+        "target_price": 1216.03,
+        "stop_loss": 1076.05,
+        "risk_reward": 0.33
       },
       "sentiment": {
         "label": "neutral",
         "positive_hits": 1,
-        "negative_hits": 2,
+        "negative_hits": 1,
         "flagged_headlines": [
-          "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
           "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
-          "Why are IT shares falling despite Democratic sweep in US adding to AI worries? Check what analysts say - Moneycontrol.com"
+          "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox"
         ]
       },
       "headlines": [
         {
-          "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
-          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-          "published": "Tue, 03 Nov 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
-          "published": "Fri, 06 Nov 2026 04:05:44 GMT"
+          "title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+          "published": "Sat, 07 Nov 2026 02:48:27 GMT"
         },
         {
           "title": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
@@ -289,14 +224,77 @@
           "published": "Wed, 04 Nov 2026 11:32:53 GMT"
         },
         {
-          "title": "India stocks higher at close of trade; Nifty 50 up 0.63% - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzcxX0o3WTZST1dnVXBCeXNfNkRvVzNHMjd6Szk5UU0tSHk5R1BhX2VOOWl4U0FyeENRMHJsTVJzczZtb0FHSU5lVXluRVhWVElwZmpJZkxrYWc3S2trMndpa0l3OXVzVE15Q0pkYzB5ekNjU2k5VzlrSFpLcWlaX2VCSFNSM2dTZndqUjNMUHlrWDlPR0dSNGtaYkF5N0hZS3NDUDBEcXIzNnRCTVk4?oc=5",
-          "published": "Wed, 04 Nov 2026 10:37:09 GMT"
+          "title": "Sensex Today Trades Flat | Nifty Above 24,550 | TCS & Infosys Top Gainers - Equitymaster",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2p2dHRNMU1VT2QtS1l3cUR2d1EzZ3hwSTNOb2pwb2I4S0FtNUFkNnlpelBqRWhCeXEydDR6WUdnTjVjb0lsOWlZTlJmUG1kUjhYQmJpWUU2UjJvWGhndndNYnhHWi1HX0FCeDQtRi1VOENhcXltQ0NsbzZQN3o3dHU2cU52SnRSQ1pRNHh6YlBiZUZrMTFEcjlXalBTbXFWa0NuUW4zc3pxaklsM3ZtQm5yaEpGNEpQUmVqX2R0Zm5BWjJ2RUoydTFn?oc=5",
+          "published": "Fri, 06 Nov 2026 10:26:24 GMT"
         },
         {
-          "title": "Why are IT shares falling despite Democratic sweep in US adding to AI worries? Check what analysts say - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRlRIYmw4WllDeDNIdzJFeU96VHVvNko4SE1Wdmt4bm04MVYzbTVjSEpOSFhJT3pGLUl0bkdnREFRU1BsY25yTTVlbEQ3ZFJaN2EtSk1XaE41RGhiZkZwNnRGV2lKT3EwZ18weWIyQXJHQnU2NkZZNHhFakNWS1NGak9IQnNqeTk4NlFsMFdnOG13bGtXbl9lRmplRlpEbkU0dm81dFJjLUVXVDNaUjJqMnB1TmcyX0xaTnN2dUJzT1dpQmF2NUg4TFVnTWh5UmFhenctZ3N4R2V6c1c1ODBTVWxPZnpCaGJuNmVzclVBZkttRTJnMmFYdDRR0gH_AUFVX3lxTE0zUWN5UEtIR2RBeHItVFg5S1BWazVlbmk5VFdKX2dtZkRnaVBfR25MRTVUc1RsN1RsZWszZXR3WnEyWmFMVGIyczF1cXRQa2dfeEJia1VDTFlOVDFtSHppajJQcmo4ZVdDRUR1U1lTNjdTWGltS3pHcW9FZTh3UWxLTmVlUlJLLUpDTkVPNU5tZUJjbDd4azBWMlRRWmI3S1l4VTdQc2FldzM5VHNCOUVxQ0dIT0FfR0o5cy1FUGVaV1N1VnZMX0xJNVJqNGxTTW5wVGprcllaS3hZeG5JOFdOR2ZmaV9EN0tEbHFFMkthMnh2M2tNV01IUEVxZ3lOdw?oc=5",
-          "published": "Wed, 04 Nov 2026 08:04:09 GMT"
+          "title": "US Midterm Election results impact on oil and IT shares: Reliance, Indian Oil, TCS, Infosys - 10 stocks from experts - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQzk4dWFmZDlMazh5X2oySzdtQTZwbURTWTJVZnAxdmRFYmVEOFlzV2gyRjFPOWF1RmtmMGJSeUZPcXcwOXRFWXFLbjFpbHRMTkZQSWwwWjVXbWpCTVhnY3pIcUQxNXktWkRnVW81VG9BLUdDanlHaUkzYUpQM3BYbFNFTUl6NGZoU25PUmtSdXVic0VlZnQ4R2sycDJuOXVBRG1MLWI0ZlJuUzA0ZjhzM0ozNm8xaFpyNEFQMWFmTjlRdF96Ulh4c2U0blRmVGUxWXhzS0tHRFRDc0FvNTN0SGhtTjUzZnYwSzhFcUZPVGd4SHcxVEZDbzJIeDZONUZ6Z1hteExvM3ZOeE1t0gGSAkFVX3lxTE03VlowTmEtc0JEU3RhREZIclFCTmRvZ090YU00YVVKd011bFZJRktzNlI4NEdlQmFZMlJWdDNMY09IQzNjam1vR3E2MW9ZbWctd2U5V1dITnYyN0FiRGp4MEgzN0kzTldMN1ZkODRaY1R2Q3BPRmkyRlRIZ3pSSnM1Zm9kRzNWNUVEb3VhZnNhcmRjejVIdUVjR1JXbENHMFk4V3FaMjJieUF1b2ZKZklRRmYtSk5Cd25zUXJMNWJtOGJ1ajJndWNuVUNxeUh1cjBWM3N1OTBhVXZvbGFsWWlrR1pzNTNKRlNFdmlSR0FwcWUwQ19HRGJFM1BrM3E0bmF2Q245UHhIaVZzRmkydVRhekE?oc=5",
+          "published": "Thu, 05 Nov 2026 05:32:48 GMT"
+        },
+        {
+          "title": "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
+          "published": "Fri, 06 Nov 2026 04:05:44 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "RELIANCE",
+      "score": 70.0,
+      "indicators": {
+        "last_close": 1320.0,
+        "rsi": 68.2,
+        "sma20": 1223.62,
+        "sma50": 1236.03,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.12,
+        "high_52w": 1431.28,
+        "low_52w": 1158.0,
+        "pct_change_5d": 1.54,
+        "pct_change_20d": 12.79
+      },
+      "levels": {
+        "suggested_entry_zone": "1306.8 - 1333.2",
+        "target_price": 1425.6,
+        "stop_loss": 1174.68,
+        "risk_reward": 0.73
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "NSE India Today: Nifty 50 Rally, Market News & Outlook - SMEStreet"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Indian stocks buck global tech rout, post best week in 6 years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
+          "published": "Fri, 06 Nov 2026 11:15:10 GMT"
+        },
+        {
+          "title": "NSE India Today: Nifty 50 Rally, Market News & Outlook - SMEStreet",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWm56TE1PVDdEdVdObE5pM0xRc2FMdmFGUUNOcGUycVlRS25XSE1aTkZ3dFJmSVRYdDIwZTQydVNJcjJudXVyaDFnY0JUZzlSVDdHQXE3ajBMNjFhaFhxc2x6RDhZVW9jNnJtOVQwWUN3QmhWRWFwRzV5QlRpaUVod09yZENYaENGOHhJT2hSMi1Jc1JUY0g5aTBmRVhpMjDSAZ8BQVVfeXFMTlpuekxNT1Q3RHVXTmxOaTNMUXNhTHZhRlFDTnBlMnFZUUtuV0hNWk5Gd3RSZklUWHQyMGU0MnVTSXIybnV1cmgxZ2NCVGc5UlQ3R0FxN2owTDYxYWhYcXNsekQ4WVVvYzZybTlUMFlDd0JoVkVhcEc1eUJUaWlFaHdPcmRDWGhDRjh4SU9oUjItSXNSVGNIOWkwZkVYaTIw?oc=5",
+          "published": "Tue, 03 Nov 2026 11:27:13 GMT"
+        },
+        {
+          "title": "HGS (India) Shares List At \u20b9160 On NSE SME, 33.33% Above IPO Price - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWtVXzJ5cU9weVlyM2tUalFXeXpQRkhIWmJneW1nRTRVQWFOWVpxNV9kM2laRF9JUU9WMGF1VFZpZkI2ck9nUi1UWjlCSnJnc0t6YmtoTjVnaGQzdXhCNU81U0xqcWFfT3ZEOGN0Sk9uOUJEWG1RdkNDT3pqT2ViSW1yMEJmeEFNTTVIWHQ5QmVqdGtmU1NCTTJhc210dw?oc=5",
+          "published": "Fri, 06 Nov 2026 05:36:41 GMT"
+        },
+        {
+          "title": "Diwali 2026 stock market holiday: NSE, BSE open on Sunday but closed this day -Muhurat trading date, time | Samvat 2083 - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOT280WlR5RlFnXy16cVh3cS1FbTBFU1hhLWlxVXJPaXpTZXVhcVVfc0V1TWdtLVJaZVZKNHlFaWZuVGtiYXI4VzRZUkFrNy12a3JIdm5mc2NCQkxiQm5VQWxEM3BpaEUxUWJDV0Y4MHBGTGp1RmoxdDVBUFdBeng3bGRQdzJIZG9fVTdCVG5ZNU9Uald0V05ydHVwaTBoZVphTHNrOXpMWFdtbHVBTUt3LXZlT2sxMlo2NUlMLV9waGVBSWs4LUMzdlBwakt6SmIyNnBRckYxelg5eHQtVHhmX1FQNnZ2SWRidXdkeVRJeDBoMHNrY095WWYtZEFfU09SMzVIWWgtUHRHU1VTOXFGTNIBlgJBVV95cUxPMmpkTGMtcGJZcUZtRXYzbXMtMDc1enRnWnBWbXI5SnJoSjVjQnFLM1VndnhBajI4c3o5TUhBSWkxeS10di1tb0QyN3R5LWNOdFhIcjBQbDQwNEdSYnUxWFJsa29BOFJtNUdVQm9QblFFRmJocjVPRGl5OXo2TkZxQV8zWFNDNDc3QzBBSkdZSHQwOEc5c2VtMVRMOWhxbXNQX0lzNFpLNDZpUTFOd2gzM01IX3VvOGg3T2s0NkppUGcyRVlvaG0xUzhfZlJQUkdjTldJX0RrS0FLbExDZ0Z4a25GOWpIYXE5eXk2T0FsN0VYeDVnaGs0MGJlS1M5Z040bkJfdURPd1JDbXdtb2g1M2tfanJRQQ?oc=5",
+          "published": "Fri, 06 Nov 2026 12:48:53 GMT"
+        },
+        {
+          "title": "Stock Market Holiday 2026: When will BSE & NSE be closed for Diwali? Muhurat trading timings, other key th - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPbWVKSXQwbW52bVAybjZidnZMX2lralR3SVdpcHczdDVhdzRGQ3oxOFIxSU1vSjViTXRIN3VJUGhjbFdUeE1tNFBhM0FZSmJsbzBEaENQWUNRNENzdmtsTTFBTmU2c2dXaU45c1drV2hyWEtJRER2X0JGakwxZ2hnQzJPcXo2bG5WMVNXejFQbnF5LWFCZWhqYnpLVTlGVWFQWVBLT3l6bURTZ2pCSVFNREtGMWJUSGI5WWVrUmVTamd1NmRaMmpHakkzMDlIME55R0VQMHFYUVZJUFVFQm1JUUpGV3V1MWtYM2RaVkwyS2pfMGhrTlY0N3N4bjhqQlRJM0RwY280Zjc2NUlMcnctYmk1YkhIZ9IBmwJBVV95cUxOcEVyUTkwTEVDZlJveEpWaUNPMV9zS01vdDMwWWdXOWhaNUNPeTIzT1R1b2p2SDN5MGhKdkllVmR4dlJfNFFKdVJVaFhDbmVKOFpfbURlRkRCcDVUQkRaczgwUHNqajVmaFBmeF9aQ2VMZmJvVnZVbUVNMXpIWlBqVElVVVdldVZ2dU5xWlZfS0VBamJiQ05TaXhDbUhVY0dFcS1lVkRySmRmS0JTNkR1eVRfT0NQcmFGUy1odWlNNWlmV1FrVDNOckE1WXZCLWlGem1YQzhOTXFIazF0dmFtTTB2b3RMMGdLS24zNUwzX3J1c2RiSHhsMFcyY0RIWlZiSWdPUE5YNFB2TnF1R3I4TzJrcFd4aGpWMzZv?oc=5",
+          "published": "Fri, 06 Nov 2026 05:24:38 GMT"
         }
       ]
     }
