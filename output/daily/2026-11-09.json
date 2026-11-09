@@ -1,0 +1,303 @@
+{
+  "generated_at": "2026-11-09T11:56:32.357615",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "INFY.NS",
+      "name": "INFY",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 1154.1,
+        "rsi": 58.4,
+        "sma20": 1119.52,
+        "sma50": 1066.99,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.61,
+        "high_52w": 1216.03,
+        "low_52w": 963.23,
+        "pct_change_5d": 1.68,
+        "pct_change_20d": 15.35
+      },
+      "levels": {
+        "suggested_entry_zone": "1142.56 - 1165.64",
+        "target_price": 1216.03,
+        "stop_loss": 1074.74,
+        "risk_reward": 0.78
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 2,
+        "negative_hits": 3,
+        "flagged_headlines": [
+          "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
+          "Stock Radar: Infosys stocks showing signs of bottoming out after falling over 30% from highs; time to buy? - The Economic Times",
+          "Sensex, Nifty trade lower as pre-Diwali explosive rally cools down. Why analysts are bullish - The Economic Times"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+          "published": "Sat, 07 Nov 2026 20:48:53 GMT"
+        },
+        {
+          "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
+          "published": "Mon, 09 Nov 2026 05:03:37 GMT"
+        },
+        {
+          "title": "Stock Radar: Infosys stocks showing signs of bottoming out after falling over 30% from highs; time to buy? - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWmlSOGsyWTFUc0ZDakVkQnJFMnF2a1J3eTdjd0NTSWk1MGVLbHBfRUl2TFpxWVFvSEl6QjFjMnF1YkEwdmQzcjM3SGhtQmZJb3R1R1dENjJ6WWp2bGRNay12V0gwOWh3S0NwTFVzak1GelBtUEJuYXFXZ2ZyS2txSjc2dEgyM3Rnb29Ha0pLTFJVRmtJenpiMm9Gbzk1dGtkV2Q1REFwb1h1Snc0RS1tOUpZcXNmSW5URUlzUllyLTFyUzNRRy1GTFVubjA0Y25TcjQxaElhUDJBQTVGZG1nMHFfWkhva2N5TE5YSjhBSUtHUWl1WEc4VHVyWkdCZmFuY2t3RmFuSdIBjAJBVV95cUxNTzdfeE1xdk9mVHZKYUVRNldraW1oR0pSWi13ZE05Y3dfLWhKUUl4ejE0SzB1TVdQcmlXMV83UG1ZYm9OdFBSclp3ZkFyWWVQRUlQcTZKOHNyQlpQeWpjcmlydlQ3cVVQa0N5N0VBb1ZadWhSVWZpMnN4MVREYVgwSTFPejRfazluNElXZHo1cjRjNHdITnozTHNQNzF4ZG9wLXlHdXNWUHpQOWZaRHVoRTlzaXlJelFZUjd2eGhvYk10ZDlFTXdkUUhYT0dHQmRWWFFEY1NzZnVVZ21QYzlIN0FjejJZRXhEbnpVYVJMR2xtUTZmakxsd0I4NWtSZFRCck5GN1dJRVpPRENP?oc=5",
+          "published": "Sun, 08 Nov 2026 23:30:00 GMT"
+        },
+        {
+          "title": "Sensex Today Ends Flat on Muhurat Trading Session | Nifty Ends Below 25,000 | Bharti Airtel & Infosys Top Losers - Equitymaster",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV1NHZUdhSGRORDk1aERVQTdGOWNwWkY4WWhPaUMwTHVMWlhXcWtCU1hYbkRnWW1VakVOR0lCZDF4STBZcEI0cy14Tk53ekZvMU52aV9YS2J5TVhPZHo5LXB3cnlySFVhTlB0Zlc2b3JZVUllenZjbGhiQ2R4ekQ2ZWM2Nm93a2R0NkFaM3N0LWdUa2VTZUpQaVNBVDhiRUV5dERXaFRyb0l2eWVXSm5LZUdvSHhma3FRUDRXR2o1Rk5ZSEp0RXFuOXdpa1hMc3NSa2hQRE5KMzlxWmU1cmZ1TDJpZlVvT0ZKdlhaTFN6Z3MzVVZIRGllTmhpN29zdw?oc=5",
+          "published": "Sun, 08 Nov 2026 10:37:00 GMT"
+        },
+        {
+          "title": "Sensex, Nifty trade lower as pre-Diwali explosive rally cools down. Why analysts are bullish - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZkg4WklpYmNESnBJcm5mSm1jVnVVR3ZERTVRSTVydFE5TllON1FRZU9HNEo5c00xanUtU3pST25NeHQ1S3p2dkpSdmE4a3Zxb2Zma1ZLY1RwalRIX2FodUpqMUVfaVZ6SEYyRnJSQ19nbU02bllhcDhSLU16eE5MYXFPYXpnWFBUMm8waWNLOHE4NjZXUmgyS2ZZT1JiaDRRREV6RVl4TDRGUlRrZkJ2NWhnak5TbXlkQnAyUkM5UHR0dXhWZXhvVm96OWZENEsxTUN5U1dDa0F5YVpmczlOVmY2OU43QmRWdkoxX1N5WnhhWjhTVlNV0gH8AUFVX3lxTE96MTZzQXRGaVlIenlwS1RoOGVKRms0N0xxMWRyY2ZfZFFYQW05d0FUYWc2dEFXR052ZThQRjhWcG1RUk9LeWxZdXUxLU1waDZhQ3BwcENMU3FRUW1EMDF3czNJTF9MSjJHbnJEUFpuREhyaVd1Vm1XdzlrSFhRTmFtMW8xVTZxdUNud1ozV0JWbHRCNE5WRkdmWkw2QURyVGtfRUkyWlFfMlpoRXBOM1RCb01NQW5DcHhORkZTbThScEpidE9TSFVUbEFkeGZ3TU5CRW5aMFpZdWNUUUllbnp3Tmw4U0FleHF4MmhZdF9vR1RkT3BPSnp4T1lCXw?oc=5",
+          "published": "Mon, 09 Nov 2026 04:25:44 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "SBIN.NS",
+      "name": "SBIN",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 1042.0,
+        "rsi": 67.9,
+        "sma20": 972.02,
+        "sma50": 983.97,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.95,
+        "high_52w": 1097.2,
+        "low_52w": 939.4,
+        "pct_change_5d": 5.57,
+        "pct_change_20d": 8.64
+      },
+      "levels": {
+        "suggested_entry_zone": "1031.58 - 1052.42",
+        "target_price": 1097.2,
+        "stop_loss": 933.14,
+        "risk_reward": 0.51
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 2,
+        "negative_hits": 3,
+        "flagged_headlines": [
+          "Weekly Recap: Q2 profit rises 14.28% and GDR falls 1.7% after results - TradingView",
+          "State Bank Of India Share Price Fall: Key Valuation View - Univest",
+          "SBI Q2 Results: Net Profit Rises 14.28% to \u20b923,038 Crore - HDFC Sky"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "State Bank Of India Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRlpNamxha3p1eVRuMDFHVUVfbmJ2ZTdTajh6dC1ZS3NGYlZkcVlpVndsWnczUmo0SGNaMWFVR2FEbmpZX01LckdnREZYbnNYbzVCbmRSc2VSVGN1VDNtSjJFN28?oc=5",
+          "published": "Mon, 09 Nov 2026 03:45:23 GMT"
+        },
+        {
+          "title": "Weekly Recap: Q2 profit rises 14.28% and GDR falls 1.7% after results - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWFBaVZiYXptMlE1WWlKWXVSUHBCZGNJbHRPYUd4RWI5WXltRGpMZXZDRzE5WlFUNEVLT05BVVdkU190WjFRSWpXRlhScy1zTDVBb0lMeGlaT3BzTHhGRGktTXJsdWhlRGdHSkV3WVZMMmg5U25fUGZMNkNXSHRsc3RQdktYaFpzbDUyY2hMZW9fZktqOE10QnFjb2xROUJDeXREVDhTNS1oYy1pY2pzQ1FKYXFiYjNOcEN4RW1TZTVPeVI4MG5J?oc=5",
+          "published": "Mon, 09 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "Top Gainers & Losers Today, 9 November 2026 at 3:30 PM IST: State Bank of India Leads Gainers - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmFnZHVzN1J6LWJ4SWhzWEcwYmx1ellRYnY2WmVINXhfYjJKN3NhR0Z5b0hlM2l5SmN3Rm1zeDQ2WEdEeTRablJyeGhOdkVfTjJvb3oxd0RZY2ZmMWZRUTlFNDdaV2JnWUc5c2t0VW8ySXJ2TGVBMFpKQlRTbGZTTTF3?oc=5",
+          "published": "Mon, 09 Nov 2026 10:16:16 GMT"
+        },
+        {
+          "title": "Q2 results, Nov 3: SBI, NSE, Bajaj Finserv, Solar Industries, Lupin, MCX, Graphite India, Gujarat Fluorochemicals, GSK, others to post earnings - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaEZZWXFHSWc4RU9TNjdONnJqREQyQndNREdNbU1BcFYzZl81M2ctYWFOa2FNTjQ2VjZaV2g0RjIzX0Y5djFmQmo0dzYzMVZZb1o4OTZEOW1FMmNKOVo0bDJwSWxVdU4wb2R5eXFnNmgzZ1lPWVRpM2xSazVFY2pLTXRlX2RKa2lBRmhVbFZ2SGY2MnprMS1iWDNNZUM5Z1BKUHRoazNHUjdsQUpIWmpsM2JvWFRzT1RQbHZrUldjSjRtMTNPaVp2Qnk5WDhFc3JhbWpKTk5CMVc0YU9hNG4zd2VxR3pCeVYzSF9BaG53b1RSWC1VUTA4ejhvdmpKVnhmSHlycElIWWV6MDBqNW5HNDVwQ3NSRmtST1VMbGNB?oc=5",
+          "published": "Tue, 03 Nov 2026 03:03:18 GMT"
+        },
+        {
+          "title": "State Bank Of India Share Price Fall: Key Valuation View - Univest",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1ZPTFpBRGIzOE5PSXlmOGVUczZCRnZvWVF0Ul8tS0tCaVJZVUNHQlBrYXRJcmRYYVd3Y0tCZDZCcHZYN3h2SXhrMmFqY0I1NWt4VS1uT2tmOVhkNTlNeE9vcVk5ZXh4b2Etb2xuUXVhRFpPa2pjanZ5TjFSY1VQUmJ3?oc=5",
+          "published": "Mon, 12 Oct 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ITC.NS",
+      "name": "ITC",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 278.8,
+        "rsi": 62.4,
+        "sma20": 265.95,
+        "sma50": 264.77,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.95,
+        "high_52w": 302.07,
+        "low_52w": 255.0,
+        "pct_change_5d": 4.65,
+        "pct_change_20d": 4.81
+      },
+      "levels": {
+        "suggested_entry_zone": "276.01 - 281.59",
+        "target_price": 301.1,
+        "stop_loss": 255.31,
+        "risk_reward": 0.95
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines - TradingView"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDJtZ3NNZEJmUEZmV1RhNDgtVFlKVGdWRk9HOFRyMEJnMXF0VUJxQVlUVWhpcWRaLVVaWHdnbGZHV0lLaTI0X2h1MUpOUHV6aHNrdm1hb1hMU3ZsU19QN2VRR3pSQlVfV1pRRGhxSW1fRjBKbGZTeHBNYkJvWGVOeWhvVk1HbUtQZE9ObUREOW15cTFlOU1RaFVkVFR0dnJ1emo2c240X2k2WHBfeUg5VGl4Njg4aVVFNXIxME5NbWk?oc=5",
+          "published": "Mon, 09 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "ITC Share Price Rise 2%. Enters Top Nifty Performers Today - India Infoline",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWnZvXzN1dmo3SVJmMjJnMTZRclpzREZ6SXNPbjdNODBEZWpUYnRiNTZGeUxwN2pDT1MxMzRBQkFGemFQbWZJcnI0UE1mZTJNUVRQcF9SQnV4UWJnZEwwSnRLSzZYSjEzdzFNcko2bklscXVSX0tyVXRqazM3OHhlQ2FNbkh2cW8xbVJWMW5sdnBjanh1LXFMNWViRUxPMTROanVlVTN3?oc=5",
+          "published": "Wed, 04 Nov 2026 05:43:53 GMT"
+        },
+        {
+          "title": "Top Gainers & Losers Today, 9 November 2026 at 3:30 PM IST: State Bank of India Leads Gainers - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcmFnZHVzN1J6LWJ4SWhzWEcwYmx1ellRYnY2WmVINXhfYjJKN3NhR0Z5b0hlM2l5SmN3Rm1zeDQ2WEdEeTRablJyeGhOdkVfTjJvb3oxd0RZY2ZmMWZRUTlFNDdaV2JnWUc5c2t0VW8ySXJ2TGVBMFpKQlRTbGZTTTF3?oc=5",
+          "published": "Mon, 09 Nov 2026 10:16:16 GMT"
+        },
+        {
+          "title": "Trade Spotlight: How should you trade Motilal Oswal, Adani Green Energy, ITC, SBI, Va Tech Wabag, Groww,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdExNQ1dBYlNhMXpaQzZob2J1bFdOVlF5RjFuUGVOaTJCZEsydmxFZlNlelFYWU9sY29vX2VfYjVqaDhra05Pa0lKdFE0clRuTE85TzdPaDdYa3ZKdHhvRW1TMzdvWjF5WWZKWXM2azlwX1RhemlabFpFM2dBZ1BRc2xJQ040UlVaVlpsZVRETDNRLTVYbjNHVTVXLVFuVF8zTHVXak4wdE1nMG5TQUNPMW9GZWczY01SRlFVdnBtd2NYTlVabkJwblk3TkRmbkxwdXZPNnQzVjFEN3hBek1fRTFlRDZrOGV4c3hxa1JHc0lvZmpVakNveGNFc0RTdHk4Q1JILTdLTUlVMGhELVQtci02Q1o5N0NSdktyYdIBogJBVV95cUxQek53NHNfMjZXemRqTkRQZ2Y4MFRHMWwxcE10NzNYNG80OG1QZXVDUHBNTS1IS05kN3I4WmJtX2xuUWIzZzhweGFSUjVWMjhYV1BENFpzYnlFYWhZLVNpVmJFWEh0bGVDcExqVWk5ZmxxWXdhQXZGanhGQ1JxbGhjRms4clpLeUVvTGhqWWF6NWxkaDA2UWV1bWZTejBxX2EtMEZnX0F0dER6b0M0RzZ0eGV5R19ScWItb28yZjFoZlVzNWw0NEEyZ0lLVm9BOUo3bjFtNlRuYlhmdkxsN0pSRDB5eWhkbVBYeHl1VE84OUNtSTdCTWMtOUh6S0JrblBSU1BtSkNBbEhxVkF4anF2bDVNMVB2d2J3U3YyOUc3Nkp6dw?oc=5",
+          "published": "Sun, 08 Nov 2026 07:10:49 GMT"
+        },
+        {
+          "title": "Stocks to watch: Tata Steel, ZEEL, Adani Enterprises, IOCL, SBI, Airtel - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFpSYlFVOHUxOXp4dmtqQ3d5Yk9ESHo5UC1FNVhFc1ZRTUVTNmFEWUNRaUU1VkhKcUtEUW1fU3FHZGd1T2hCYzJKQjV2VV9iV0k4TGt1NDdkWGlJeUttSzZjMEVSV1lTQXJyYkpGYUFkVk5PQ2tyNk9sd2xLWEpJUDloZElDRnBoS3dXcmpha08zcFFGNS1VdDg2bG8xZkhnSHNvcW80S1J6V0VCN3cyWVh6OUZ2VzMxck90YVlFMHJMaFZDLTMwbFlkZFjSAdIBQVVfeXFMUGlFWm9tbDBYcmRZeERSWFdmVklvUTV5OHFFOE9fdTBwZ2lhZEJXRWROSW96YU4weWpFNFBBcTN0UmplYzJNV2VCWHRfY0xuY0paeEJQYTBpUWFzTi1jcUhmVUhZR20zOFdTcEFUU1NhTlk2SERmRGRhUUJadkJLZ0otVzFsVGNPSnhfQV9ZekxJREZYQTg1NVVvVzEzeTgydXk2ZHpwVVBmRDR5YXozTGtuYTdhNHlxbHVfS091cGxlSkVUNkNqaVNsVUhlNmpCTUVR?oc=5",
+          "published": "Mon, 09 Nov 2026 02:35:07 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "name": "AXISBANK",
+      "score": 78.0,
+      "indicators": {
+        "last_close": 1310.7,
+        "rsi": 64.9,
+        "sma20": 1245.72,
+        "sma50": 1244.33,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.69,
+        "high_52w": 1383.43,
+        "low_52w": 1186.5,
+        "pct_change_5d": 8.41,
+        "pct_change_20d": 4.1
+      },
+      "levels": {
+        "suggested_entry_zone": "1297.59 - 1323.81",
+        "target_price": 1383.43,
+        "stop_loss": 1195.89,
+        "risk_reward": 0.63
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 5,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Axis Bank Share Price Drops 5% Despite Jump in Profits by 38%; Analysts Raise Concerns Over Margin and Fee Income Growth - India Infoline",
+          "Chartist Talk: Can Nifty\u2019s rally continue? Sudeep Shah advises partial profit booking, picks 3 Muhurat... - Moneycontrol.com",
+          "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - bfsi.economictimes.indiatimes.com"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Weekly Recap: Director tenure ends and AXISBANK gets Muhurat buy call - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcHhEZXQ2RVZKWWJtenJDZ0dpNk1iUk5JYXJUT3dyRWVGcG1MQnhxVTVOSllTaW1iMmFvZGxueXl1RENmbUhpcVZhUHVZdFlJckIxODd0dWFYdGdwWEU5ZWtqYWdYNTJEaWhwSFhxbmZVUlRQQ0JlTEdtY1VQbDh5VlpTSFFiRFZCMEJvU1VmaEY4eEtUQVNNdmw0MlUzNW1PRzJLcWZSSkEyUWhZMHZiZlBkSkdLSUJDUVU2dmdtNVF0WUVkODcxeVhR?oc=5",
+          "published": "Mon, 09 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "Banking Stocks Set For Comeback In Samvat 2083? Avinash Gorakshakar Shares His Top Picks - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ3AyWjR6NDU0N1hNYlZQa1hrc1RiQjJtcGt0a1kxd085RF9RMHF2YlFnclRmQk9WRkhnLVd5MXlQeWhNYzVOR3VrSFRwU011RmxDVGktMVdxaTVoVzl0ejdiZkVDY3pqVW9XT2xqcU0xQk8tSjY3WllFNzVmbWtIaWoxNm1YZlFaamluUmFIVXB4eUY5cHJ3VW9TS05sc3g1dU84ODRnN05KWjBsTTdGbmpiQ0hhS0xQZGwzT1p5Z04waGx3dUhwY2pOMU9JMThReWtEcXVveHFhMWM0eGZuV3BYLUFBcEFJSWViQXROQkw?oc=5",
+          "published": "Mon, 09 Nov 2026 06:56:33 GMT"
+        },
+        {
+          "title": "Axis Bank Share Price Drops 5% Despite Jump in Profits by 38%; Analysts Raise Concerns Over Margin and Fee Income Growth - India Infoline",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYnp1SnBSNGV2MTFGMFZzbGk1UkxuSmtoNHNEYkZyZzlXUkJuUFI3RVRvT2pvNUZFdDhXbVlTX09fQUVZMXVCUi1maG0wdGYyOGpEMFpZZDJmcENyUjNpRE9XOWREemFiMVdtN1VUeGp0VTJ3VTJJTlpyRy1NQU5vWHltRUZ4SmR4ZEs0aDFlUGhTQXJBTHhsZ0V6aTJGMTlNOTU0VWtiU2Rnd3ZEbnlBRnpIeXQwRUJSV2tmd0Z1cVdYbEl3OTdKc21Xbk9GWTNwRDM4UlBuV211WFB0T2ZqczViNk1sSGdZUmxJNVVDSUlyVjVY?oc=5",
+          "published": "Mon, 19 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Chartist Talk: Can Nifty\u2019s rally continue? Sudeep Shah advises partial profit booking, picks 3 Muhurat... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNN3l3ZjVHamtsdlRPY2QyZ2hCUGtrcWJzVGNHTUZhS3Y3TVJrNUpZSE1WUEVLLW9TbkhKNWJiY1g2cVFfYzRnVGNILU1tQ3RJTU9tYUdVS0VZVFhXVU9WNzBXbmowZ3JONDZGYzVHYUoxS01KMFJjckROWHpsaEdjZHdZRW1STFdkZWgyWHJ6WkdscHBXcEdTZEdseGZjb0VULW5hTE04cmtOTnFHR0dQYjhJVmg2M2JLb3lCQTFXT21JZ3d3cW12Y2FqMnc3eThHOU9USXMzdWhGVmhpMWRBYVJZWTMwNXljMXlxV1IyNi1fTmVuY1VfTE5aTU1zdldR0gGGAkFVX3lxTE1vVUZXbWNGMHJzYVl1eDJoakxHcXJnWHJtODlKTFNIS1IwZjgxM1k3VWpfYzB5RUYzYmZOa2t1aE5pd2czSkRicEJNNkNibG1TSmtvUk1tTHVmT0lRc2JfQ2lsZUJmTXloQkt5V2Q5ZG5xYWJBV1RnRkNPUVh5bG5OZ1pGXzhodDhjd25LU2hnaG5oZGV6ZVYxSVJ4OVY3SUpJcnhMRHlYRF95bGpZTFBBWmtHUTFKcWZTMHFJQ2wwNFdVeXhVNkdjWjN5cUUtQ2plaWNzZXBiWmJXNmdtQTFfRHoweVRjc2NuTldfU212bXpYN2lmck5DTktTSXRsUkctc2tsRlE?oc=5",
+          "published": "Sat, 07 Nov 2026 04:18:02 GMT"
+        },
+        {
+          "title": "Dhanteras bonanza on D-Street! Sensex jumps 1,718 points, Nifty tops 25,000 - bfsi.economictimes.indiatimes.com",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVBwUUJjN1JHUm5EQzJBWHZSVnVHMGs0TlYxT25EYjdrNGFfTWhBSlZMbnl3ODlIM2daVEg4MHBEV2V2RG1TV2RLckRlN2o2TFBhLW8xcDF3SEdlZWVrZFpJXzRRdUlFbHBESHNlRlNlS2dnZEZrNk1EdExkQjlqZzgyVFBYbnBSbFJZaE5UTFBHTUkxQk1KdHprZmpnQ2NiQ0JzM3E0a3lyb2NNSEl1aEtPQXZPTXZOUmgxOVlQSVlfckJTdlNqZWlrVEXSAdIBQVVfeXFMTXIxZnVQQWFoNkcxTUJ1Ym5JS2J2OE05QUFhcXF3ak9sbWF2aHFrdF9ObzI0RmVoUWZoUlVidGdYaURqWE9NU1hPMHA4TzJBcUxCN012ak5saDI1ZThLNWVuNUxsb095aGdZbV8xUVFyQ29lYmVRMjhqRVhjWFRHTmZBRkFxNUM0LTBkbjZPLWtGVkxFZE12ZHN6U2hRVUtZdWJGdGxja1Z0aG9BZGp4Wk5aTVhxR0VJVE9IRnpIV2QtbXpqNWdjRkdzNk1wc0E4WUFn?oc=5",
+          "published": "Fri, 06 Nov 2026 10:48:24 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "RELIANCE",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 1324.4,
+        "rsi": 68.8,
+        "sma20": 1223.85,
+        "sma50": 1236.12,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.92,
+        "high_52w": 1381.81,
+        "low_52w": 1158.0,
+        "pct_change_5d": 1.88,
+        "pct_change_20d": 13.17
+      },
+      "levels": {
+        "suggested_entry_zone": "1311.16 - 1337.64",
+        "target_price": 1381.81,
+        "stop_loss": 1174.9,
+        "risk_reward": 0.38
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Stock Market Holiday: NSE, BSE Closed on November 10 - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5",
+          "published": "Mon, 09 Nov 2026 10:40:34 GMT"
+        },
+        {
+          "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains - ANI News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRfR3dLNF9lWTEzTU5yVkZncVozTy02QTh5aDFEWG42Ump3ZEtfTW43X2pnVHBVR2dFVDl4WW9XQzlLWmhhOHRsN283T2pKM0RybmZiRDhtTlc0ZThNY29wYlBVR2tRaUplTU9LaVRkU21aclNhdmRzZG5tNWN2RE9KcnpUalJzV0F1cTFTT2luSEVnRDVLZ3hxdVlPc0VLV1B2ZGUtMlZYMlZ2MWUyLWNDdm9LOTZRcVZ3WlVzUGU?oc=5",
+          "published": "Mon, 09 Nov 2026 10:20:00 GMT"
+        },
+        {
+          "title": "Is stock market closed tomorrow in India? Holiday in NSE, BSE or trading of shares allowed? Check exchange calendar - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNjV6OWx5Z2Y2TXQxT08tUnNvQk8xUm1FYXNsQ3I1WjM3RjRGbHdmMVFXRWtzWEVYSUVCdkc0ZVlSRUZwVmNZWnkwRnFKVm5CNnFUclVXMEtMUVJBeEVvbF8xcUlaU215VVQ1MzF3UjlyTXZQSmtvOXduelRwU3RPM1ZDMWpMZG85T21OVWRSamota3RneF9tWWVrS182Wl85TUQ2Y00wdFhhODhMY2FGU2VjTVVYT1dWZFRRRng1SEVlVnNpbTRaSUdlREZmRTJSbUgyWTQ3eHJFRWlyZ0djTEw2MDJfY0xRaWZ3dzBiQnVURG5tUEFkeS0wcjVXQTZZZVhBSWZqY2pRbzBUcEFR0gGUAkFVX3lxTE04aGtxRXZmcVJkUTlmejUxVzNjMmNCTFpoTVRfcU5xQWJicHRQekVDTUR6ak5UVFpLR2Y0c0xKcWFJVE5xTDB5emQ2TmxmX0pMVGpUVTB2dlo4d1VnSkhicFh4UVhmaHgyTGpDTTJlbUVKM3VnUF9qN255NlR5MG1JLTZfRHRERHVBaHJQQkVGMkljeUU3LU1yUWp1ZGJveTYyal9DdHZxdlpXTXBRcDlBcmhpVUJWQ0M4OHdsQVBhTnN0LW5zeW5sUDRmNXhFTU5yaGRwZk1tVmRQTUhDbHFsNDY5UnBpOW1FdkYwOVdMc1ExVDhWaXNGWEoySVJqcFBtYldUeVdJbTQ0b01pRTY3dXBXNw?oc=5",
+          "published": "Mon, 09 Nov 2026 09:03:16 GMT"
+        },
+        {
+          "title": "NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ3Q0OXF5dEdEUUtGdFFtZ3ZQMEEtbDFma0stYkNuVVNrWHViZGZsb0pGeEpWQndzQjljd2hMckZXMEdzZVRhdDRIaWZhOGxhQndGNmFheVBfS2c5TjUtQnhHbVU0UEVfMGw0cHdPRWF4Zk91NVVjYTFqUHhNdFdwemdacHNuQ2p2UEhGM1Brd0xrdC04d1daRFZkcWdSaGJOVjVEbXBYLWZ0emU1dnJZT3Iyb2NtSGZ6N3ZEX1JZbXRiSkVvLXRGZXY5T2d4TERaRjU2ZmN0ZHpPM1FLMlZvQWJJcUtjM3Y2N3Rra3lwYm93Y3hfeEtFd1R2QWhBRVhjVGpxODRDVTBzdHZSUGlsaUc5V0I5XzhpQzZPVGNNdFNlRVpTeFA3NDU0d9IBsAJBVV95cUxNd1F2OGNoc0M1akM5bTZocFdxbjdLZHliSzV3MFVGakxmcE40UXJXRHdhUHJqckp2MjhkS2hIZmRqeC1XUmhvVG5GUy1GWnBMNU1DaHZGMzI0eTlaclhPR1NmNVRMRFBDYU44TG5Nbi1icUJMeFZmdWRkdDdtYVZaYlZVT0EzbnJVYVdfMGQwc1V6a1hXUmROaFN1aGxic0F1Tlc3Q0d4a25zYW8yNTZXQ3BiTEp1Slh5Yzl2VU5kb3lFYU9TZWJDU2wwaXk2SEMxeFU5cmYta1JRQUJXRF9MMFdxbFM4VUU5U2JaUlBHY3JXZXBpaVRGRWViQWpNckpzWHNNNDc0X2VHSmxBcjFOQmJRc3VqWEwxLUx1S3FrNEF4NnV4bVA2aEJQYUt1T1hQ?oc=5",
+          "published": "Mon, 09 Nov 2026 08:45:34 GMT"
+        },
+        {
+          "title": "Indian stocks buck global tech rout, post best week in 6 years - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
+          "published": "Fri, 06 Nov 2026 11:15:10 GMT"
+        }
+      ]
+    }
+  ]
+}
