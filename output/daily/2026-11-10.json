@@ -1,0 +1,303 @@
+{
+  "generated_at": "2026-11-10T11:29:50.895324",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "SBIN.NS",
+      "name": "SBIN",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 1042.0,
+        "rsi": 67.9,
+        "sma20": 972.02,
+        "sma50": 983.97,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.95,
+        "high_52w": 1097.2,
+        "low_52w": 939.4,
+        "pct_change_5d": 5.57,
+        "pct_change_20d": 8.64
+      },
+      "levels": {
+        "suggested_entry_zone": "1031.58 - 1052.42",
+        "target_price": 1097.2,
+        "stop_loss": 933.14,
+        "risk_reward": 0.51
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Sensex, Nifty Slip as Profit\u2011Booking Caps Recent Rally - HDFC Sky",
+          "State Bank Of India Share Price Fall: Key Valuation View - Univest"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "SBI Share Price - Live NSE: SBIN Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPa0lHTFVCTVBxWVRmVXR6cE5FMDhDc25ublZmbVllcFgyMU0wZF9NZmdZQWVjQmJrd0tPSFN2OUdVRnpfVVBWdDFCMmRPSkZFc1R4cFIyOGdMSmdtNThoam1zNGN6WnFKbGc?oc=5",
+          "published": "Mon, 09 Nov 2026 21:03:05 GMT"
+        },
+        {
+          "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains - ANI News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRfR3dLNF9lWTEzTU5yVkZncVozTy02QTh5aDFEWG42Ump3ZEtfTW43X2pnVHBVR2dFVDl4WW9XQzlLWmhhOHRsN283T2pKM0RybmZiRDhtTlc0ZThNY29wYlBVR2tRaUplTU9LaVRkU21aclNhdmRzZG5tNWN2RE9KcnpUalJzV0F1cTFTT2luSEVnRDVLZ3hxdVlPc0VLV1B2ZGUtMlZYMlZ2MWUyLWNDdm9LOTZRcVZ3WlVzUGU?oc=5",
+          "published": "Mon, 09 Nov 2026 10:20:00 GMT"
+        },
+        {
+          "title": "Sensex, Nifty Slip as Profit\u2011Booking Caps Recent Rally - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa2dTZlFRWUoxSWtRd1dMMWpKRVRiRFF1YVhySVI0Zzk3cVVwLU5pNnM5dnlVVGdLT3ViQlJCOW00M2lpQkpWSi0tYVZQRkRucHhCeWZSRDVaRzZDRXZDak1MaHRMMk9oZlhjTVo4Rmo4T1V1MFgtNjVpV2QwZDhJVW8xaGJ3R0JZZGdMVm5XZHE1UV9BbXZrLUR5MUJXRjVJNjVFOHhZRVpDTmlaeGNNOXZXay1BMmpfRjBSa0ZIcmdySU5ZM3dFYzRNeVp4cWZlamI2Ukx3c1ltS3FORXhjYUI2by1kbWJBV0tiWGZKY3g?oc=5",
+          "published": "Mon, 09 Nov 2026 05:01:03 GMT"
+        },
+        {
+          "title": "State Bank Of India Share Price Fall: Key Valuation View - Univest",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1ZPTFpBRGIzOE5PSXlmOGVUczZCRnZvWVF0Ul8tS0tCaVJZVUNHQlBrYXRJcmRYYVd3Y0tCZDZCcHZYN3h2SXhrMmFqY0I1NWt4VS1uT2tmOVhkNTlNeE9vcVk5ZXh4b2Etb2xuUXVhRFpPa2pjanZ5TjFSY1VQUmJ3?oc=5",
+          "published": "Mon, 12 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Top Gainers & Losers Today, 9 November 2026 at 12:00 PM IST: State Bank of India Leads Gainers - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YM2V3OTNrbzNtd3J6WE51U1NyZXEzRlZHYTlvOVYwNUNDSVZ6V1JyVmVla0NpQldZQ1o5ZjZnc1Y5d1BkaHAyTzhORGdfMlF2aEdFSjFqYkdlQXF4QjF4cTNyVVJZWmQxTTNuaXhnWWVzN0FmdFJPSzdNV3cxNG8?oc=5",
+          "published": "Mon, 09 Nov 2026 06:41:51 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 2475.4,
+        "rsi": 60.0,
+        "sma20": 2444.83,
+        "sma50": 2280.05,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.5,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": -1.05,
+        "pct_change_20d": 15.42
+      },
+      "levels": {
+        "suggested_entry_zone": "2450.65 - 2500.15",
+        "target_price": 2535.0,
+        "stop_loss": 2347.04,
+        "risk_reward": 0.46
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 2,
+        "flagged_headlines": [
+          "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
+          "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
+          "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5",
+          "published": "Tue, 10 Nov 2026 05:15:52 GMT"
+        },
+        {
+          "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
+          "published": "Mon, 09 Nov 2026 05:03:37 GMT"
+        },
+        {
+          "title": "Indian IT stocks reverse early gains: NIFTY IT slips into red; Infosys, Wipro shares decline - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVVA0bnA1TUhTb0F3WmNyMjBSODRzVnRhR2tMa0llUFFaMTlhVEtYTl9WUngtelVrQTY5b1NtbzhoU2RYUHBaakRMbGFlbWMxUHBCbzdiemh5YlowTnZpdXc4R2Y4RXktd2VUVUprVEwyMEt2d2tfcWpZbHl0VmFDMWRQMFlGYnlCVkZmYzZnalg4M0dGNllMRno4UHMwWXIwWDQ2NlVDRzVXbnNkYlE1bms1ZEdob1V6WHhpN3FUcHFsY1B4cmQ1a0ZmTFFlR2E4MWtQV3ZSalFnUzFMbV9lVHdR?oc=5",
+          "published": "Fri, 06 Nov 2026 04:05:44 GMT"
+        },
+        {
+          "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains - ANI News",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRfR3dLNF9lWTEzTU5yVkZncVozTy02QTh5aDFEWG42Ump3ZEtfTW43X2pnVHBVR2dFVDl4WW9XQzlLWmhhOHRsN283T2pKM0RybmZiRDhtTlc0ZThNY29wYlBVR2tRaUplTU9LaVRkU21aclNhdmRzZG5tNWN2RE9KcnpUalJzV0F1cTFTT2luSEVnRDVLZ3hxdVlPc0VLV1B2ZGUtMlZYMlZ2MWUyLWNDdm9LOTZRcVZ3WlVzUGU?oc=5",
+          "published": "Mon, 09 Nov 2026 10:20:00 GMT"
+        },
+        {
+          "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRjZ1ZmQzWjgtUm1GamVtR2d2RkI2NjZIVEd4clRTUy1IWFZLeDJESC1weHVWS2JWcWN2QTAtZTgxLUhJTWNxUlZ5WkFJNGhENTVjcmtvQzFxVTZfWDdEaDJtbjdNeTdFTC1HSlFXUmRvcFlBNmx2Rmg5bzc3WWwyTld6Y0pxRjhsaTM2TEZFa1kwTFRuZjB1MC1ScTFxMXpNNjE0SjluNE9XWnppalJwUXY5c1BnRVdBNk42Ums5bFhWME9SR0lPa0s5NmIySnNFWGoySW42WUpxYTZKN3RvdkNrZTdPcnlhaC04ZjQxQzRZYkxnRlJvZEMyM3rSAYICQVVfeXFMTi1JYXc2VHFlSFBVOFRUSkxtT1diUHN3VHNZdkJWRmsxLU9aSWNqbUllN25IaENGdWNSWnJBdmNIM1lVTEI5Qmh5MzNiTllHQ3hqWXZDN0pRaGNhTkdPMU44RWZ4QjA2dEhXOWxaNmUzTVZ3WkZNdmduRUVRamJMd0tCV0dxX3huSTA1VV8wS1RwOXhqc290WEVCNEM1S0o0LW5QamhIUTB6MElTQmRMX2xkOTNtVm9wMC1LZ1p3emFSX250YnU2Rl9yS2ZPUTJFZmN1bUNkQlAzblYxSjlaSFMwTVgwQ1l4eVJZWDhjN2h5VEJpcjFvRnU4ODlORDlFNFZR?oc=5",
+          "published": "Sun, 08 Nov 2026 09:40:45 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ITC.NS",
+      "name": "ITC",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 278.8,
+        "rsi": 62.4,
+        "sma20": 265.95,
+        "sma50": 264.77,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.95,
+        "high_52w": 302.07,
+        "low_52w": 255.0,
+        "pct_change_5d": 4.65,
+        "pct_change_20d": 4.81
+      },
+      "levels": {
+        "suggested_entry_zone": "276.01 - 281.59",
+        "target_price": 301.1,
+        "stop_loss": 255.31,
+        "risk_reward": 0.95
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines - TradingView",
+          "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Weekly Recap: Shares lead Nifty 50 and cigarette EBIT declines - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWDJtZ3NNZEJmUEZmV1RhNDgtVFlKVGdWRk9HOFRyMEJnMXF0VUJxQVlUVWhpcWRaLVVaWHdnbGZHV0lLaTI0X2h1MUpOUHV6aHNrdm1hb1hMU3ZsU19QN2VRR3pSQlVfV1pRRGhxSW1fRjBKbGZTeHBNYkJvWGVOeWhvVk1HbUtQZE9ObUREOW15cTFlOU1RaFVkVFR0dnJ1emo2c240X2k2WHBfeUg5VGl4Njg4aVVFNXIxME5NbWk?oc=5",
+          "published": "Mon, 09 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5",
+          "published": "Tue, 10 Nov 2026 05:15:52 GMT"
+        },
+        {
+          "title": "Trade Spotlight: How should you trade Motilal Oswal, Adani Green Energy, ITC, SBI, Va Tech Wabag, Groww,... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdExNQ1dBYlNhMXpaQzZob2J1bFdOVlF5RjFuUGVOaTJCZEsydmxFZlNlelFYWU9sY29vX2VfYjVqaDhra05Pa0lKdFE0clRuTE85TzdPaDdYa3ZKdHhvRW1TMzdvWjF5WWZKWXM2azlwX1RhemlabFpFM2dBZ1BRc2xJQ040UlVaVlpsZVRETDNRLTVYbjNHVTVXLVFuVF8zTHVXak4wdE1nMG5TQUNPMW9GZWczY01SRlFVdnBtd2NYTlVabkJwblk3TkRmbkxwdXZPNnQzVjFEN3hBek1fRTFlRDZrOGV4c3hxa1JHc0lvZmpVakNveGNFc0RTdHk4Q1JILTdLTUlVMGhELVQtci02Q1o5N0NSdktyYdIBogJBVV95cUxQek53NHNfMjZXemRqTkRQZ2Y4MFRHMWwxcE10NzNYNG80OG1QZXVDUHBNTS1IS05kN3I4WmJtX2xuUWIzZzhweGFSUjVWMjhYV1BENFpzYnlFYWhZLVNpVmJFWEh0bGVDcExqVWk5ZmxxWXdhQXZGanhGQ1JxbGhjRms4clpLeUVvTGhqWWF6NWxkaDA2UWV1bWZTejBxX2EtMEZnX0F0dER6b0M0RzZ0eGV5R19ScWItb28yZjFoZlVzNWw0NEEyZ0lLVm9BOUo3bjFtNlRuYlhmdkxsN0pSRDB5eWhkbVBYeHl1VE84OUNtSTdCTWMtOUh6S0JrblBSU1BtSkNBbEhxVkF4anF2bDVNMVB2d2J3U3YyOUc3Nkp6dw?oc=5",
+          "published": "Sun, 08 Nov 2026 07:10:49 GMT"
+        },
+        {
+          "title": "ITC shares slide 4% to near 52-week low after \u20b99,437-crore block deal - BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSDlSUjZJM3doNFJjalpfRFNmdDdvTlU3aVhhejJDTThnaW4wNHg0ZW5PdWhLWWEwWkJkU2hXc2hVTkZwQXpDeWlMVC1WYTFiZ1FPMVYzaTFRNDd6RTBfVWhDdGRBbHRxYzNIb1NvSzZycjdEbEpaczV3ZW4yNV8tbGY2LTVsaktxV3RkT1JRaGs1ZFQxNVcySjNUVHVFcVFNWHRiRGVKT0ZEYVZxQklQcmw2d2NZTUY5aGs0d2tBd2IzY0RfLTVXWjMzdWZGbWxJTGNjMlRNdXhKWWJWWXfSAeQBQVVfeXFMT0xZaU9FSGh5YUN4WmkxOVNsZm4xSU9tbGZSTURMc0NlSG1vZFc3dURlRnFGNmV1Q3p3NU15SHF1b1NpRHNIUnMyVGVoMzB1NWw5LTFEVkc2bHloY3hwTHUxaFplSTNJeFU1S0QzVGhsZ3cxZy1hRlNHbndVMVBGdWktWl9mM0xUbWVlWGlRUHZHaGdHNnpyeHF2Y29GdU5uS1pld01DMk03ejBtdGNaNDVuMlZZWGswaXY3SmNuYTdiVVA4V3E4YVhnV20xMXhVSDhhRFZYemp5WkFIakxSZ2w0VktO?oc=5",
+          "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "\u200bMarket Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVW9aUzhqYTV2a01zZkdHQVpza2RvUUl0b1FBREZhNTFiZWJScE5UR2dBRHJEeFVwOUNETWJZWnFfVE9JWG9xd184NUhBbTZ1eU04UWtWeEFtSFFySmgzclVPQzNYdUlxWmF2SnNwQ2tLVThmQzBWbHpxNnlhTjI0Y0ljTFZLSDNWMGpocHh5RFVfeEc4WndkY3R6RzdhTzdoMG1kc2xNM1ZoN3R2Mi00RnJWYTd0NThzVExNUThad2pqRnlUbkp5LWhfS296VFd1VkFHV2hwNnhPY3pkcXBYeUFHNkVpZ2NWQ3dJUVI0b01QM0lqUVRETHBXZVlES1V6TzVGVTd3NHktQQ?oc=5",
+          "published": "Sun, 08 Nov 2026 04:24:36 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "name": "AXISBANK",
+      "score": 78.0,
+      "indicators": {
+        "last_close": 1310.7,
+        "rsi": 64.9,
+        "sma20": 1245.72,
+        "sma50": 1244.33,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.69,
+        "high_52w": 1383.43,
+        "low_52w": 1186.5,
+        "pct_change_5d": 8.41,
+        "pct_change_20d": 4.1
+      },
+      "levels": {
+        "suggested_entry_zone": "1297.59 - 1323.81",
+        "target_price": 1383.43,
+        "stop_loss": 1195.89,
+        "risk_reward": 0.63
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 3,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
+          "Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading - Firstpost",
+          "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Jefferies sees large caps benefiting from FPI revival; Reliance, HDFC Bank, Axis Bank among potential bene - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONE9VNy0xb1NvZGE4Q0phQ0hrODF3U2E3a2FMY3JlZklCck5yUlNEdlRPNmVhd25TREYtdjRWeVpBbXJ3amVXY0JtZGVYVDN1bG5uTU1IMlFvN0ZsdF9DSmZaeWJXT2Y1UDc3YUk2ZE02Y0NnTV82dlM4YktCbWl4SmVBLVRiWWRjLVdGRl93NTNiLTBXeVVEbVBDLThsd0VKdjRrVjk5XzY0d1VMcmhTV0NVem9fZEtqdzNLVVN4aHk1cjBOUWhGVkNMNUNjWEs4R3dqQWxIakN6T2VydTd2MWR2aXFMSGJJTFJRUm1NWHpScENVZkxGR2hmcm81YmVhbzZrUDlLLWJ3Z3pLOTE0b0w0MFXSAZoCQVVfeXFMT1l4T0NNVzRYTGt3Q0FLT3N6ZzVQekRfZUJ0X2VZdnZoektSQjh1TmNkbGNhbkRmNVpCYVZMd0duSWx2dHhuaVFibHVtZUZ6eDJ2clFGSml5RnZFWU55Q2d6TDdDOEJSOXlFRW5IT0ZSNEVIWno3S0MwS3BtWGdoNGxyWUwzRTQzVThmU3oxa3dsaGtxQWg1TERuWXFoNjktUV9FM25sZU15VGpITmR0SVJxWkQzUWVkYTdlcERkanN0NVRJTTFvQ3RKVlZRaTNuRjFWTk40ekx5U1JSdUVjNUhLclFPR0M1ejlrdms0dkRRcVVBanB4dUpFcVp1bFdObTF1U29WcWZIQnRmN0dmT19oc0w4cE1vQTBR?oc=5",
+          "published": "Tue, 10 Nov 2026 09:50:59 GMT"
+        },
+        {
+          "title": "Stock Market Holiday Today, Nov 10: NSE, BSE, Banks Closed - INDToday",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nUjNObUhaeHZvNmRBRGNxTWp0MnZEMm1CTXMwa3R5TTEzVkNVbUFCd2ZyazJOTnZudVFwMkVJMmltajY0RkJjWGl5VXhVazZTNlUtMkhkYjZ4ekt3UWVjQXFjY25QZTZfTlE0YVJ2N3V1WEFRc0lJUlFWaw?oc=5",
+          "published": "Tue, 10 Nov 2026 04:09:30 GMT"
+        },
+        {
+          "title": "HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, PNB, IndusInd Bank: Check fresh targets post Q2 - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNXzR5cnp3M2dvUG5fMUxoREctOVlfZkdJaWh6Z3VaQmJ0Z25UUlo1R1d2VnF6UXdGUG03cjF2cHp6QTR0NDBHLTQ2Q0dDb0RnZ1BwUjNaWTlGUFJXTXItZGxUOHdETm1qQlpzMWhXaHh3RllOSlZpQVJkRGtJLTQwTkRWUy1vQzR1WnRrSmpRblZXR3c2bmF0OGNhZ1NNazZkQkREbE1PdEl2aXF0RjBWUjZkcDJGTHF3XzZ4SDNidjVFaWRGTFlGa3MwVHUyQld3ckZlbF9rZzhzMlQtSGZFQWVSb1J6Nmc5TTZ5Tm5TcjU3a0xIY2JNN2JBcVTSAYICQVVfeXFMTlRQd2pONXAyclNQTTRNQ1RmLV9ZcGsybVFwZW9GNGIwX2F2WnhFdHphRjV4Q25TTEkzQ0EzN2pSRzUzVzJSWUgwVDdhbzdibDRHU2h5a2lGX3pQTEQ3SVZkN2FlT2ozNzhDWWpwYllNZzd4d0VDdnh5VUd0dzJDWEtxRS05SmREQUZrWVhBU1Z6WTBZdHpMaFhjc0lYY3hmeWJNOEhYeW5DU1dzQnJveFZmVDNZWXlSMTZ2WHJHajJkaXJuZVU0cjg4NUY0dGZCRmdSektVOUxGWWdVQmczY25obHNnU25NUGF2VS1sdTJoclljaWFfb2ZlclZ3eXZfb3ZR?oc=5",
+          "published": "Tue, 10 Nov 2026 09:36:30 GMT"
+        },
+        {
+          "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5",
+          "published": "Tue, 10 Nov 2026 05:15:52 GMT"
+        },
+        {
+          "title": "Diwali cheer on Dalal Street: Sensex surges nearly 400 points, Nifty crosses 25,100 in Muhurat Trading - Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDBhSUZPeE16MjNXWTdLZnBBT1pFMzltV2V2TFNqb3hCTmNUVUw5VGZZMzVHR0FzbW55RHNTa1pzYVdYVFZyZkVSZFVUZWJQYXoyajI2X1N2TXVRT1FkcXdjNThkeWlFT3R6Vlk5ajAxbHJzY01lNFhid2o0cm5SSWZUcmxISEQyMW8wV3oyNXdDZE1rZkRFX0ZkSVhNdGFQNWFjN2laQjk2T1VjMlFRdE5PZDNQa3NWdW9RQkV4S0JmeUxjall1V3l2VlVuTTdWZHRqZ1Bja2tWbUlDNGRmbm930gHnAUFVX3lxTFBRZUU2N08zajF0dnZJX1FhQi05RnpENl9nZUdPcmt2WWttcS1Da3BqMkluRmtLdEc0RVFfblBmUG9UTGQ1aDNCbkdub2N4Z0JTMmltT3Z3WVJ6VUFjVm11U0VOcGx0Tm0zYTBQRVdTUkV0U3BVZThhaldvclhTYkRxdE93bkRnSUNNM0ZFdHhrOHZGTUtaQmdGQ29VeXN0VGF6dkZ4V2NqdTBZdlNuZnA3YXZlaUUzUmY0NGs5Wk9aTmxlM0VDOVNBQnF2d3k4V1IxWkNJd2NURWJUQXlkLUFwdXl2X0U0NA?oc=5",
+          "published": "Sun, 08 Nov 2026 09:13:26 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "RELIANCE",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 1324.4,
+        "rsi": 68.8,
+        "sma20": 1223.85,
+        "sma50": 1236.12,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.92,
+        "high_52w": 1381.81,
+        "low_52w": 1158.0,
+        "pct_change_5d": 1.88,
+        "pct_change_20d": 13.17
+      },
+      "levels": {
+        "suggested_entry_zone": "1311.16 - 1337.64",
+        "target_price": 1381.81,
+        "stop_loss": 1174.9,
+        "risk_reward": 0.38
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPMlA3Q1RRajh3LTJmZDZmXzh6VFVteG8zY3ROOERiTXQ3Y0VhWUdUT0JMSVZIOEhPZG5mQ1ktRGF1b2JtYWljT0NIcE5BbllZQnNwVkdwQjhHY1RlLUdiZkFQQVNVRUpib2RtS0JHWl9wc3g4SENfR0FBRU9zTW5kWWIzVUVLWHpPWVFsYzhEN1lSNWlWWGNzTU12S3NOUkpIcnFma1l5M1pnbExVdzZsWUlBVFpmY1VJTFB4cEFUWG1QcmIyLS1tS0daYVcxdmFsRGZYWGh5X2RuOWhBQXRRYU9NTWo0SUtSdnhuekhnSVhLaEM1Y2RKSDZNT01rMS1SdEMtZkp1S1pzSGJY0gGSAkFVX3lxTE5qMjViLVhCT25leGM1T2xES25oVzlKbjRXT2lJVmE5Sk5HbUJ2UnVLQlBBUEhrdVJMeW16TU9aOTlZaGFsV3ZLN0lpa1hLc0t3cGVMQVVuekl5S0ZfVTFLQWdkZmpka01DVG40QjN6RDMySkVZQ2dCVHh6WE9tUTN3aGljVXFCbTB6WW4yZktwTlViV1BFYzR6c2dkMGtBdVNiVVgtYmVCNmo5b2lsNFNBb21UdnFVbl83N2ZiazlmaTlmQk1jMllEd3p0d1ZVMDhqTFl3STh5azIzR0JoOXpKX1RTUE5GTHRscWt6QzAtUkgxaTd2MmlwdkVzcE1GekdLNkFRUTR2UWw4eVUtR2Iycnc?oc=5",
+          "published": "Tue, 10 Nov 2026 05:15:52 GMT"
+        },
+        {
+          "title": "Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU2xTQnJmdWlfTV9FWnU0ZFE3bWR3Z0xHUkNXSVE2UkhzbHpqaUtjYzNfclRJMHFyX2Q4Q3VtSkNwN0gxc3ZJMDZFVDNuZjUtWGpXaS1RZGJ3eVRTN0Q2ZER3NzhBaEpsUVpldTI1ajBaQjdxbXZubkd0YWwxNFhndUVtYUI1Uk9tckplNjQ4RVpLOHJYU3NrdG8wdnV4bTZIbmxXeXc5ZGFkZDlQbjFQUHplbVRvR1UzSHQ0bmZOSEl4SlA3V09fZGJWMXo4aWJLakVFWEFWSm04ODhyMUVuVGVQVWNkeWp2X3pySG5HQ1F2RGVISlBvUnY3djdjdHdFdVpYLXNR0gGLAkFVX3lxTE56bFlhb05FQ3FkUjJrSldOa1JXeE9BZzZQSDJkRDlROThmWWtIZEFYUXJZcDRtQllPbWVIUndoaUpGd2x2SWNsN2NDZmRQNFV0V3JCcVUyc3NuUUd3X05XMTE4dk45cnVrOWxnQ3RjcjcwcGo5MWpsTThvZ1NJRU5NbldHZDV3OUpFSEVCMXp3MFVuQ0dVSGdIUnFRUno2U3ZQU3RQR0VaQTRuR21tS2dud1RpdXdrTHZvQ0F2QlBscUNKYnNTVkFTdjFKZEJuRTkzS2xIXzF3N2FaQkpWQ25rZS1BSmJLZzVRSE16NDN4OHpUMnVzRFpESHlyNDMwYVc4UGdicDlwNTRiSQ?oc=5",
+          "published": "Tue, 10 Nov 2026 10:27:39 GMT"
+        },
+        {
+          "title": "NSE new BKC Mumbai building design: First look! See pics, video of new landmark architecture of National Stock Exchange - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORERqU2xYRjFrTXk3WHNVaDY0NmlxNkMyVjhSYVFJMkRlcHdweWNraUxWODM1TG9aNUlWZWJWRGQ0dFpqU3pmaGIzYlpjMVRfOGZPQklTcGpRLTFfZzdfT1A5T2lNRkg3ZW9TQjhCOS1IY3FzYzd5cGV2MEViZV9fQS1vd2dKUnR4U016ZTdOMVp5eXNvSzk4dm1fRjc1c0ROMnNiY094TzFHei1XODkyR0xvbmcwd0ZfRlpXWXJMSkNtU1VmVEdpaHE1dDR6a0pZUmxHaVg0NHF1S2xOaF93QmpXMWFMaVhOUXZfMjUxT1hON29tTDNpTXdHeXdhNmJ0UXlmYW53cUpiY3BxUFJiakF2VGnSAZoCQVVfeXFMTzl4VmVrQWVYaTVGd0J2Y0NuTERzTmpTX2sxUC1oVzByenFtd1BYZ2pCNGcxdm9tczltWW5qYW1GZkdESy1qcS1kQV9iZHRXWHViSVRUa2FVQmU5cjZJVUxkZ0h0c1h3eG83dmplUTlud05pd0QyMHBJc3ZpZnNMckRpVE4tRjFUemVfX1A1T1d4bTEyZU91ckpRTldwdGFKQ21SMG5kakp3WHVTVjBSUVdIWThPeEpTQXpmTU84aWl0XzVhSEdIUjRBTWtCV0RObzV4NThrcjRNNkNneGRIaUU5enM4LTNJdGtsd2F0b0d5d2UxYnRPc3pqNFU3OFN5RHVHcVExZGRGMXBJaGhTWGoxTXZWcUlxN3BB?oc=5",
+          "published": "Tue, 10 Nov 2026 09:10:33 GMT"
+        },
+        {
+          "title": "When is next stock market holiday? Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3pSeGQ4S2VVNEIySmRHZW5RdmhIN0VERmI5b1VnSzQ3Q3ZhY2U5d3oyR0h3S1V2RWNieFgzNW9SMnZQSmdsSEVkNk91YlIzRFhQQlhrUjlSTENyZ2pBaXlUcXJOVGFNdjdIYXlzUjd3UzZUY0hyUHloX1VqU1J3RmkyemNfRy1zN1pzWFpEYm1lN2dSbS0wVlFsLUtCbHJLWUZVeFRhWF9nRXpHb1U1al9rNFphVENwSnA1QjR3MGpBc0QzX2pzZ3FQZDU2aW0xTnNWUXo1WHpJcW5QWEtoTUZRU3VYLVgybnQtWUpPOUFxT3FGb1BFakttVXp6WG5rdVYzVHBOdDJteV9lTUMwek5SakJqNXfSAZwCQVVfeXFMT1p4QVpzWTVvU09QbkJKSUE5XzZtRnc0QzY4ZC1ZRkNLZ2E1QzkxeDJNUWxTc2c4ZHFaTDBsOHNrSzl6QzFqQjU3bmlHbW1MUnVwanhGdE1vYjZXN1NBTHdlR2RQcEFWZ1ZvTElDN3ctX1hGQ1FvQnhHZldMODRXLXJvWnVhTDFOSlJpNGFMQ2J5QTcyWjFRS1pUTnhCZzZQeXltdC00TmNoRkRncUNXRmtsZG5YRXI2WmFJNnMzcFFac09uVzZ3UDFtT2pqTXhUZlVrVlRhSmptRDM5UFJEc1ZtYWMybUFWeEp5LUNJSldpVmdEZlJBRU52UC1pcmtReUgtYWtUNjRKZnNIUm90ZmlpcWxydGthNzhxV0c?oc=5",
+          "published": "Tue, 10 Nov 2026 09:34:32 GMT"
+        },
+        {
+          "title": "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges - Livemint",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU0FvTVExZkl6clFNWm5rSFk5NVhWV2szaW5SUEtpOGh3YWFpcFVQaU9CcHJZUlMyMmt5TXBkamRzSC15b2RmVk1WR2Y3ZXZEMURjZ3dnR21PTGw3Z1ZaTERlZGt1TFZJR1U5d2FNY1VHTGxINTh1dXFjWElvcFY1SkhRVkYzZ3NCbXpLRU5INXA2dF95dHQyU2lhNl9CRmg0eEg2cGJHYTM4eDVwTGpYS3I1WVFrcnNQdmtaQUo0Y3dYNFdpNTJVQVcwelRNMExYRzRId0p4SHlnTXR6YWFlamE4YlBJWElSLXVFbGxGZ3RCdDkteDBIVUxpNFVobWhJWVd6MVZzN1ZyVDA2TlFPT2NXRGxwQdIBmwJBVV95cUxQNjJUS2RpckxQMlhGcnkwUE5GMWUwY3JFakF1bXRobmxpZW1UX1BtcGd3dEEtb0EyclpJRDdNYlZuTHVGdGNVbDVsVE00RHhuOWkyLUVOSUQ4MzhUeG8ybk1QSUJwT0xPREJBQXZzZWRYd0xLeldJaXdaeGkwdFJvMXVEU3ZQTTZzNjctcmowMzJrM3g5RnR3NS1WRzFOMDVzdWF6MFFhVG9ESHdwTHpwMnNTWmdSV3lvYnZ3ZEU4UzJycHBXaW1OUTZDbzBrNFZuMnctZUJtQTlJYmoyOUJUMmEtM09FZXNtQ1RTbjhNczIzc05oRWc4bE9LU3FINGlST1RlRW5KV09VaGNQMldOLUVyN0ZmYUIxLUhN?oc=5",
+          "published": "Tue, 10 Nov 2026 02:17:28 GMT"
+        }
+      ]
+    }
+  ]
+}
