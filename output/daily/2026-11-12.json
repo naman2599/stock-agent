@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-11-12T11:39:03.332503",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "INFY.NS",
+      "name": "INFY",
+      "score": 85.0,
+      "indicators": {
+        "last_close": 1151.2,
+        "rsi": 57.7,
+        "sma20": 1133.06,
+        "sma50": 1069.03,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.47,
+        "high_52w": 1216.03,
+        "low_52w": 963.23,
+        "pct_change_5d": 2.04,
+        "pct_change_20d": 10.87
+      },
+      "levels": {
+        "suggested_entry_zone": "1139.69 - 1162.71",
+        "target_price": 1216.03,
+        "stop_loss": 1087.74,
+        "risk_reward": 1.02
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+          "published": "Tue, 10 Nov 2026 08:08:55 GMT"
+        },
+        {
+          "title": "Sensex Today Ends Flat on Muhurat Trading Session | Nifty Ends Below 25,000 | Bharti Airtel & Infosys Top Losers - Equitymaster",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOV1NHZUdhSGRORDk1aERVQTdGOWNwWkY4WWhPaUMwTHVMWlhXcWtCU1hYbkRnWW1VakVOR0lCZDF4STBZcEI0cy14Tk53ekZvMU52aV9YS2J5TVhPZHo5LXB3cnlySFVhTlB0Zlc2b3JZVUllenZjbGhiQ2R4ekQ2ZWM2Nm93a2R0NkFaM3N0LWdUa2VTZUpQaVNBVDhiRUV5dERXaFRyb0l2eWVXSm5LZUdvSHhma3FRUDRXR2o1Rk5ZSEp0RXFuOXdpa1hMc3NSa2hQRE5KMzlxWmU1cmZ1TDJpZlVvT0ZKdlhaTFN6Z3MzVVZIRGllTmhpN29zdw?oc=5",
+          "published": "Sun, 08 Nov 2026 10:37:00 GMT"
+        },
+        {
+          "title": "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkpxbkxXV0pESDlQV2VBUVNMeWVHVzdRSFJHM2V5T0p1cTAxZ3pmU0c2Nk1BSjNBNkVueWRtN0J6bjJqcjJfcFhNbVZqTUppemlRRDlOci1sU0Jtbzd2bFRxV3lNcWpWdXZaczJiLTlHaEt2c0R5b3UxT2JsbkFXMjFramR2S1BaRnpMcWcxaUozNFB1bUtTcjV2UEFiTlhHOUcyYXhaQkRsS015bTVIZVhIUzJvY19BQWVOYUs4ejF1U3owQ0xuWHF3QW1NZHd1MHFBVnd3?oc=5",
+          "published": "Mon, 09 Nov 2026 07:22:43 GMT"
+        },
+        {
+          "title": "Infosys Share Price - Live NSE/BSE Updates - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVUySFQtMjZacVVoWEVtX0pwbzBIQnNKRno5UDlpNTlodzZvQlItVV9oNkhhWnJGRDF4MF9nbkFPcUhTTkUwbGN1SC1BSjNRZWlobGVEQ1BjZlN4Q3NWLWNSWndycDZmNXc?oc=5",
+          "published": "Sat, 08 Jan 2022 03:47:11 GMT"
+        },
+        {
+          "title": "INFY Stock Price and Chart \u2014 NSE:INFY - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNGNjNDFJWU1YenVETEJSRVVHaWdONnpZX3FBakhzQ2xsWEk2Qy00WTVHaGoyemFseGhlay1LSTZUTEpxZmVKajFjNDltRFZXbGRvbUtHZG8?oc=5",
+          "published": "Fri, 21 Jul 2017 02:11:56 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "name": "AXISBANK",
+      "score": 83.0,
+      "indicators": {
+        "last_close": 1342.9,
+        "rsi": 69.6,
+        "sma20": 1253.62,
+        "sma50": 1247.49,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.06,
+        "high_52w": 1383.43,
+        "low_52w": 1186.5,
+        "pct_change_5d": 9.0,
+        "pct_change_20d": 5.87
+      },
+      "levels": {
+        "suggested_entry_zone": "1329.47 - 1356.33",
+        "target_price": 1383.43,
+        "stop_loss": 1203.48,
+        "risk_reward": 0.29
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why - Upstox",
+          "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Axis Bank Share Price - Live NSE: AXISBANK Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sRHdudklyeHpNVkNfMmpDYkhZLVo3VXBVUjByU0JkekxYNUVNMFphV0R5Vi1vQUd1YVBRU3llVDRCLTcwSnRTMnktT2VvaTVHVWZkSXB6Ylh2cnRpU0J6Y2pJOUVPRDQ?oc=5",
+          "published": "Wed, 11 Nov 2026 14:53:41 GMT"
+        },
+        {
+          "title": "REG - Axis Bank Ltd Axis Bank Ltd (AXBA) - Updates - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDE1YldpZXhLLUp2R0pzRU1fQ3ZhTW5ScFBVU1NDekJzd21ORHdHcHhEci1pZFY3NEpkX2g0UXA0MHBfVTEtMUhlanVhRUVnUjRNd2E3MHRpaE9ORHE4d3llZ05VbnlBVWUwdVR1T2s1RnRnZHFwWms4MTdhdUswNzdEanhtMzVsVm5DUHplaHhiLWxYT1VnQUJQTlRYdkl1dXlDV3Y3OUZGQ0tmbkcyWVpfRzZVVkFURkRwOA?oc=5",
+          "published": "Wed, 11 Nov 2026 14:11:42 GMT"
+        },
+        {
+          "title": "REG - Axis Bank Ltd Axis Bank Ltd (AXBA) - Update - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM29ydjNnVXFjaXJncnlackhEZjdkTUR4TFJVYWZVNEhjNFFzUV90aThSMjloTDZIZ21PYktCMTFCTUpIMVpGNmZaR3NzZWJyemJrWEwzb2wzQ1dwdzlZeWt1WkxwaTNKN3ZuOEthS1RYVmpYNHVfOVBrdkc4cHFuY1dEYzBPMDJvbmhFal9keFFwNGY1eGcyY2JzUmM4UG1aa2NNOUNOSXRoS3ppWmdQUW90OFpjY1FRN2xV?oc=5",
+          "published": "Wed, 11 Nov 2026 13:44:40 GMT"
+        },
+        {
+          "title": "NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa0RvSWFtNF9xTmFKQnNuN2xad3dBWk5vQTBSeGhUYjhDSFhxRks1VTk1eDBFVWNTNlllcGdZazlnQTJYVDNzVlZNNmw5a0JzMGhZWGZtcEhURzVQNGIzNThoSjMxakQ5ZTFEVS1HNXVwbWpQQl9YX0E3RmVjYUlQUWZBVUdBS0hlODcxSmo5NTh1YXVnZjBLMlBrNGR1bkdVM1ZKcTh6ZUg2dXZyTmtUdVFZbjZnSzlnVzFKWXFhem5HalRicXM5RFN6d1VPVEJuMURPYkNjaGpmXzNtOEFBT1RBemZxTUVmelFVZDBJdHJzdmtmWGlF?oc=5",
+          "published": "Wed, 11 Nov 2026 06:43:42 GMT"
+        },
+        {
+          "title": "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2JCV1VpNEF2bWdTRXdLbDg3akg4YkppbUd3bUxveVFobE9LU1dGRFVHQ1l5LTV4XzdNN1BhVVRSQW9pS1N5VndNdkZxQzE0NVJMZjhWWUl0bVR2UUxZSGYwNDVGMnlRdy02VE5HbGsxR09iVnd6cHhJeXpXbi1mcl9iTEEySWhrc055U3Ztb3NqdThJaVZOME1HYlB5amJ2QnA2S01idjhiaHY2RUZ2VGVyRzFaWHJ5a1JPZ2Zhd2VQbzE0bW9ndmM5d3NaYmhy?oc=5",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ITC.NS",
+      "name": "ITC",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 284.05,
+        "rsi": 65.7,
+        "sma20": 268.46,
+        "sma50": 265.45,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.9,
+        "high_52w": 302.07,
+        "low_52w": 255.0,
+        "pct_change_5d": 1.45,
+        "pct_change_20d": 8.83
+      },
+      "levels": {
+        "suggested_entry_zone": "281.21 - 286.89",
+        "target_price": 302.07,
+        "stop_loss": 257.72,
+        "risk_reward": 0.68
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky",
+          "AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzVrQXZQQmcyY2Vvdk1yakVvMWJxRDBnemFtU2ZxWE1UY3Z0TTdTdkUyLW0ydmE3ZTFNM1RpWWJrOGtRcWh4VmhPMUZyZGlMUk82ODZSTUFvcHFlUzJOM3IydmVaNUYzVFlTcnc4aEtXLVItdXdBWDlLYUw5ZDlrNUc1SzhYeGh4ZURCWkF2ZEYtSjY5cGtPSTNCRXJleVI4TVl4NktKSWo3U3Rob3JRQU16VTE2UHNVWXVvdkxidFZLaDZneTNCYWFlZ27SAdIBQVVfeXFMTzUyeEYtNmxSZkJDZGVsSTV0Um9zRG5rVkNHQ1c1UHltYVdrdlllMGtSaTBNbWhrcUNPakc5NkpEMV9vSXEyYVBnUnQwZGxRQV9wN182SzFlRUw0c2ZvQUR2QWg4WTFueGFyUWFMSGliVnBXOFV5WHVaN1d0RVdGV0N5eTEyNExQUV9NZlkxRWNybVh2dTF5TFpZeEtVSHdzLUY0dzNXQnl6c0lxSUdSX3JpRzd0RW83QnNxdjZ4LThDSUdYUkl3d3l2LVdocWFGYmtB?oc=5",
+          "published": "Thu, 12 Nov 2026 02:44:47 GMT"
+        },
+        {
+          "title": "Stocks to Watch Today: Bajaj Finance, Tata Power, Mishra Dhatu Nigam, Aurobindo Pharma, ITC, Aditya... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcDlWT2psaEdqTE1qUkViLWN2cnNLemlNb3cxUEFWTEtrblJqNUYtZ2MwR3lrcWZSTW8yOWV6QmU3VFdDWVYtcDA5c1BTRnFTZFNvSjRPQzZsbzZiamc3M1lUSnJrQU9iR1JTVS1YZUNURmRTTy0wOWV2RGRxbnB6T0lTemZLOC1mb29MZnZzWEt6cS1QSW1BSFIwWnFMbGRVQmxZbi14WjRXbGhKM0RuVGdocXlxN1MtdS1EaFJwcEVSYUNUWFRYLWFpNzR1WWtZNmpwSUE0N3NWMWFuWlQyYnVuTHlHeEo5YzhOcUVTZGRGd1NwM0wxby1ZZ1liaWFXSUxMR3QtbHpsTG5zLVJ3cjhGMHR1R0lQVmJhZzdEUkhKRENQTnJ0Ml9GONIBsAJBVV95cUxPa2EtaVdWZzc1QnNGUTlaRUxqNW5ESm4wVm5rWm9FQXlOczZHWlNMemhnNi02VHY3VDBqT0VFY3VzaVhaSzdTRHdYdU1VaW1XOUZjTjZGLWdTbG1vSWhlMTU5cFlsMVVTWWhuMXZhTjdzWktWM09JdmtIcWZoZnBEdDdsaTVjdHo4WnBKLS0xUEJzcU9NVXg2YnduRkFvQXlpWUZXWnhxeDlJSDhQTmpTQVJhSWhRRmlrOE55RVhpWnJmTEgxVzdxMW1FQXJicU11eURDbkQ1eUt0T2FleGpfcXdCeXc5SHNGZTJnSTgwMDlBX3Z3OGYzSEZIRy0zN1htckNqcXpMbnEzWmIxdldodDBFeHBrbVk5WXk5b21WZFFoaktwOWpxS19tbnJaWTYw?oc=5",
+          "published": "Wed, 11 Nov 2026 20:21:02 GMT"
+        },
+        {
+          "title": "ITC shares slide 4% to near 52-week low after \u20b99,437-crore block deal - BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSDlSUjZJM3doNFJjalpfRFNmdDdvTlU3aVhhejJDTThnaW4wNHg0ZW5PdWhLWWEwWkJkU2hXc2hVTkZwQXpDeWlMVC1WYTFiZ1FPMVYzaTFRNDd6RTBfVWhDdGRBbHRxYzNIb1NvSzZycjdEbEpaczV3ZW4yNV8tbGY2LTVsaktxV3RkT1JRaGs1ZFQxNVcySjNUVHVFcVFNWHRiRGVKT0ZEYVZxQklQcmw2d2NZTUY5aGs0d2tBd2IzY0RfLTVXWjMzdWZGbWxJTGNjMlRNdXhKWWJWWXfSAeQBQVVfeXFMT0xZaU9FSGh5YUN4WmkxOVNsZm4xSU9tbGZSTURMc0NlSG1vZFc3dURlRnFGNmV1Q3p3NU15SHF1b1NpRHNIUnMyVGVoMzB1NWw5LTFEVkc2bHloY3hwTHUxaFplSTNJeFU1S0QzVGhsZ3cxZy1hRlNHbndVMVBGdWktWl9mM0xUbWVlWGlRUHZHaGdHNnpyeHF2Y29GdU5uS1pld01DMk03ejBtdGNaNDVuMlZZWGswaXY3SmNuYTdiVVA4V3E4YVhnV20xMXhVSDhhRFZYemp5WkFIakxSZ2w0VktO?oc=5",
+          "published": "Fri, 16 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ITC SHARE PRICE - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhTGNVTmhrOHVJX2FycENDa0pfc25kZVA0SmhPcVFNSFAxQTU3d1Y1S0JDLUZLVVBUZDV0ckczZTFxRzRyNmhWVmNTWTNZZHk5djJ6SXZHTDM0eVZjZG1iUmZQTnA?oc=5",
+          "published": "Sat, 08 Jan 2022 01:00:39 GMT"
+        },
+        {
+          "title": "PC Jeweller, Vodafone Idea, YES Bank Shares Fall - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkpxbkxXV0pESDlQV2VBUVNMeWVHVzdRSFJHM2V5T0p1cTAxZ3pmU0c2Nk1BSjNBNkVueWRtN0J6bjJqcjJfcFhNbVZqTUppemlRRDlOci1sU0Jtbzd2bFRxV3lNcWpWdXZaczJiLTlHaEt2c0R5b3UxT2JsbkFXMjFramR2S1BaRnpMcWcxaUozNFB1bUtTcjV2UEFiTlhHOUcyYXhaQkRsS015bTVIZVhIUzJvY19BQWVOYUs4ejF1U3owQ0xuWHF3QW1NZHd1MHFBVnd3?oc=5",
+          "published": "Mon, 09 Nov 2026 07:22:43 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "name": "BHARTIARTL",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 2096.0,
+        "rsi": 68.9,
+        "sma20": 1973.07,
+        "sma50": 1880.43,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.72,
+        "high_52w": 2109.0,
+        "low_52w": 1734.97,
+        "pct_change_5d": 1.37,
+        "pct_change_20d": 16.03
+      },
+      "levels": {
+        "suggested_entry_zone": "2075.04 - 2116.96",
+        "target_price": 2109.0,
+        "stop_loss": 1894.15,
+        "risk_reward": 0.06
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NenFfV0tfelcwTUZ5SVFva2hGZUdqekowbmVqMXpIQnFRVkgwakU4MlpTUHNSVzU0Z2dXQzRpNW1zVl9pVndxWFVSRzhKTnhPWnVqa09hbUk?oc=5",
+          "published": "Sun, 08 Nov 2026 19:22:54 GMT"
+        },
+        {
+          "title": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yVGN2YlBzbU5xc0FJSkctUlVUMzAzSHdiOENtSzV1TlJyZHhSVGZIVVVyUEw0MVpwMm1HVDRxOGM3akMyaGhNaUZUZ09TQ0N4b2Vjd3lLaW1DaEg4QXRJbU5BQjZJcjN3MGlBSQ?oc=5",
+          "published": "Mon, 09 Nov 2026 10:41:19 GMT"
+        },
+        {
+          "title": "Bharti Airtel Share Price Rise Shifts Focus to Valuation - Univest",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02UHFzV1FrNFc3eXN3OGRoTHMzX2dmd2hWMXVvZkRzdmF2dnlBV2VnM3Nmc1ItN1lWdXhNWTV3YjJWT2VYcV8zVDREOWV5Nll3Uy0wdHZBYjVKck5ub09lcXdFR1dLbjBOaWx1bm5qYXJqbVg5QTRzU1FTTnBjelk?oc=5",
+          "published": "Thu, 15 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Bharti Airtel Limited (NSE:BHARTIARTL) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock? - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYnU1cE5DVDlQVkpZVXdtWEpYVkpaN2tGN2loLWlZQ3VZYm9qd2FsMlVicnUzUTVpT2JLZFVzZGdyM2FfOTdUQVc3NEdtZ056bEJOSG5PNkROWFdVM3dlZXFuaGpkeWtvX1IxVGU0dGV3a2JZOGJXWUV4Wk9KVmlkRmMtUHZCN0czRUpsRkJ5YU1jM0R3dkxtSEh2TUNtTVNzdmIyQ3J4akk2cjdOd1lKNXdvelIwcnZoUnNWcWdVTzEwcVFVLXRIZlNvZ1g4Q1dxRGNQY3hFdFrSAd4BQVVfeXFMTXVWV2lwMUZPR1VEZmNIbDF2NVNqWktKY1pNbnZHb3dYN21pbUtGUWhacWpQRG9UM0ZjeGdUa1hkNVFJMUU4TFNNN0w5bks3ZkNoby00UTQzTWYyM0l6X2FVVmVmd2lxVEdXY002bVBUazZicnZ6UXJjR21aX19DNjlVSnV3WXJUWnB5dkdUOTNVbVdqRzNjREo2a1BwSk9OZC1CWGs4MHZKSHBTaDVHNnBtOU03TWtKRWVYemZGWjVHdDFwNG13aERBVFNDWmJPLWhRdUtpS1I2U1dkOWx3?oc=5",
+          "published": "Fri, 07 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Should You Buy Bharti Airtel Limited (NSE:BHARTIARTL) For Its Upcoming Dividend? - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzBwM2ZzZXZVTUdhWEZwai01TkNBWC1POHB6M3JYMUtCX3NnTG5TRDR0bUN0ekltaUZvTXNIdzV6cnJxMFlVbl9Neng0aHVNdEpuZG9HVXNuUXNaQ3ppcjhyRVpva25SX2FUbHp6MF9UWHRQUTN6X2JhY0tBTDdsTExHY0lsSDYweDJCQkU5UWhRT3ZnXzhQb1VCM1luS0Q3U250eWlETVdzQVZuVHBwbll3VDhlVnVTRUxIYVJwejllYkVaSFpRejlfVEp1X2NSajY4U3Noc2lCNDTSAeABQVVfeXFMT1BneWd4ZkFQVXoxYVhaTG4wYUZKX1lLa1NlLXROaVlOS2RPS2JRUU5oN2FqTl84RXBVdzJTYy0zakY0N3YzajBIenZON3ZNd2FrYnBWTmd5eTdRWjlkZ1RTbHRaMUlPb2FhcjJPNkZ6b2JSajVWNU5wWEpQZXBnUUpBbWZRSm5mMmFkSllvYTNfWkl1MGJCOEFxc0pFdmwwSzBFb3FWV0VRdlBRS05CVnhEcjM5cW83RHBUOWVJaFBSenl5TkhsMUs0OE1pelowSGRhZzZOZy1CNmdVcnl0ZGQ?oc=5",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "name": "ASIANPAINT",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 2536.5,
+        "rsi": 64.5,
+        "sma20": 2378.18,
+        "sma50": 2414.56,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.75,
+        "high_52w": 2803.37,
+        "low_52w": 2271.63,
+        "pct_change_5d": 4.89,
+        "pct_change_20d": 7.01
+      },
+      "levels": {
+        "suggested_entry_zone": "2511.13 - 2561.87",
+        "target_price": 2739.42,
+        "stop_loss": 2283.05,
+        "risk_reward": 0.8
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14U2I2TUt3bmZGekZ5VXZvNkliTmx0YzZNYVNfWjJuaU41OF9OcjVBaEltdUxaMlNlMl8zMm1QQmUwOS1jMDJHMTFDNHV1SUREWTV6TjVERW83VWR4Z3AyQld5T1N4VkR3cVBZ?oc=5",
+          "published": "Wed, 11 Nov 2026 12:35:40 GMT"
+        },
+        {
+          "title": "Asian Paints (NSEI:ASIANPAINT) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkN2OHNyOXpLdERkVVhrMFhJMkZoMVVsZ1NkdXNOSlRtVEhRT3dfN1Qxd0xYOERaTm1wamJ0R3pCVVo0T2NiSTZSMzA0WWI3VEdpY25xc1ZJWEF1RTJEcFFwaDZtNER6RkpfelFEZHJYeXRXdkljOHRDTnZyMEpTdzJMVzl5Tll1ekxZ?oc=5",
+          "published": "Sat, 31 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ASIAN PAINTS SHARE PRICE - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Y2JlWFpKc0xiRkxleG5mNlZPZnJsZHpGamQwT1ZzRGhRaTVJQm9qYnJFdFhxUndjYk52dlNkSmZXT0tvQjkwRW01NUVhQTkyOVRJTkZJYzUxc3Z5NUlkN0VXeHk3clpRQWZWb1FDNXM?oc=5",
+          "published": "Sat, 08 Jan 2022 09:18:21 GMT"
+        },
+        {
+          "title": "What to do with Asian Paints shares post Q1? Brokerages suggest - Business Standard",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb3drZDlEYzlCanY2Mk14LXR0WktPY0JXVW9TM0NOdlYwMTNsc0xHdjR5dWFuMnFKeXRuNTg5OWNQbE5rTXRzSUtyR1NkYmVhSjEzM3VCWXVLbFgxcjU3VVFCLXNuRTRqSnhJMEw4NTVnNWZyZVRXYjAwZms2cTRuX0J0WU03ZWdGOTZGM0wwelgySUMzZUFzV0lYSVdSaW5yRWxtLVhNNlRkMUhoY3lxOURPUGFvdUV4MW5admtLekoxemZBRjlSRzl4aHFiTWIxd3RsT1Z0YjNyNUtiTGxIaGxKOFEyd9IB6wFBVV95cUxOOEhmenhTQUQ1VHNRcGVmTHhsS0tnb3N6Sms2WVI1VjhzWDVyVUJxcmRKNFJwM3czeU1MMVI5SDNuUm9TWDJOVWFkb25OanBvRmN6aWRQYnNTTDIwektTdmxsckJVUEt1cXhtTEdJTzhJRHctU2ZGZUxKdnQ1emxqYUZ6QmtiTEprektQVEtORHE2a0RwMUkxV253eTdVTHdxOXJxeTVILXZob21PbzdTX3ZYWXNCN0F0MFpzbTgweW5zbDl2ZUJnOFdjdG1iRmM5aFZmX3V0bjNsVFpkdGswR3gxOXliLTEzTzJR?oc=5",
+          "published": "Wed, 30 Jul 2025 07:00:00 GMT"
+        },
+        {
+          "title": "ASIANPAINT Stock Price and Chart \u2014 NSE:ASIANPAINT - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vNmxtUW5HczFLWkxVUkpiU1N2SGRRSmh6dnl6WEpyNmdjekFnX2xqSndmWWFsdTl4Mk8yZkhERFJ1djFjaktaVHBpS0hPYmJUTC1GZ1NiQy0tNFN4eUhfZw?oc=5",
+          "published": "Fri, 21 Jul 2017 15:14:11 GMT"
+        }
+      ]
+    }
+  ]
+}
