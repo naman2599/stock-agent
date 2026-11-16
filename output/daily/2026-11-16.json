@@ -1,0 +1,301 @@
+{
+  "generated_at": "2026-11-16T11:52:57.872827",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "AXISBANK.NS",
+      "name": "AXISBANK",
+      "score": 88.0,
+      "indicators": {
+        "last_close": 1342.4,
+        "rsi": 67.7,
+        "sma20": 1259.66,
+        "sma50": 1249.8,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.78,
+        "high_52w": 1383.43,
+        "low_52w": 1186.5,
+        "pct_change_5d": 1.47,
+        "pct_change_20d": 4.22
+      },
+      "levels": {
+        "suggested_entry_zone": "1328.98 - 1355.82",
+        "target_price": 1383.43,
+        "stop_loss": 1209.27,
+        "risk_reward": 0.31
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline",
+          "NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why - Upstox"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Axis Bank Share Price - Live NSE: AXISBANK Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sRHdudklyeHpNVkNfMmpDYkhZLVo3VXBVUjByU0JkekxYNUVNMFphV0R5Vi1vQUd1YVBRU3llVDRCLTcwSnRTMnktT2VvaTVHVWZkSXB6Ylh2cnRpU0J6Y2pJOUVPRDQ?oc=5",
+          "published": "Fri, 13 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Why Axis Bank Share Price Fell Over 5% Despite Strong Q1 FY27 Results? Key Reasons Explained - India Infoline",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2JCV1VpNEF2bWdTRXdLbDg3akg4YkppbUd3bUxveVFobE9LU1dGRFVHQ1l5LTV4XzdNN1BhVVRSQW9pS1N5VndNdkZxQzE0NVJMZjhWWUl0bVR2UUxZSGYwNDVGMnlRdy02VE5HbGsxR09iVnd6cHhJeXpXbi1mcl9iTEEySWhrc055U3Ztb3NqdThJaVZOME1HYlB5amJ2QnA2S01idjhiaHY2RUZ2VGVyRzFaWHJ5a1JPZ2Zhd2VQbzE0bW9ndmM5d3NaYmhy?oc=5",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "NIFTY Bank reclaims 61,000: HDFC Bank, Axis Bank, Federal Bank, other banking stocks rally up to 6%; here's why - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa0RvSWFtNF9xTmFKQnNuN2xad3dBWk5vQTBSeGhUYjhDSFhxRks1VTk1eDBFVWNTNlllcGdZazlnQTJYVDNzVlZNNmw5a0JzMGhZWGZtcEhURzVQNGIzNThoSjMxakQ5ZTFEVS1HNXVwbWpQQl9YX0E3RmVjYUlQUWZBVUdBS0hlODcxSmo5NTh1YXVnZjBLMlBrNGR1bkdVM1ZKcTh6ZUg2dXZyTmtUdVFZbjZnSzlnVzFKWXFhem5HalRicXM5RFN6d1VPVEJuMURPYkNjaGpmXzNtOEFBT1RBemZxTUVmelFVZDBJdHJzdmtmWGlF?oc=5",
+          "published": "Wed, 11 Nov 2026 06:43:42 GMT"
+        },
+        {
+          "title": "AXIS BANK SHARE PRICE - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsRDh0N1ZYLURueDdleURpMm1HQVdvUE96d2pPWG5jQ2JNMU1pWWswT290ckxpTEZwM09kRS16aG1CS29nZ3pqRkpKSmtoc0lRTmw5Nk82MnJON0g0OVdkeEdoSkdyajlraDh0UA?oc=5",
+          "published": "Sat, 08 Jan 2022 16:14:35 GMT"
+        },
+        {
+          "title": "AXISBANK Stock Price and Chart \u2014 NSE:AXISBANK - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOTE5qSnJkNlV4RGt5SDBXSEV1YVpPdFRiRjN0YnBmcmUxMEQ4c1EtaDZpdmJyYlFMOS1CWVhnTXpUQk5FUWZtd2IyUXBWeEgyMXZ2N0RXaUdRY0pWR3c?oc=5",
+          "published": "Thu, 20 Jul 2017 05:50:58 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "name": "ASIANPAINT",
+      "score": 83.0,
+      "indicators": {
+        "last_close": 2572.9,
+        "rsi": 67.5,
+        "sma20": 2400.14,
+        "sma50": 2412.68,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.04,
+        "high_52w": 2803.37,
+        "low_52w": 2271.63,
+        "pct_change_5d": 1.06,
+        "pct_change_20d": 9.74
+      },
+      "levels": {
+        "suggested_entry_zone": "2547.17 - 2598.63",
+        "target_price": 2778.73,
+        "stop_loss": 2304.13,
+        "risk_reward": 0.77
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead - Fortune India",
+          "Crude oil at 2-month low: HPCL, BPCL, Asian Paints, IndiGo shares rally; here's why - Upstox"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead - Fortune India",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVFicENfM2MzeDYzZFlEZjVqeWR2Qlp5VU5XUGlmYXVUUlRGSFdPczBvemxxNHRLWUF1TUxoYjR0UmhKVkUzOEFQTC1fRTlfM0lCUWVIcTg2RlFwQTYxel9YZm5TN0xrRmRoZkt6RXRFc3pIdGlqY3ZsR1MzT0hKelJrTUl0ZmQ4Q0d3a0VuajVzZFZoOGpEUTlMSjRFRmJXM0NKcDBxZXZMYVowVnNUYkpNMHNoQ3VsY0ZjRE8yRU1HT3g0X2FyTHBnSjFhZVlmUmthNlllTWRLTHVO0gHqAUFVX3lxTE81cUdGUk9ON3NRVFA1VDZFWE9vTW5IeVNqeWo5MzBTV0d4NEd0cE1jcWo3RDJFakdqY2tQOWNaTW1NUlVqNEFSUnk4dE1NZG5NNGtCalpIR3hHbE1BenpqU24yUm9xUmdvQ3pRR1B1d25oMUl1c2pUVGdvUHM5a3FRSHVqUDMxNVd3c2p3aHFybVFPZ0FpYlF0RjdBZkxfQ2lSTFBsaGtlSGQ1YVo5RXl4dmJKRy1BZ0RVanFHeVNuaXBaRHRpWURMQXhKZkctNi1Pb1hkUE54LXpCQnpxWXJ4NkJwUzM3VlBxdw?oc=5",
+          "published": "Mon, 16 Nov 2026 05:30:26 GMT"
+        },
+        {
+          "title": "Crude oil at 2-month low: HPCL, BPCL, Asian Paints, IndiGo shares rally; here's why - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMlRPZXoyY1RIc181dl9aaEZqWEZyYW95Z0VHb1dlajFRck1YTk5fRk91MXVyWmh6d3VnejRYejh4djZZYlg4X2dQc0c4Z1c5TDR5T2FENXh0SzJMckZZNTZEUVlhbTR5WlVONHg2UlBDNDZJLUhSMklTMTZ4Umt6UWJvb1RhYnI2akhfZHZ5RUhyMXpsbmhHNkttY240bzhDQmVGR0V2T2ZkNnNTSHc0SmxBbmdtdjA2Tm5VQ0E1UHpqNnRNcG9weEJSWXZuR2VTdzFnaUhwY3c5VjkwSEM2UWlUTlE?oc=5",
+          "published": "Wed, 11 Nov 2026 02:11:54 GMT"
+        },
+        {
+          "title": "Asian Paints (NSEI:ASIANPAINT) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkN2OHNyOXpLdERkVVhrMFhJMkZoMVVsZ1NkdXNOSlRtVEhRT3dfN1Qxd0xYOERaTm1wamJ0R3pCVVo0T2NiSTZSMzA0WWI3VEdpY25xc1ZJWEF1RTJEcFFwaDZtNER6RkpfelFEZHJYeXRXdkljOHRDTnZyMEpTdzJMVzl5Tll1ekxZ?oc=5",
+          "published": "Sat, 31 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Stocks to watch, Sept 24: NSE, insurance stocks, OMCs, Asian Paints, ONGC, Britannia, HUL, Avantel, Bharat Dynamics - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMUc3UTFqZzNXZ3hWdUdBVUdjY09DUlJPMXNwNnA1bWZSNE1fVUxpS19jZ0I2ckpYb0hLdnM1TGE1NEZjaTd1OFpBZElFNHRBZmZmMEFORlR4TmxfV3IyczNEbVVjUDFfdnlvSDJDQ0FSMWEzSVpPYWlYcXRLNnBVQXFtOUNob3B4eENzV3NZS096SHlyalJHbi03UUk1eG1EWm9jdjBxRzFzZ2Y5cnczRzJVbVdLMEQ1TXY3eldEdlgzRGJ1cXQzczBLYUJrT1EtOWJrdHB6aUhLYUNmZWZJMUkwSGxqOXZ6Z005al9feENUMFg3bUU5Ng?oc=5",
+          "published": "Wed, 23 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "ASIAN PAINTS SHARE PRICE - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12Y2JlWFpKc0xiRkxleG5mNlZPZnJsZHpGamQwT1ZzRGhRaTVJQm9qYnJFdFhxUndjYk52dlNkSmZXT0tvQjkwRW01NUVhQTkyOVRJTkZJYzUxc3Z5NUlkN0VXeHk3clpRQWZWb1FDNXM?oc=5",
+          "published": "Sat, 08 Jan 2022 09:18:21 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "INFY.NS",
+      "name": "INFY",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 1145.1,
+        "rsi": 56.2,
+        "sma20": 1139.95,
+        "sma50": 1069.99,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.33,
+        "high_52w": 1216.03,
+        "low_52w": 963.23,
+        "pct_change_5d": -3.07,
+        "pct_change_20d": 5.53
+      },
+      "levels": {
+        "suggested_entry_zone": "1133.65 - 1156.55",
+        "target_price": 1216.03,
+        "stop_loss": 1094.35,
+        "risk_reward": 1.4
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Indian I.T. Stocks: Can Infosys, Wipro And HCL Tech Regain Their Growth Momentum? - Business Today"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Under Rs 1145 Stocks to Buy in Nov 2026: Top 5 Picks - Univest",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1OUJMaFJwYUZmTmNWTTRtXzludmtwSmNZck9xdF9TTHpvOExhWDg0TzYwQzdIemNRbl9FdHhaX01ma3duYXNBOU1pdXVwWUh3R0pWaFpCbm9wQUFWcG9ZVVRn?oc=5",
+          "published": "Mon, 16 Nov 2026 09:25:00 GMT"
+        },
+        {
+          "title": "Infosys Share Price - Live NSE/BSE Updates - ICICI Direct",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51RVUySFQtMjZacVVoWEVtX0pwbzBIQnNKRno5UDlpNTlodzZvQlItVV9oNkhhWnJGRDF4MF9nbkFPcUhTTkUwbGN1SC1BSjNRZWlobGVEQ1BjZlN4Q3NWLWNSWndycDZmNXc?oc=5",
+          "published": "Sat, 08 Jan 2022 03:47:11 GMT"
+        },
+        {
+          "title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+          "published": "Wed, 19 Jan 2022 18:26:34 GMT"
+        },
+        {
+          "title": "INFY Stock Price and Chart \u2014 NSE:INFY - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTNGNjNDFJWU1YenVETEJSRVVHaWdONnpZX3FBakhzQ2xsWEk2Qy00WTVHaGoyemFseGhlay1LSTZUTEpxZmVKajFjNDltRFZXbGRvbUtHZG8?oc=5",
+          "published": "Fri, 21 Jul 2017 02:11:56 GMT"
+        },
+        {
+          "title": "Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZlA2bFdGaG1zcno3UkljblhTNXFxazFSbDV5SlJCTmZ3ek9qSng0MFN6RVRfUVR3cTNJR0NRaXhMS09fMmE0YWp5YTkwM2lXZEZPaHBPX3RYdW1mWjFvRTlPNndTLW9MTnlwWm5VZnZBQkZmaEFaRFJUdmdYRVdVYVdVZmg3bUpEc1pSaHVJZkRsQm42RU5jRnRrYi1kNkR4ai1EM0taOUsxZTFrcnNHcldQNnJHc1Z3cnp6cTEwc0N2Wml4SXhWSVlrbUtzUUZ1VWROUmhuN3lLdzdDODFjcTJxYlRMRW93bEkzZVBmc3dMeVB1dWw4RVJFQ0o4Mm11WmpKY2MySG5FUVXSAZMCQVVfeXFMT3FlczhJSkF3VWlMdzFqdTFaWmUyYVhPeUJZa0FHZTdNa3UwUmJEcEdSQlhvZWdheGpaLUk3djVxRmdQdGlsLW1ITHY5YTl6TGd5dC1jazlaV2Z6blJneTZVV044eGFkRzNPV0d5UlBXdUxHbi1nV01sMEFSeFJXZGhLMlloUno1XzRJNDVTMHJGUzlLaUlUck1kMnhUcVpHWk9VQVhiUDZreTVXeGNDWlhlTmRhMHlhOS1WcEI0SnN5Z3JtOXhaRk5lWVBpRm5KZEF5SzVUQ2ZqcG5fdnBuQ1FVYy1mQU5lUTFlTTZvTndhRXd2aktrT2d3czNjbWhLTWpubE1PdWFianZ0Y0VBeGFoQVE?oc=5",
+          "published": "Mon, 16 Nov 2026 04:46:10 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "name": "BAJFINANCE",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 1110.0,
+        "rsi": 70.0,
+        "sma20": 996.46,
+        "sma50": 999.81,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.81,
+        "high_52w": 1158.8,
+        "low_52w": 865.23,
+        "pct_change_5d": 2.05,
+        "pct_change_20d": 15.0
+      },
+      "levels": {
+        "suggested_entry_zone": "1098.9 - 1121.1",
+        "target_price": 1158.8,
+        "stop_loss": 956.6,
+        "risk_reward": 0.32
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 1,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "Weekly Recap: Capital raising and quarterly profit and AUM growth - TradingView"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Weekly Recap: Capital raising and quarterly profit and AUM growth - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGtVZXFualB3M295ZldGWmJzaC1iV2N1NzhKXzRtY1I0UUxTZjFIM3U5amtXbUJsLVJFX1ZzNTJqNWMzamFPQ0FIVEdBaERtcEtibjFqcDZmMDB5OTdsQUJUN05SQlpGQmFhVlA4d0U2TjV1QS1aTUl1T3ZsdHlzU1QzMWNXSEdsSWt5Z201OHVLUG54MlI1XzFVRzczbGRBUkxtX0swczN6Q0N6R1lrSEkyby10ckw1Y3lCX3VHUE4xUHdq?oc=5",
+          "published": "Mon, 16 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "Bajaj Finance Share Price - Live NSE: BAJFINANCE Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uWDYwYU9rV1lTNktHU2ZCaFBmU3p2OWIxTjZJNWZ3dVpZU0F3bG1wTVQ1QzFta3RNbGlKam1rV3NPd0ZsUDVGMm9mX2JVZkUyZWRwckVSRWxTNmFzbzFJak5BRDY1VU1qblFtSQ?oc=5",
+          "published": "Fri, 13 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Bajaj Finance Ltd. Share Price Today - Bajaj Finance Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODU5Y2xkN1gxcTZKUkw3RUVvVzFwQlFXcHBKZmlUa2lSbmpfVnlkc0JEWHZGdWZJX3hYdy1TRllhQXRCdVJBTTctUmYzV1lQRm4wSnEzdUhjbkl5dzRyRGVpRmt5ZlljY05DenZzdnJ3X2d1M2Z6MXZsOTJzVU83cnNn?oc=5",
+          "published": "Thu, 12 Nov 2026 09:59:00 GMT"
+        },
+        {
+          "title": "Bajaj Finance Preferential Warrant Issue to Bajaj Finserv Explained - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbG03OU5YX3dWYU02ZUVVYmRzckt3cDJVZDFmUDZHcVhaS1duSWliOWlNWkUzek9SUVFzdlRseENZQ1FfT3k4YU01NmEzSHpGdGtWWFBOaUVUNm5WY05Kc2hyUGtDZlVRbGRxUFd0YnhhbjdpOVRvVEwxNHlkV0MxaWd2UC00Vm8zZUdkSXhnRy1pS3BNb0Z3QWd6MXB5b3BCOFNZdXEwNmFlVlQzbGprSDlOaVdQTXlzMU1PSzJVajV5clZGbWtBNmFHOFpwN3JXVzNwM0RiYWN2UHQxMnZOWlZWbEZzMThH?oc=5",
+          "published": "Tue, 10 Nov 2026 06:45:00 GMT"
+        },
+        {
+          "title": "Here's Why We Think Bajaj Finance (NSE:BAJFINANCE) Is Well Worth Watching - Simply Wall St",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNWJwaF82Qk5tcVQyZFlZZVdMNGt5MnZoMU9PYVVHUXc1enNuOWV0ZWp2NUdkaTFXUnVrV3ZadzZPbGEzSl9vM2lIY1RMZzhHMmxqazMtU3gzWGh0VGEtanUyZUd4bi10eGt1OFhVVU8wWjR0eVhqbGZsTWFLMm9BZFVIckFodlRvcGlsRkpkWE5QRkg0NkxoTjkxaTZfaFJtN2lJdkxqSTNvVzhJTVdkc0p2VU9xZEx2MHlLcU9HSUg0aEZrZlB1UC1CeDE3QmxzRmdpQTloN082bFl2eDhlNWRfOWNUM3pSOGJxZ1FHRdIB9AFBVV95cUxPcmI1ME1LZ2ZPTWpMeWR4LWVtQlhFNjJWc2xkTmJ1V1Brb01SVFRjakI2dU5XRzJfQUotanI0U1UxUENXZG9kS1hXejRhcGw5Mll4V2t2YzhHMjlBay1FUWxxc21GUlQzVkRWTklscHZmcUNuRUhsem5KM3VUQUlVRmw3eWR5X3RpWVBZcS1CMVotZFgzcG9LQ3JnREhqNEtaM0tTQkRwd3R4czNCUVhad0ptQUhCR2VpdFRwSVo4N1dSZ1lLcnNxbkNSZm5uNXdwSDdrRktzNmlLQVEwRHN5MXNUaEFVamJhYkt4SzZRemxiSGtP?oc=5",
+          "published": "Fri, 15 May 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 70.0,
+      "indicators": {
+        "last_close": 2405.0,
+        "rsi": 50.4,
+        "sma20": 2479.88,
+        "sma50": 2288.4,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.4,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": -3.74,
+        "pct_change_20d": 2.34
+      },
+      "levels": {
+        "suggested_entry_zone": "2380.95 - 2429.05",
+        "target_price": 2535.0,
+        "stop_loss": 2308.8,
+        "risk_reward": 1.35
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 2,
+        "negative_hits": 1,
+        "flagged_headlines": [
+          "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
+          "IT stocks today, November 16: Tech Mahindra, HCL Tech, Infosys and TCS gain while Route Mobile, Cigniti Technologies decline - Business Upturn",
+          "FPIs Invest Record Rs 13,514 Crore in Indian IT Stocks in October 2026 - Dalal Street Investment Journal"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "Indian stocks slip as oil, inflation cap weekly rally - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX1E4QjJWZklPblVub0xweU1jNXRDdDlBdDFpbDFlZDl1d21idHhkbnAtTkZOcGEzZ3dSRnh0dWhQOFRPQXRuQVR2QkE0RFVvbnVSM2N3MmtWZjhsa0FhSGRLTlVtZUxXeTVGQUlUWTQyTjlwNm9HT2pvek1nZ0JXWkVWd0FVdEdvMFpZbkxuU2VlcHFUbDMtNzlzc09oeVB1eVVLaE12MHE1QXh6eEFIZ3lyUlUyRks0eU8tbA?oc=5",
+          "published": "Fri, 13 Nov 2026 22:41:15 GMT"
+        },
+        {
+          "title": "25 Per Cent Operating Margin High ROE Low Debt Stocks: TCS, HAL - Univest",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnMza0ZEN0JUMTVYVXFSckt4eXpDRUhGY29rb3RKRG5uQzBvMVJrLXBYWVROcFRnVHFyTi12T0FmclZiNmFrNHBwRXVTZnRvSDktaS1uZWdIaFFjamZRdVpkcGpEWjdzTDlZcFBnV3Vxcmx1LVpHdGFBcy1qNTZLb0Z6M0pvM3ZuOE1MdGFTR215R0JaeDZ4M3FqNlhkQWpRRTE4cW51Tk1mQXZhc1FYUmJ4Q1VfLXVwWFE?oc=5",
+          "published": "Fri, 13 Nov 2026 07:51:00 GMT"
+        },
+        {
+          "title": "TCS Share Prices, Performance Trends, and Dividend Payment Details - Tata Consultancy Services",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nTDR1c3pMNnhKdzhjT1lVWHFISm9nV1dFODhEWVg1MFQybWtIR00yWnlUdEpyb2dhSGx1RHJfN2pYVlJzSnNORGsyWUs5UnpfaFNocjlfM1hjSkNhWTVNYUtEeW8xS1U?oc=5",
+          "published": "Fri, 25 Nov 2022 13:12:08 GMT"
+        },
+        {
+          "title": "TCS Share Price Today - Tata Consultancy Services Ltd. Stock Price Live NSE/BSE - Univest",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzRiUmk3X0ZrcDR5MmF6blZwYWM1MnNOdC14OHhCOTFQV1h5dlowT21qWHU1UTltbWNsekhiX0k5dkNsV1gyV3FDUWcxbE1HTmdmMldIM01LMmxkN2Rya1ZNbXpfS3h2Q2l5RGdrZ2lDNXhBSjhiR1ZvbWhCSktxejRlOA?oc=5",
+          "published": "Sun, 07 Jan 2024 18:15:51 GMT"
+        },
+        {
+          "title": "IT stocks today, November 16: Tech Mahindra, HCL Tech, Infosys and TCS gain while Route Mobile, Cigniti Technologies decline - Business Upturn",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTHkyZjRTdC04V3BmdHVxVFYtcnduOWZtM2UwOVhhZm91YzBUbUlIUTlKNElGQUdCWDI0eHJZQnpONW9vaU9qRDdDVjI4TjEzVnNVd09qVHNiMmlNM2RSck9yR2dNMU9QOXQ0TWVoRUZqZFZGSEpSbk9LTUFqNWtHQzF4NmVfN2xLN1BCV1lTQjVFc1RUSWdyTktMWGRmSTZhUWhHUUNiSWxRaVhBZzVyd0MtOFVMeTZZUFdSTV80cm5aeXhNVXVWQlFBOEFGQ3FXNGVnbEZDQTU5TWY2cW9MZVEtS1JYeTVEY0NZeDZGYll4UGxNMjN0UFpwUWM?oc=5",
+          "published": "Mon, 16 Nov 2026 04:34:43 GMT"
+        }
+      ]
+    }
+  ]
+}
