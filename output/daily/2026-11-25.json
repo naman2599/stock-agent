@@ -1,0 +1,290 @@
+{
+  "generated_at": "2026-11-25T13:19:02.489909",
+  "mode": "daily",
+  "disclaimer": "Informational / decision-support only. Not financial advice. Based on technical indicators and public news headlines at generation time. Markets carry risk of loss; verify independently before trading.",
+  "shortlist": [
+    {
+      "ticker": "TCS.NS",
+      "name": "TCS",
+      "score": 88.0,
+      "indicators": {
+        "last_close": 2517.3,
+        "rsi": 62.5,
+        "sma20": 2452.66,
+        "sma50": 2305.38,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.41,
+        "high_52w": 2535.0,
+        "low_52w": 1961.36,
+        "pct_change_5d": 4.6,
+        "pct_change_20d": -0.7
+      },
+      "levels": {
+        "suggested_entry_zone": "2492.13 - 2542.47",
+        "target_price": 2535.0,
+        "stop_loss": 2354.55,
+        "risk_reward": 0.11
+      },
+      "sentiment": {
+        "label": "positive",
+        "positive_hits": 2,
+        "negative_hits": 0,
+        "flagged_headlines": [
+          "India's Sensex slumps to 32-month low on oil surge, foreign exodus - Reuters",
+          "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks - Yahoo Finance Australia"
+        ]
+      },
+      "headlines": [
+        {
+          "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
+          "published": "Thu, 08 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS Reaffirms US Hiring Plans Amid PERM Update; Shares Rise 5.06% - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HNkw5eUQzQW5iZFlPbENqbm1nX0g4TWVCbjJfTWVwWmV0aUJZNnVweWNPbXdqSG9PdWRqdGNxeERxd3ZpNWFoeUJEY0hvNE05VldWV3dQNW1BRVcwWWVlNFZCX2g4b21GUUtKclk1NllISEQ4OWZBcWViNlYzQQ?oc=5",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS Share Price Target 2026 \u2014 Key Factors, Financial - Univest",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ySXdCOTRiZVV5Y0laY2FWUzN0N2FpdHM1dkVJdVpPNTNlR3h2d3BqamludWZoSldNRnFubE1pTjhMR3RxVjVkd21fR25QdkxyZThJZUVyX3YxTmM?oc=5",
+          "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "title": "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks - Yahoo Finance Australia",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFZoTlFfelVnNGIwWUpiaEs1ZlVVc1hwMEpPcllZc2FUMkhlYl9IekVQRlg2S3VfZDNWYW9LZmV1dTBvUllsVFhoLVhBUnpEcFNFemptTF9MSDNnUW9rb2lhdlA3LVQ5TWtJRzcwd3lWQXdPVFpHdVRhZEg4OFc2UA?oc=5",
+          "published": "Fri, 09 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TCS, Infosys, HCLTech rise up to 4%: Why are IT stocks rising today? - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZkdUdjlGR3gwV0x1SF9zVEZtRzExUUVOcHl5OVV0bkhNb2xrWERBWGo3N0JxYktPa0dzVlRpOXFwcEtjd2lzcS1KWm1YU0t2a1haeUNaLTlpUmY4N09sVk55SzdSTDN5M3BITjI4bnZ1QVZtXzBnWFZHY3BWRU52WE5DdTRyVnowOEZTSjFnZUMzUks1OGdoVHA5UHBrdV9Fb1F4ZnlqcTh0UEp3SXotam9LcHpFQTN5YXI3ZFAyblJoZS1YZ0VtWXpDWmRmazUxQ3RIcXFadW5ybUhyNUw2UlJwdkJCdXFqbXFZ0gHwAUFVX3lxTE8teHFDUlc5N2xzZ0FLMUM2ZTRhX3llT2JnTVdBVngyTl90cjZJbUlHREpwYWZCY1JpbUdDd3FRaW9TbnRfMXNHTUpBekh0NExMM1BIajNDekJkZ1l6dW92UUtkR3lpT1JQbnFyYU03dHQ1SVFNem5oQzdYeXlZOVJvdWVMQ04zNU5JZVVtSm1WLXdRbmZ3QXZ5aC1YekpfSDFPalRZaDM2UmlfZ0NvMWNVdWdNbnJWRndXeHU5Z1g3eVNmb0x2TVcyb0ZHMVFUZzFRUkpXWGdrR21KWmhjdmpIVVpEVlpuelhkdlY1dXlmSA?oc=5",
+          "published": "Fri, 10 Jul 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "name": "AXISBANK",
+      "score": 80.0,
+      "indicators": {
+        "last_close": 1418.1,
+        "rsi": 67.2,
+        "sma20": 1308.51,
+        "sma50": 1266.19,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.3,
+        "high_52w": 1446.0,
+        "low_52w": 1186.5,
+        "pct_change_5d": 3.59,
+        "pct_change_20d": 16.24
+      },
+      "levels": {
+        "suggested_entry_zone": "1403.92 - 1432.28",
+        "target_price": 1446.0,
+        "stop_loss": 1256.17,
+        "risk_reward": 0.17
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Axis Bank ESOP Allotment: 2,82,061 Shares Issued in Nov 2026 - Kalkine India",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUo5OGRMQjlnSFk5WjhOZUJvNUk1dVREb25IN1VGbHBZdjBtaW9GTGc3MXdDU3FrYVA4eXB2YWNLTDZnS082Vk90TlFWMDk4SHFrSXM3MzlzcDRic1l1cnp4cGg0TXVxSWZ2akxFNkY2Z1pDTTYzYlJDRGhUZWR3S3NGanAyMDR6UWpucU1Gb2JNVEVlTkRxcUhSdHhIVFpjLWRLbDUtZVZrR1A4WmM0SGVUTm9JeTNLMzNr?oc=5",
+          "published": "Wed, 25 Nov 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Axis Bank Share: Cons Every Investor Must Know in 2026 - Univest",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5akRMa2RSU2I1VDFPbDJyM2h6WDg3NmZOYVM5UHIzZmI2N3lvajNiWU1TV09YSk1mLTY0dmpGOWJOc0VwTkFIRXJ3dkRVaGYxdlB1ZEU2eVBMT3BhUlVHSmI1a1NCa0VqQTdB?oc=5",
+          "published": "Sat, 21 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Axis Bank (AXISBANK) Share Price Today (NSE), Market News - TechGraph",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpaFJ3SDB0UG56VGoyS1RrOWFCWTMxZ0tGeVJncS05VF9iRVV0a2h4WnVwdUUtem54aGZkU3lrWi1GVkVJYm11RElONTZvcDN0b3J1YWlqXzNJaFF0TjR1VS1R?oc=5",
+          "published": "Mon, 07 Sep 2026 00:42:53 GMT"
+        },
+        {
+          "title": "Trade Spotlight: How should you trade Sagility, Graphite India, Axis Bank, Apollo Hospitals, Oberoi... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNa0pNVDBmMmxoLUlUSVZZZUFSZkh3aVY4WTJTTEFwemlPM1lRdG4wWlYtcDQxalJ1UDZVampUOWpUQldsV05YaTcybjB3UE1lRWpUV2lhRVRKSlJGUWZNc29FMzF1VHFQc0gxaWl4WTd5Y3EzY05NNWdQZzQtNlpyX1M5MnMyMWZwaFpLOG8tX2g0WFdRQmY1ZExvdlJZV2dPVGlma2t2SFp2M0U5aWFZM0FiSjdYbVkxUEQwQ2ZIWVItX0N0MkdLRnpZMlZNTzZTMFZGUEd3aUx5eW83Q3V2QkN4TDNXbi1VOEVwZ056QzJ1U0drSmlqYi0xM1lxWmdzLUY3czRHNU5VWWJfdUVzeE9rek1BdG9taVQ4SkdGa3pzd2sxN0RhNUZhcVdtR0NNSjRB0gG4AkFVX3lxTE5ONUdqMGI4em5IUloxbWZNeFNzLUJWc1VLU2hQYlFHNFVoMEhaU3VxbExoYU05LVFVNV9JVnc4VnNOand1UzNGZGh2dk5hVXBtMWo2WW9iT2NDa1lxVDBFODVYMFEzZy14ZDhtQjFBR3k3ejNaSFZ1dE9tZWpaMTJvNFhMcFZ3a0R1amJDQ2hEX09YeEFaWGpPZ1RoTTJKU0hSTEFsQjRfbGZRZlZTQVlCanpSU1JyVk5ZUlFOR3VWMnh1OWxrTS1STXczWldCOW9ra3ZoQmZZVnM4XzdoQmYyUUhQMDFLU0pDSmwzSzRXRTEydHFrZTVlS2FEZjNmdm1MeU45R0tmLVpDSFVta3RkeTExVG1ETHVyUWZUSGdhVmd3dV9uSEE5djZlY0RMVE5ZZ2FWS0IyMg?oc=5",
+          "published": "Tue, 01 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Axis Bank gets final nod to list $300 million senior notes on India INX, NSE IX - CNBC TV18",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVVCb2l2X2Noenlvb3ZjTXlRNUFzM1E0eHpranh4TGcyeWZkamN2bDhiVzRwbXZQTGNERVlNRjl2SC1mVC1xYWFvTHp2ODgxRWhfd3I3ODhqVlVxd2pwTXNwV0VPN1NNX3FhNHRCdVMyRDNFNlJTNG5KdmQwWkxOTy1zYk5mR1VOWElDLURkc1F3X1F2cklFQmVjdERnTWRLSm1KQ1RzSi1mZDdxbVZycFlUNGFmaHE4Vmg4UG1GTFI2allVS2swODN5c2dVd2xfZ3BKSmdsV1fSAd4BQVVfeXFMTy1ZWWZ5TmFuOVYxOXAzSmNNNGVQSUpTSjlxQ21fYnY1OFNDSkN4anEzNDlENkNSRHBIcTRua0lrM3VpdXBZWFZRemFQcl9pTHhSNjl3NkxjN1ZIYUtXYmpJdWw1X3ZsczVHa2Q3eWc0QlI5WkdXVC11UzQ5WEpSem1yN084aF84YklOc1c5YmJmYnNyMUplT1FwaF9QV3VuRm9nc2dHSTF4a0ItVzNmN05lY1VqM3ZhQjhMT2FPdXhDdUlSVkdiQTZKSDR0SkQxOWNmZ3VQZ3FhenNMdTNB?oc=5",
+          "published": "Fri, 21 Aug 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "RELIANCE",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 1373.9,
+        "rsi": 68.9,
+        "sma20": 1306.54,
+        "sma50": 1247.95,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.87,
+        "high_52w": 1377.5,
+        "low_52w": 1158.0,
+        "pct_change_5d": 0.5,
+        "pct_change_20d": 14.32
+      },
+      "levels": {
+        "suggested_entry_zone": "1360.16 - 1387.64",
+        "target_price": 1377.5,
+        "stop_loss": 1254.28,
+        "risk_reward": 0.03
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "National Stock Exchange of India (NSE) Share Price Today (BSE), Market News - TechGraph",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnRDQUV3bE5qejRuQXZXRnNTUXpKaGNXMXBUOHBoQllrQmJqVTJoVnRvcDNBRmpXVVc2X1BIM3RibzI1ckI4NWJJUXhWelBMcGpmN3FjcGM5UGRDLVR6TXhmVGY4LWpzeldNbjBzUDRoNFFsd21qSXFtWk1weGloVURxaFVCSUg0dUtuQmtnNU0wSGNNRlE?oc=5",
+          "published": "Tue, 03 Nov 2026 17:57:29 GMT"
+        },
+        {
+          "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UC1TUVNmSU85cGI4cmlTMldPak1pWm5YN18wbDlYNER3QTFRR2xxMk90cVVkXzhvTTV6bDc3S2YzclY5OVRtX3Zjdks2OVBBdzQ0NU5nQTZ0VklVc3libFJWUXdETFdVVlB1VElzLUs2UFgxYVNEMXdpenQ1Z9IBgwFBVV95cUxObzRqSDlkYzNRRjIwTkdOQ014TmdsR09oZV83TDgyb3IzQmloM0tOZGUzcDRyTnVIc1NlTlNIaEJyemlUQ1RSVUw3SDBObTFHMzBjbnYtNG93b3BDX1VVc0dzMUtyb3JyMUhXR3hjMFFRLTZjQVItWmFmaTR4OWtsTElxMA?oc=5",
+          "published": "Sun, 30 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "India's largest bourse NSE files for IPO after years of regulatory delays - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjNWN01mNXc1ODR1QzViR2gtZl9fdmRMSFFhTDlJQ25ZUDJyTGIyTUVKU09fQ0loQUtKS042a3FIdFExMWp0RnZ4STB0bXhQVF84Ykk1T0VWMFhoNzVGV0FWd3ViOVh2ZWJ2WkszQnpmSFFoWGlHS3pjZjRWaW9va090Rmo4WTgyaEpiU1R3UVRHYk1jU3JVWkQ0M0o0MlZfdjU0M3VudlAxZkZLR0dzMHlHMA?oc=5",
+          "published": "Wed, 17 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT19OcDVxMUh4WE1rc290eVF2eTNEc1UweEt4Vk1FRmw4X3NMOGs3SU90T2VmMmhmRnNfMEVDZ1NTUU1oWlRGV0ljblZCVGU1NFpMV1hwTmFuVEl6Uy1IclB2WUJBajNlUGpTZG9TZEZTcmQxcmplVUl5V3BXdmtJbzBiYnhldThoMnFQYlA2cw?oc=5",
+          "published": "Fri, 19 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Reliance Jio Platforms IPO allotment status check online by PAN number on NSE India, BSE websites: Direct link, steps - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT200TjRIT3prcUhUMGJhS0MxN3VYTHBjMW56NzZ2OWVxbEVnSHpVemxvZENtM2paZE9JbDBrSlVfM0N0bkR4anpwaHNMN0N0QkRoVDZ5MUNFYTM1SHNtal8yUnRmQ0dGSFhoQlBsMDJUS2o3d1JRaEhyMDYyZ1E0N3hhTzFjbmF3SVRrZkF1NDFDck0tSlpyVWU5WmUyRFlMME41UXVSUlJNOFg3cU0zcGt5dUlMSFR3bGxfVElXczVWZFByQ0MwYktRY3pmMlpfWlF6c0dMVFBRWFkwdWRxVjg1REFlblNVWEItSEtTb0pKQ0F4aDhEd2NobkMzeU52?oc=5",
+          "published": "Sat, 24 Oct 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "name": "BHARTIARTL",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 2117.5,
+        "rsi": 62.6,
+        "sma20": 2075.9,
+        "sma50": 1926.59,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 0.78,
+        "high_52w": 2161.7,
+        "low_52w": 1741.1,
+        "pct_change_5d": -0.97,
+        "pct_change_20d": 10.43
+      },
+      "levels": {
+        "suggested_entry_zone": "2096.32 - 2138.68",
+        "target_price": 2161.7,
+        "stop_loss": 1992.86,
+        "risk_reward": 0.35
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "BHARTIARTL Share Price Today - Bharti Airtel on NSE/BSE - scanx.trade",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NenFfV0tfelcwTUZ5SVFva2hGZUdqekowbmVqMXpIQnFRVkgwakU4MlpTUHNSVzU0Z2dXQzRpNW1zVl9pVndxWFVSRzhKTnhPWnVqa09hbUk?oc=5",
+          "published": "Wed, 25 Nov 2026 11:18:21 GMT"
+        },
+        {
+          "title": "Bharti Airtel Limited (BHARTIARTL.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qLTh0RWhrcTJKWmcyVHJMQUMxNVp3MHNNTzJab1VpUl9wQ0dsVUp0azBGZ0tSYjBwZ0Y3bWFtRmV2QUZtVFlaSnREdVh1aVE4MHdiM0o5M3FfMG5RTGc?oc=5",
+          "published": "Mon, 23 Nov 2026 12:55:48 GMT"
+        },
+        {
+          "title": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yVGN2YlBzbU5xc0FJSkctUlVUMzAzSHdiOENtSzV1TlJyZHhSVGZIVVVyUEw0MVpwMm1HVDRxOGM3akMyaGhNaUZUZ09TQ0N4b2Vjd3lLaW1DaEg4QXRJbU5BQjZJcjN3MGlBSQ?oc=5",
+          "published": "Mon, 23 Nov 2026 22:44:24 GMT"
+        },
+        {
+          "title": "Weekly Recap: ARPU and share gains and Amazon Leo partnership talks - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1RreXdyN0RyOEItaHBDckNPQnlfeUJpMklLTkV0bFY1ZUQ4ekVtTkN4TGIxLWNZeXBzcGV4QTNVWEx3czBTcEFPQ3BIaUxvR0V3UDNxUUNmemhTWHFVSUI5UDlKMUdKQXlmSG5mclFwQ1VrWk9nazMtQmMycEFINWVLeHhtRldPYXpIQXNyTUMwTFhuNjdyLTY4MUVRUDhBc0YwTklEQW5LT3p2M3A1VXBFYk5ldU9lR1A3eHkyM3ZGeWZmSHhV?oc=5",
+          "published": "Mon, 23 Nov 2026 01:00:00 GMT"
+        },
+        {
+          "title": "Bharti Airtel (BHARTIARTL) Share Price Today (NSE), Market News - TechGraph",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dnhmenh5QjNTa0thRU5sVkRBemZ4SGIwcTZxSUtSSUdicWh4V2hMU1oyRHJIWGNPazAwRmJhOHN4Sl9WV080c3UycENkbWdPM3ktNmRMZWpQelJ1MmRiZlFUdlY?oc=5",
+          "published": "Sun, 06 Sep 2026 22:58:23 GMT"
+        }
+      ]
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "name": "BAJFINANCE",
+      "score": 75.0,
+      "indicators": {
+        "last_close": 1131.35,
+        "rsi": 65.8,
+        "sma20": 1046.53,
+        "sma50": 1006.57,
+        "sma200": null,
+        "volume_ratio_vs_20d_avg": 1.03,
+        "high_52w": 1158.8,
+        "low_52w": 865.23,
+        "pct_change_5d": 0.91,
+        "pct_change_20d": 23.15
+      },
+      "levels": {
+        "suggested_entry_zone": "1120.04 - 1142.66",
+        "target_price": 1158.8,
+        "stop_loss": 1004.67,
+        "risk_reward": 0.22
+      },
+      "sentiment": {
+        "label": "neutral",
+        "positive_hits": 0,
+        "negative_hits": 0,
+        "flagged_headlines": []
+      },
+      "headlines": [
+        {
+          "title": "Bajaj Finance Share Price Today Live NSE/BSE Graph & Chart - Kotak Neo",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QbThaMkRUMEJBUFVDbUZ6bC1XZUtuRzlObHpFdlV2UnBLZHRFbmpENWY5Q0VLNjF5eUFEdXA0bS1rMEx2RVZ4OTdQZl9NbThYTW5UZVNxZy1ESGRnX3dRbjQxN1g5Nk4xdmc?oc=5",
+          "published": "Sat, 17 Jan 2026 15:23:49 GMT"
+        },
+        {
+          "title": "Bajaj Finance Share Pros and Cons 2026: India's Largest Consumer NBFC Analysed - Univest",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UWnY5TldINGpvWkQtNklfeXFBdkdfNjFpVFQ2bjMxVlR3UnBfcVNGRVVTMnpiVmJlVmVBblBvWGdrMEdmakp4eU5JellPbUJZdXJvdkY4RWZjLVRtdUlXQ0pEQW5rVEVDQ2w5Nmhn?oc=5",
+          "published": "Thu, 06 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "BAJFINANCE Stock Price and Chart \u2014 NSE:BAJFINANCE - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIakxJbU5kQnhXWi1jQlNIcnNwLXpSTWhXZmhMaTFvcVJTUW1qM2xtR0J4cUFiRllud1FHWUxPWnhnMUZiNmlZV3pYbE9oUEZYTXd6TDFZZ3ByM2pmNERGRA?oc=5",
+          "published": "Fri, 21 Jul 2017 03:14:03 GMT"
+        },
+        {
+          "title": "BAJFINANCE Historical Data - Equitypandit",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpaTZZSUlUQVlNZ0FuaTl6UVU0Y3pyVm5feHFiNnNFWXlXVTVZRlkyeWRpNzAxeW80a1lfYldPMTFqVGVXbURMRi1fVmE3Tmo2RG5peExyaXh3RXBrS3UtZkZJM0x2dw?oc=5",
+          "published": "Fri, 05 Sep 2025 12:04:23 GMT"
+        },
+        {
+          "title": "Bajaj Finance Share Price Today - Bajaj Finance Ltd. Stock Price Live NSE/BSE - HDFC Sky",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50eGFKQ1poR0o1T19udENOZUpQMHVXTThrQXpDYmhkczJ2NlowQ0tES2lDdlkxbW9TaUhPbWFWbWRiZzV0cEpJeU5KcDVxMkxLQlVqMFZJMA?oc=5",
+          "published": "Wed, 30 Jul 2025 13:31:35 GMT"
+        }
+      ]
+    }
+  ]
+}
